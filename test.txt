@@ -1,0 +1,4607 @@
+
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/243-0
+00:03:02.262 --> 00:03:05.309
+<v Luk&#225;š ŠINAĽ>Neviem však ja teraz nejako predstavím.
+Hm,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/243-1
+00:03:05.309 --> 00:03:09.049
+<v Luk&#225;š ŠINAĽ>to vzniklo vlastne z toho stretnutia
+nášho interného,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/243-2
+00:03:09.049 --> 00:03:14.104
+<v Luk&#225;š ŠINAĽ>kde sme pozvali kolegovi si guľu.
+Tam sa otvorili tie dáta špecifikácia,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/243-3
+00:03:14.104 --> 00:03:18.329
+<v Luk&#225;š ŠINAĽ>to bolo nejaké 25.
+Novembra a tam by sme si chceli prejsť aj</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/243-4
+00:03:18.329 --> 00:03:23.730
+<v Luk&#225;š ŠINAĽ>tie volania na daj mesko a určiť nejaké
+nejakú tú politiku ako bude fungovať.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/243-5
+00:03:23.730 --> 00:03:26.362
+<v Luk&#225;š ŠINAĽ>Neviem ale prosím ťa pomôcť týmto iné.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/263-0
+00:03:27.442 --> 00:03:32.119
+<v Luk&#225;š ŠINAĽ>Uh ty spomínal,
+že bola v dobe si zrejme skom otvoriť tie</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/263-1
+00:03:32.119 --> 00:03:35.022
+<v Luk&#225;š ŠINAĽ>témy a je to aj pán šiva jančiči že.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/276-0
+00:03:36.202 --> 00:03:40.302
+<v Luk&#225;š ŠINAĽ>Ak máme na neho nejaké otázky,
+tak kľudne môžeme.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/278-0
+00:03:41.162 --> 00:03:41.702
+<v Luk&#225;š ŠINAĽ>Využiť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/290-0
+00:03:47.252 --> 00:03:48.162
+<v Luk&#225;š ŠINAĽ>Tak neviem že či.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/289-0
+00:03:47.302 --> 00:03:48.092
+<v Tom&#225;š Zeman>Tak poďme s.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/302-0
+00:03:47.602 --> 00:03:51.632
+<v Alexander JANOV>Však dajme známe slovo kolegom s čo je
+otvorené.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/330-0
+00:03:53.662 --> 00:03:58.333
+<v Lenka FERKOVOV&#193;>Toto vlastne sa stále ešte bavíme,
+keď do toho trošku skočím akože ok v</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/330-1
+00:03:58.333 --> 00:04:03.717
+<v Lenka FERKOVOV&#193;>štvorke čo sme mali požiadavky na zmenu,
+ukladanie dokumentov v podaní hej dodajme</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/330-2
+00:04:03.717 --> 00:04:03.912
+<v Lenka FERKOVOV&#193;>sk.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/333-0
+00:04:05.782 --> 00:04:06.722
+<v Dušan Pidanič>Áno áno, áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/336-0
+00:04:07.012 --> 00:04:07.942
+<v Alexander JANOV>Ten veľký exceli.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/341-0
+00:04:08.602 --> 00:04:09.392
+<v Dušan Pidanič>Áno áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/356-0
+00:04:08.762 --> 00:04:13.322
+<v Lenka FERKOVOV&#193;>Čiže taký taký excel hej čo sme hej alex
+posielal alebo teda dobre okej?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/352-0
+00:04:10.742 --> 00:04:11.432
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/389-0
+00:04:15.872 --> 00:04:19.468
+<v Dušan Pidanič>No dobre, tam sme si vlastne ten nechcel,
+bol jasný, to sme si prešli.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/389-1
+00:04:19.468 --> 00:04:23.470
+<v Dušan Pidanič>Veľa vecí bolo medzitým už malo by to
+stretnutia medzi tým s pánom pivárom sme</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/389-2
+00:04:23.470 --> 00:04:25.142
+<v Dušan Pidanič>už hovorili o niektorých veciach.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/402-0
+00:04:26.012 --> 00:04:31.320
+<v Dušan Pidanič>Takže uh,
+ja si len to prejdem čo tu mám poznačené,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/402-1
+00:04:31.320 --> 00:04:34.382
+<v Dušan Pidanič>teda aby to bolo ísť jasné uh.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/436-0
+00:04:35.192 --> 00:04:38.885
+<v Dušan Pidanič>Prílohy sa budú teda smerovanie.
+Príloh hej, začneme najprv týmto,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/436-1
+00:04:38.885 --> 00:04:42.412
+<v Dušan Pidanič>čiže budú budú chodiť presne tam ako je
+to určené v tom exceli,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/436-2
+00:04:42.412 --> 00:04:44.947
+<v Dušan Pidanič>čiže každá príloha bude mať svoju
+dokumentov,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/436-3
+00:04:44.947 --> 00:04:48.970
+<v Dušan Pidanič>no niektoré teda budú mať svoju
+dokumentov triedu a podľa tej sa to bude</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/436-4
+00:04:48.970 --> 00:04:49.632
+<v Dušan Pidanič>celé riadiť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/473-0
+00:04:50.302 --> 00:04:55.188
+<v Dušan Pidanič>To je vlastne jasné. Hm aj to,
+že niektoré podania nebudú mať kontaktnú</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/473-1
+00:04:55.188 --> 00:04:59.395
+<v Dušan Pidanič>skupinu, to bolo tým červeným.
+To vieme už aj teraz nastaviť,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/473-2
+00:04:59.395 --> 00:05:03.331
+<v Dušan Pidanič>ale to nie je problém,
+ale potom sme sa bavili aj s pánom</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/473-3
+00:05:03.331 --> 00:05:06.657
+<v Dušan Pidanič>pivárom,
+že celý problém vlastne vznikol z toho,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/473-4
+00:05:06.657 --> 00:05:09.982
+<v Dušan Pidanič>že budeme posielať toľko samostatných
+requestov.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/491-0
+00:05:10.772 --> 00:05:14.016
+<v Dušan Pidanič>Koľko je kombinácií cif verzus produktové
+číslo?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/491-1
+00:05:14.016 --> 00:05:18.982
+<v Dušan Pidanič>No a tam aby nám to nevznikalo toho veľa,
+tak sme sa vlastne povedali, že.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/552-0
+00:05:19.842 --> 00:05:24.076
+<v Dušan Pidanič>Na začiatku toho,
+aby vôbec som ho nejak začať fungovať</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/552-1
+00:05:24.076 --> 00:05:29.143
+<v Dušan Pidanič>musíme prerobiť prakticky tie hlavičky v
+tíme biznisovými časťami,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/552-2
+00:05:29.143 --> 00:05:34.889
+<v Dušan Pidanič>v každých každom formulári to znamená,
+lebo teraz aktuálne v každej podanie</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/552-3
+00:05:34.889 --> 00:05:39.426
+<v Dušan Pidanič>alebo každý formulár má biznisový
+častiach zoznam klientov,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/552-4
+00:05:39.426 --> 00:05:45.551
+<v Dušan Pidanič>zoznam produktov, zoznam rodných čísiel,
+zoznam nič a nijak to nieje medzi sebou</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/552-5
+00:05:45.551 --> 00:05:49.332
+<v Dušan Pidanič>prepojené. Hej,
+a to robí problém potom v sms ku.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/583-0
+00:05:49.742 --> 00:05:52.413
+<v Dušan Pidanič>Tým,
+ako má byť správne nastavené smerovanie</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/583-1
+00:05:52.413 --> 00:05:56.093
+<v Dušan Pidanič>do toho, d mestská,
+pretože doteraz to všetko chodilo ako tam</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/583-2
+00:05:56.093 --> 00:06:00.664
+<v Dušan Pidanič>bolo viac produktov alebo viac klientov
+tých cifier takto chodil cez čiarku,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/583-3
+00:06:00.664 --> 00:06:03.632
+<v Dušan Pidanič>čo nie je dobré cievka chodili z nejakého
+dôvodu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/613-0
+00:06:04.852 --> 00:06:08.872
+<v Dušan Pidanič>Ešte správne aj tú čiarku,
+ale to bol nejaký historických dôvodov.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/613-1
+00:06:08.872 --> 00:06:13.372
+<v Dušan Pidanič>Dámsku a produktové čísla nie preto boli
+aj tie problémy s tým, že prešov,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/613-2
+00:06:13.372 --> 00:06:16.132
+<v Dušan Pidanič>d meska iba 1 alebo podobne produktové
+číslo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/615-0
+00:06:16.992 --> 00:06:17.842
+<v Dušan Pidanič>No a.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/627-0
+00:06:21.372 --> 00:06:26.172
+<v Dušan Pidanič>Tu je potom ešte otázka,
+lebo naposledy sa to zmenilo tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/630-0
+00:06:28.112 --> 00:06:29.222
+<v Dušan Pidanič>Keď tu čítam.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/638-0
+00:06:32.442 --> 00:06:37.492
+<v Dušan Pidanič>Hm že pre produkty, ktoré budú mať red.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/679-0
+00:06:38.382 --> 00:06:43.581
+<v Dušan Pidanič>Niečo aj tu produktu dokumentov triedu sa
+bude 1 dokument k viacerým produktom</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/679-1
+00:06:43.581 --> 00:06:47.793
+<v Dušan Pidanič>ukladáme nasledovne,
+dokument k 1 produktu sa uloží štandardne,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/679-2
+00:06:47.793 --> 00:06:52.992
+<v Dušan Pidanič>čiže cez kryje produkt dokumentuje to čo
+voláme teraz a následne sa pre ďalšie</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/679-3
+00:06:52.992 --> 00:06:58.191
+<v Dušan Pidanič>produkty bude volať a to je nejaká tá
+úplne nová metóda a to je kopy produktov</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/679-4
+00:06:58.191 --> 00:06:58.652
+<v Dušan Pidanič>koment.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/706-0
+00:06:59.752 --> 00:07:05.142
+<v Dušan Pidanič>Pričom pri volaní sa použije dokument
+aids, ktoré systém vráti pri 1 volaní,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/706-1
+00:07:05.142 --> 00:07:08.852
+<v Dušan Pidanič>čiže toto platí,
+lebo to bol nejaký posledný status,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/706-2
+00:07:08.852 --> 00:07:12.702
+<v Dušan Pidanič>ktorý prišiel v pripomienke.
+Niekedy neviem naposledy.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/712-0
+00:07:16.102 --> 00:07:17.732
+<v J&#225;n PŘ&#205;VARA>Áno, zástupca dánsku to platí.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/735-0
+00:07:20.032 --> 00:07:22.828
+<v Dušan Pidanič>Dobré,
+lebo tým pádom keď na začiatku robíme tie</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/735-1
+00:07:22.828 --> 00:07:27.052
+<v Dušan Pidanič>biznisové táto tak ako som hovoril,
+že už to nebudú iba obyčajné zoznamy.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/768-0
+00:07:27.762 --> 00:07:33.507
+<v Dušan Pidanič>Tak uh prakticky už vieme docieliť to,
+aby boli tie produktové čísla verzus</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/768-1
+00:07:33.507 --> 00:07:39.253
+<v Dušan Pidanič>cievky smerované. Jednoznačne to znamená,
+že myslí to berieme nejaké cipko,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/768-2
+00:07:39.253 --> 00:07:42.882
+<v Dušan Pidanič>pozrieme,
+ktoré produktové čísla s ním súvisia.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/794-0
+00:07:43.832 --> 00:07:46.968
+<v Dušan Pidanič>A toľko regres to urobíme,
+koľko je tých kombinácií,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/794-1
+00:07:46.968 --> 00:07:50.874
+<v Dušan Pidanič>čiže cirkev verzus produktové čísla,
+ale už to nebude iba sci fi,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/794-2
+00:07:50.874 --> 00:07:54.602
+<v Dušan Pidanič>ale vždy to bude 1,
+lebo vždycky za 1 klienta sa to pošle tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/796-0
+00:07:56.582 --> 00:07:57.462
+<v J&#225;n PŘ&#205;VARA>Áno, presne tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/804-0
+00:08:00.702 --> 00:08:04.142
+<v Dušan Pidanič>Dobre a tu ešte otázka,
+lebo my nemáme len.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/835-0
+00:08:04.522 --> 00:08:07.224
+<v Alexander JANOV>Môžem že 100?
+Povedzme si nejaký príklad lenka skús</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/809-0
+00:08:05.352 --> 00:08:05.852
+<v Dušan Pidanič>Áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/835-1
+00:08:07.224 --> 00:08:11.381
+<v Alexander JANOV>možno tí biznisovo nejako alebo veronika
+neviem či nám to sedí to čo bolo teraz</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/835-2
+00:08:11.381 --> 00:08:13.772
+<v Alexander JANOV>povedané, lebo to je také dosť technicky,
+že?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/847-0
+00:08:16.562 --> 00:08:19.622
+<v Alexander JANOV>Dajme tomu máme nejakú krosovú nejaký no.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/873-0
+00:08:16.752 --> 00:08:20.021
+<v Lenka FERKOVOV&#193;>No hlavne ja by som sa ešte ja by som sa
+ešte opýtal,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/873-1
+00:08:20.021 --> 00:08:24.078
+<v Lenka FERKOVOV&#193;>že to súvisí aj s úpravou ako keby hm
+tých biznisových údajov hej,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/873-2
+00:08:24.078 --> 00:08:28.922
+<v Lenka FERKOVOV&#193;>že to sa bude robiť ruka v ruke že 1 aj 2
+aj úprava demská aj úprava aplikácie.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/867-0
+00:08:27.122 --> 00:08:27.572
+<v Dušan Pidanič>No.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/877-0
+00:08:29.042 --> 00:08:31.082
+<v Dušan Pidanič>B 1 bez 2 nevie byť áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/917-0
+00:08:31.692 --> 00:08:36.093
+<v Lenka FERKOVOV&#193;>A vy máte od nás nejaký potvrdenie
+potvrdené zadanie na úpravu tých</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/917-1
+00:08:36.093 --> 00:08:39.782
+<v Lenka FERKOVOV&#193;>biznisových údajov?
+Alebo my stále ako keby ešte poviem,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/917-2
+00:08:39.782 --> 00:08:44.377
+<v Lenka FERKOVOV&#193;>že na tom robíme aby sme to prerobili
+nejak logickejšie pre užívateľa.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/917-3
+00:08:44.377 --> 00:08:47.872
+<v Lenka FERKOVOV&#193;>Takže aby sme zas niečo nevymysleli,
+čo nebude úplne.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/916-0
+00:08:46.572 --> 00:08:47.512
+<v Dušan Pidanič>My nemáme.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/958-0
+00:08:48.092 --> 00:08:53.044
+<v Tom&#225;š Zeman>Takto my nemáme, hlavne na to zelenú,
+čiže čiže berieme, že je hrubé zadanie,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/932-0
+00:08:51.072 --> 00:08:52.212
+<v Lenka FERKOVOV&#193;>Dobre, okej?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/958-1
+00:08:53.044 --> 00:08:57.361
+<v Tom&#225;š Zeman>aby boli previazané tie veci.
+Ak sa bavíme o tom kde 100 čo sa týka</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/958-2
+00:08:57.361 --> 00:09:01.170
+<v Tom&#225;š Zeman>používateľského rozhrania,
+samozrejme vy tam máte priestor,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/958-3
+00:09:01.170 --> 00:09:03.392
+<v Tom&#225;š Zeman>to nejak ergonomické ešte usmerniť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1000-0
+00:09:04.892 --> 00:09:09.405
+<v Lenka FERKOVOV&#193;>Ergonomický sa to snažíme usmerniť najprv
+interne alebo my sme dali takéto zadanie</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1000-1
+00:09:09.405 --> 00:09:13.321
+<v Lenka FERKOVOV&#193;>tých biznisových údajoch. Hej,
+že budú také nejaké nové 2 tabule čky čo</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1000-2
+00:09:13.321 --> 00:09:15.659
+<v Lenka FERKOVOV&#193;>ak správne?
+Chápem vám pomôže práve k tomu</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1000-3
+00:09:15.659 --> 00:09:17.182
+<v Lenka FERKOVOV&#193;>previazaniu ciev k produktu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1002-0
+00:09:17.002 --> 00:09:18.052
+<v Tom&#225;š Zeman>Tak tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1023-0
+00:09:18.382 --> 00:09:22.371
+<v Lenka FERKOVOV&#193;>Tak ale že my by sme teda aby užívateľ
+naozaj klikal čo najmenej a má nejaký</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1023-1
+00:09:22.371 --> 00:09:25.272
+<v Lenka FERKOVOV&#193;>komfort chceli z 2 tabuliek.
+Napríklad že urobiť iba 1.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1092-0
+00:09:26.352 --> 00:09:31.073
+<v Tom&#225;š Zeman>Jasné, tak toto sú riešiteľné veci,
+len my máme. My sme v začarovanom kruhu,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1092-1
+00:09:31.073 --> 00:09:34.384
+<v Tom&#225;š Zeman>lebo vy máte objednať dobre.
+Ja len krátko sa vrátim,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1092-2
+00:09:34.384 --> 00:09:37.696
+<v Tom&#225;š Zeman>aby som vedel čo je problém a musíme to
+nejak rozťať,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1092-3
+00:09:37.696 --> 00:09:40.762
+<v Tom&#225;š Zeman>lebo vy máte objednané 4 zmeny,
+ktoré sa ukázali,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1092-4
+00:09:40.762 --> 00:09:44.992
+<v Tom&#225;š Zeman>ale že sú závislé od od tejto väčšej hej
+že máte máte báť, že na to,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1092-5
+00:09:44.992 --> 00:09:48.672
+<v Tom&#225;š Zeman>aby sme začali niečo robiť hej a proste
+kým neurobíme toto,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1092-6
+00:09:48.672 --> 00:09:50.082
+<v Tom&#225;š Zeman>tak nevieme zmysluplne.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1148-0
+00:09:50.162 --> 00:09:54.475
+<v Tom&#225;š Zeman>Potiahnutie 4 4 zmeny a plus sú tam
+nejaké ešte ďalšie požiadavky na</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1148-1
+00:09:54.475 --> 00:09:57.976
+<v Tom&#225;š Zeman>ukladanie dodajme sk,
+ktoré bez toho to nevieme urobiť,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1148-2
+00:09:57.976 --> 00:10:02.915
+<v Tom&#225;š Zeman>čiže musíme to nejak rozťať a začať robiť
+na analýze zas od vás vy by 100 mali</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1148-3
+00:10:02.915 --> 00:10:06.791
+<v Tom&#225;š Zeman>vedieť povedať čo chcete dosiahnuť a
+dušan vám vie odporučiť,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1148-4
+00:10:06.791 --> 00:10:11.104
+<v Tom&#225;š Zeman>že ako sa to dá dosiahnuť,
+že nemusíte to úplne vyšperkovať vy čo sa</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1148-5
+00:10:11.104 --> 00:10:12.542
+<v Tom&#225;š Zeman>týka zadané do detailu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1170-0
+00:10:13.082 --> 00:10:17.375
+<v Lenka FERKOVOV&#193;>My sme len tak trošku tiež rozmýšľali,
+ale zatiaľ teda iba s radkou. Teda poviem,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1170-1
+00:10:17.375 --> 00:10:20.412
+<v Lenka FERKOVOV&#193;>že tak alibisticky iba za korporátne
+podania na kataster.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1218-0
+00:10:21.552 --> 00:10:25.267
+<v Lenka FERKOVOV&#193;>A my potrebujeme. Áno,
+že teraz nám chceme používať aj gate</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1218-1
+00:10:25.267 --> 00:10:30.034
+<v Lenka FERKOVOV&#193;>global alebo sa breh alebo ako to voláme
+a chceme aby sme si ako keby vedeli</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1218-2
+00:10:30.034 --> 00:10:33.254
+<v Lenka FERKOVOV&#193;>vyhľadať klienta podľa identifikátorov,
+ktoré máme,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1218-3
+00:10:33.254 --> 00:10:37.650
+<v Lenka FERKOVOV&#193;>aby nám to ponúklo produkty a pokiaľ nám
+neviem, vyberiem si produkty,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1218-4
+00:10:37.650 --> 00:10:42.479
+<v Lenka FERKOVOV&#193;>ktoré mi nájde a plus vždy budem editovať,
+vedieť editovať a doplniť produkt,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1218-5
+00:10:42.479 --> 00:10:43.532
+<v Lenka FERKOVOV&#193;>ktorý mi nenájde.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1221-0
+00:10:44.052 --> 00:10:44.422
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1238-0
+00:10:44.432 --> 00:10:48.438
+<v Lenka FERKOVOV&#193;>To je taká 1 vec ktorá možno teraz tam
+nie je a ktorá myslím bola predmetom</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1238-1
+00:10:48.438 --> 00:10:49.282
+<v Lenka FERKOVOV&#193;>niekde od krstu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1243-0
+00:10:49.852 --> 00:10:52.032
+<v Dušan Pidanič>To vám príde. Áno, to sa dá.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1319-0
+00:10:52.502 --> 00:10:57.159
+<v Lenka FERKOVOV&#193;>A takisto potom zase, že zase idem hľadať.
+Hej môžem to chce doplniť ďalšieho</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1319-1
+00:10:57.159 --> 00:11:01.936
+<v Lenka FERKOVOV&#193;>klienta a zas ako keby vyberiem všetky
+produkty ktoré mi ponúkne plus tie čo mi</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1319-2
+00:11:01.936 --> 00:11:06.653
+<v Lenka FERKOVOV&#193;>neponúkne a takisto možnosť nenájdeme
+klienta musím hovoriť, doplniť manuálne,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1319-3
+00:11:06.653 --> 00:11:11.310
+<v Lenka FERKOVOV&#193;>nemala by byť prekážka pre li teľ ani
+napríklad že klient nemá cawko teraz je</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1319-4
+00:11:11.310 --> 00:11:14.654
+<v Lenka FERKOVOV&#193;>myslím povedať,
+že myslím niekde v centre kvestor blogu</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1319-5
+00:11:14.654 --> 00:11:18.296
+<v Lenka FERKOVOV&#193;>aj takáto požiadavka,
+že ja neviem či už toto nerobiť všetko</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1319-6
+00:11:18.296 --> 00:11:21.222
+<v Lenka FERKOVOV&#193;>naraz alebo či zas iba zobrať iba niečo a
+potom.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1325-0
+00:11:22.452 --> 00:11:24.102
+<v Lenka FERKOVOV&#193;>Zas podopĺňať takéto veci.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1350-0
+00:11:26.582 --> 00:11:30.743
+<v Dušan Pidanič>No ja tu mám súvislosti s týmto aj súbeh
+otvorený a práve tieto veci čo 100</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1350-1
+00:11:30.743 --> 00:11:32.112
+<v Dušan Pidanič>spomínali, lebo 1 vec je.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1366-0
+00:11:31.242 --> 00:11:34.797
+<v Lenka FERKOVOV&#193;>Toto je u mňa také,
+že čím by sme akože mali začať hej tak a</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1366-1
+00:11:34.797 --> 00:11:36.312
+<v Lenka FERKOVOV&#193;>tak a veľmi rýchla logika.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1399-0
+00:11:37.172 --> 00:11:40.599
+<v Dušan Pidanič>Možno zložito čísla už dostanete možnosť.
+Hm,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1399-1
+00:11:40.599 --> 00:11:46.782
+<v Dušan Pidanič>keď nenájde klienta alebo ako nerátal som,
+že že ho neviem nájsť v tomto sú bregu,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1399-2
+00:11:46.782 --> 00:11:50.582
+<v Dušan Pidanič>ale keď ona nenájde aby 100 ho vedeli
+zadať ručne.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1403-0
+00:11:51.332 --> 00:11:51.842
+<v Dušan Pidanič>Okej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1449-0
+00:11:51.442 --> 00:11:54.628
+<v Lenka FERKOVOV&#193;>Hej no vy tam máte taký,
+že keby tam ja neviem bola nejaká chyba</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1449-1
+00:11:54.628 --> 00:11:58.353
+<v Lenka FERKOVOV&#193;>na tom volaní alebo bol nejaký výpadok,
+tak vtedy ho viem doplniť manuálne,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1424-0
+00:11:54.822 --> 00:11:55.932
+<v Dušan Pidanič>Áno áno a my to.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1433-0
+00:11:57.292 --> 00:11:57.802
+<v Dušan Pidanič>Tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1449-2
+00:11:58.353 --> 00:12:02.422
+<v Lenka FERKOVOV&#193;>ale ja by som chcela vedieť neviem proste
+mať možnosť doplniť manuálne kedykoľvek.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1443-0
+00:11:59.972 --> 00:12:01.002
+<v Dušan Pidanič>A my to.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1476-0
+00:12:01.972 --> 00:12:04.622
+<v Dušan Pidanič>Áno áno, to isté vám doplníme,
+keď nenájde nič,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1476-1
+00:12:04.622 --> 00:12:08.653
+<v Dušan Pidanič>čiže budete mať prázdny zoznam,
+takisto tam budete mať to isté tlačítko,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1476-2
+00:12:08.653 --> 00:12:12.739
+<v Dušan Pidanič>zadať manuálne a vtedy vás vráti do
+formulára budete vyplňovať všetky tie</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1476-3
+00:12:12.739 --> 00:12:13.512
+<v Dušan Pidanič>veci manuálne.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1477-0
+00:12:13.652 --> 00:12:14.162
+<v Lenka FERKOVOV&#193;>Tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1492-0
+00:12:15.142 --> 00:12:18.472
+<v Dušan Pidanič>Takže to sa dá? To sú veci,
+ktoré sa dajú rýchlo vyriešiť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1485-0
+00:12:15.442 --> 00:12:15.852
+<v Lenka FERKOVOV&#193;>Tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1573-0
+00:12:18.372 --> 00:12:21.719
+<v Lenka FERKOVOV&#193;>A takisto teda,
+že vyhľadám klienta nájdeme nejakého hej</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1573-1
+00:12:21.719 --> 00:12:26.476
+<v Lenka FERKOVOV&#193;>napríklad takéhoto klientami nájde podľa
+tsi a ja vidím že má 5 produktov tak ja</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1573-2
+00:12:26.476 --> 00:12:30.881
+<v Lenka FERKOVOV&#193;>si vyklikáte 2 tak teda očakávam,
+že vy dostanete. Poviem tak veľmi ľahko,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1529-0
+00:12:30.722 --> 00:12:31.312
+<v Dušan Pidanič>Áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1573-3
+00:12:30.881 --> 00:12:35.168
+<v Lenka FERKOVOV&#193;>že 2 riadky hej a do dfka viem,
+že to chcem uložiť teda aj pot produkt 1</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1573-4
+00:12:35.168 --> 00:12:39.337
+<v Lenka FERKOVOV&#193;>aj pod produkt 2 a po túto cievku ale
+zároveň ten istý produkt sa môže</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1544-0
+00:12:35.832 --> 00:12:36.162
+<v Dušan Pidanič>Tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1573-5
+00:12:39.337 --> 00:12:42.215
+<v Lenka FERKOVOV&#193;>nachádzať ešte pod inou cievkou a iným
+klientom,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1573-6
+00:12:42.215 --> 00:12:46.913
+<v Lenka FERKOVOV&#193;>čiže pôjde to do dfka aj pod 1 cievkou aj
+pod 2 cievkou a pod tým myslím číslom</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1573-7
+00:12:46.913 --> 00:12:47.442
+<v Lenka FERKOVOV&#193;>produktu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1624-0
+00:12:47.732 --> 00:12:50.772
+<v Dušan Pidanič>Áno a platí to,
+že môže byť teda 1 produkt 1 číslo</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1624-1
+00:12:50.772 --> 00:12:55.244
+<v Dušan Pidanič>produktové môže byť na viacerých
+klientoch tak to platí a to isté platí aj</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1594-0
+00:12:54.262 --> 00:12:55.932
+<v Lenka FERKOVOV&#193;>Áno platí, áno to platí.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1624-2
+00:12:55.244 --> 00:12:58.821
+<v Dušan Pidanič>z opačnej strany,
+že 1 klient môže mať viacero produktových</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1624-3
+00:12:58.821 --> 00:13:01.921
+<v Dušan Pidanič>čísel len mi len mi kvôli tomu,
+lebo si predstavte,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1605-0
+00:12:59.782 --> 00:13:00.292
+<v Lenka FERKOVOV&#193;>Áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1624-4
+00:13:01.921 --> 00:13:06.392
+<v Dušan Pidanič>že keby sme mali ja neviem ako poviem
+extrémne podanie kde bude ja neviem.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1632-0
+00:13:07.042 --> 00:13:10.352
+<v Dušan Pidanič>5 klientov a 20 produktových čísel.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1649-0
+00:13:11.012 --> 00:13:13.935
+<v Dušan Pidanič>Tak my nevieme,
+ktoré je ktoré a nevieme to správne</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1649-1
+00:13:13.935 --> 00:13:16.072
+<v Dušan Pidanič>poslať. Teraz v tejto chvíli dfsg hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1658-0
+00:13:15.362 --> 00:13:18.365
+<v Lenka FERKOVOV&#193;>Jasné jasné,
+rozumiem rozumiem akože tu sa tiež bavíme</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1658-1
+00:13:18.365 --> 00:13:20.112
+<v Lenka FERKOVOV&#193;>o nejakých možno ne štandardoch.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1666-0
+00:13:20.802 --> 00:13:24.412
+<v Lenka FERKOVOV&#193;>My neviem,
+90 percent podaní bude podľa mňa 1 klient.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1669-0
+00:13:25.032 --> 00:13:25.492
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1703-0
+00:13:25.672 --> 00:13:29.266
+<v Lenka FERKOVOV&#193;>Produktu môže byť viac,
+lebo áno klienti akože môžu mať aj 2</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1703-1
+00:13:29.266 --> 00:13:33.273
+<v Lenka FERKOVOV&#193;>úvery tým kryté alebo viac,
+ale tak tých kníh no no môžu byť proste</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1703-2
+00:13:33.273 --> 00:13:36.513
+<v Lenka FERKOVOV&#193;>tieto situácie,
+ale taký extrém ako spomínate asi bude</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1703-3
+00:13:36.513 --> 00:13:37.692
+<v Lenka FERKOVOV&#193;>iba nejaký štandard.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1717-0
+00:13:39.272 --> 00:13:40.792
+<v Lenka FERKOVOV&#193;>Ktorý sa môže samozrejme stať.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1715-0
+00:13:39.362 --> 00:13:40.042
+<v Dušan Pidanič>Ale môže.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1716-0
+00:13:39.482 --> 00:13:40.512
+<v Alexander JANOV>A môžem sa spýtať?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1720-0
+00:13:41.522 --> 00:13:41.932
+<v Dušan Pidanič>Áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1743-0
+00:13:42.002 --> 00:13:47.872
+<v Alexander JANOV>Ten scenár ten telebanking test číslo
+produktu 1 a hneď pod tým 2 riadok,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1734-0
+00:13:47.282 --> 00:13:47.552
+<v Lenka FERKOVOV&#193;>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1743-1
+00:13:47.872 --> 00:13:50.252
+<v Alexander JANOV>že toto ako uložíme do tém sk.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1774-0
+00:13:51.732 --> 00:13:57.095
+<v Alexander JANOV>Tento to ako by sme toto sú 2 volania do
+2 kopy či je to ten?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1774-1
+00:13:57.095 --> 00:14:01.852
+<v Alexander JANOV>Povedzme si že či to je po novom po novom
+hej hej hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1769-0
+00:13:57.912 --> 00:14:01.012
+<v Dušan Pidanič>Ako ako po novom alebo tak ako to ide
+teraz?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1783-0
+00:14:01.142 --> 00:14:04.192
+<v Lenka FERKOVOV&#193;>Po novom a bavíme sa teda toto akože áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1788-0
+00:14:02.772 --> 00:14:04.672
+<v Alexander JANOV>Viem,
+že teraz to nejde dobre a teraz že po</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1788-1
+00:14:04.672 --> 00:14:05.882
+<v Alexander JANOV>novom ako to budeme ukladať?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1867-0
+00:14:07.522 --> 00:14:11.140
+<v J&#225;n PŘ&#205;VARA>Tak to ešte ale treba báť,
+že rozdiel medzi tým,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1867-1
+00:14:11.140 --> 00:14:16.087
+<v J&#225;n PŘ&#205;VARA>či sa jedná o výpadok dokumentov triedu
+alebo kobok dokumentu hej,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1815-0
+00:14:15.852 --> 00:14:17.112
+<v Dušan Pidanič>Áno áno, samozrejme.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1867-2
+00:14:16.087 --> 00:14:21.034
+<v J&#225;n PŘ&#205;VARA>čiže toto bude ten telebanking testov
+lacnejšie ako platný klient.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1867-3
+00:14:21.034 --> 00:14:26.498
+<v J&#225;n PŘ&#205;VARA>Hej čiže tam sa dá poslať kľudne že
+viacej fotiek alebo tu máme 1 cievku,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1867-4
+00:14:26.498 --> 00:14:32.627
+<v J&#225;n PŘ&#205;VARA>ale máme tam ešte viacej číslo produktov,
+čiže to asi 1 dokument na 1 klienta a či</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1867-5
+00:14:32.627 --> 00:14:37.722
+<v J&#225;n PŘ&#205;VARA>sa väčšina produktov čiže toto sa dá asi
+povedať keď vyplníte v tom.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1907-0
+00:14:38.132 --> 00:14:42.515
+<v J&#225;n PŘ&#205;VARA>V tomto geste,
+že podľa ferencza dáte tam 2 pokuty alebo</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1907-1
+00:14:42.515 --> 00:14:46.053
+<v J&#225;n PŘ&#205;VARA>ve?
+Lebo medziprodukt a takto to pôjde hej to</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1907-2
+00:14:46.053 --> 00:14:50.360
+<v J&#225;n PŘ&#205;VARA>čo je vlastne vyššiu tak je dokumentovať
+teda aj potok,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1907-3
+00:14:50.360 --> 00:14:53.282
+<v J&#225;n PŘ&#205;VARA>alebo sa tie šoky ktoré začne že dačo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1933-0
+00:14:59.782 --> 00:15:03.801
+<v Alexander JANOV>Vtedy sa vyrába tá kópia,
+čiže keby to ten telebanking test bol</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1933-1
+00:15:03.801 --> 00:15:08.322
+<v Alexander JANOV>fyzická osoba a nebola by tam išiel rodné
+číslo, tak by to išlo ako že.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1941-0
+00:15:08.772 --> 00:15:10.252
+<v J&#225;n PŘ&#205;VARA>Keby to bolo, že fyzická osoba.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1943-0
+00:15:09.032 --> 00:15:10.462
+<v Alexander JANOV>Išlo by 1 1.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2046-0
+00:15:11.182 --> 00:15:15.920
+<v J&#225;n PŘ&#205;VARA>Takéto vlastne máš povolanie, kde pošleš,
+že tam tú cievku a ďalší sa produktu</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2046-1
+00:15:15.920 --> 00:15:19.279
+<v J&#225;n PŘ&#205;VARA>jednotka 25 hej to vlastne zavoláš keď
+podať dokumenty,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/1963-0
+00:15:17.282 --> 00:15:17.582
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2046-2
+00:15:19.279 --> 00:15:24.138
+<v J&#225;n PŘ&#205;VARA>toho sa dokument dostane naspäť ičko hej
+a vlastne potom to 2 volanie to vlastne</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2046-3
+00:15:24.138 --> 00:15:28.457
+<v J&#225;n PŘ&#205;VARA>kopy podať dokument. To znamená,
+že iba vlastne už kópiu toho dokumentu</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2046-4
+00:15:28.457 --> 00:15:31.336
+<v J&#225;n PŘ&#205;VARA>hej a my si tam obmene ako referenciu
+medzitým,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2046-5
+00:15:31.336 --> 00:15:36.074
+<v J&#225;n PŘ&#205;VARA>čiže vlastne máš tú drzosť toho 1 volania
+hej a vložiť ho do toho testu toho 2</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2046-6
+00:15:36.074 --> 00:15:40.573
+<v J&#225;n PŘ&#205;VARA>volania AV tomto volaní vyplníš,
+že či sa putuje to dalo meno 2025 fyzicky</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2046-7
+00:15:40.573 --> 00:15:44.412
+<v J&#225;n PŘ&#205;VARA>sa v nemecku vytvorí ďalší dokument,
+čiže existujú 2 dokumenty.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2094-0
+00:15:44.512 --> 00:15:48.097
+<v J&#225;n PŘ&#205;VARA>Potok ale my to máme medzitým referenciu,
+to je už staré,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2094-1
+00:15:48.097 --> 00:15:50.817
+<v J&#225;n PŘ&#205;VARA>niekedy až 2018 boli hypotéka auto
+vzniklo,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2094-2
+00:15:50.817 --> 00:15:54.959
+<v J&#225;n PŘ&#205;VARA>volám to vlastne je pre použitie
+dokumentu hej, čiže vie sa o tom,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2094-3
+00:15:54.959 --> 00:15:59.472
+<v J&#225;n PŘ&#205;VARA>že v skutočnosti je to 1 dokument,
+ale ako keby 2 kopy v nemecku za tým.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2123-0
+00:16:07.762 --> 00:16:12.172
+<v Alexander JANOV>Ešte nejaká špecialitka, že čosi vymáhať,
+vymáhať si dokumenty?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2123-1
+00:16:12.172 --> 00:16:17.202
+<v Alexander JANOV>Takto sa tiež nejako inak ukladá alebo
+tiež ako korp či to je tiež korp.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2141-0
+00:16:17.102 --> 00:16:20.747
+<v Veronika NESPALOV&#193;>Je to rovnako ako korpa.
+My to máme iba cestu, že kam,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2134-0
+00:16:19.642 --> 00:16:20.002
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2141-1
+00:16:20.747 --> 00:16:22.072
+<v Veronika NESPALOV&#193;>takže je to rovnaké.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2150-0
+00:16:21.392 --> 00:16:24.582
+<v Alexander JANOV>Kolekcia us trieda je zasa nejak inak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2208-0
+00:16:23.192 --> 00:16:26.308
+<v Miroslava MICHŇOV&#193;>A ale áno presne navitel je to iné,
+my máme,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2208-1
+00:16:26.308 --> 00:16:31.780
+<v Miroslava MICHŇOV&#193;>neukladáme do hypo dog my máme samostatnú
+cestu na vymáhanie aj pre mňa je tam</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2208-2
+00:16:31.780 --> 00:16:37.182
+<v Miroslava MICHŇOV&#193;>dôležitá iba ičo alebo rodné číslo,
+že ja všetky a tie prihlášky a všetky tie</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2208-3
+00:16:37.182 --> 00:16:41.961
+<v Miroslava MICHŇOV&#193;>formuláre ako tam tie produktové číslo u
+mňa nezohráva žiadnu úlohu,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2208-4
+00:16:41.961 --> 00:16:45.562
+<v Miroslava MICHŇOV&#193;>no je tam možno niekde uvedené,
+že čoho sa to týka,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2208-5
+00:16:45.562 --> 00:16:50.272
+<v Miroslava MICHŇOV&#193;>ale viac menej ukladá sa mi to pod rodné
+číslo alebo pod ičo firmy.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2214-0
+00:16:51.412 --> 00:16:52.582
+<v Miroslava MICHŇOV&#193;>A nie pod hypo dok.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2224-0
+00:16:53.062 --> 00:16:55.862
+<v J&#225;n PŘ&#205;VARA>Dobre a to potom čo najlepšiu je.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2229-0
+00:16:55.462 --> 00:16:58.562
+<v Miroslava MICHŇOV&#193;>Do áno kolekciu vymáhanie,
+tak účasť tam máme.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2255-0
+00:16:59.162 --> 00:17:03.225
+<v J&#225;n PŘ&#205;VARA>Okej no dobre, to je ale dokumentovať,
+teda to je teraz plne novinka.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2255-1
+00:17:03.225 --> 00:17:06.649
+<v J&#225;n PŘ&#205;VARA>Ja som do tejto sekundy bral,
+že máme iba ipodoch ako boh,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2255-2
+00:17:06.649 --> 00:17:07.462
+<v J&#225;n PŘ&#205;VARA>ktoré riešime.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2270-0
+00:17:07.332 --> 00:17:14.252
+<v Miroslava MICHŇOV&#193;>Tam sú kvitancie a záložné práva,
+ale formuláre, prihlášky pohľadávok a.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2290-0
+00:17:15.372 --> 00:17:18.686
+<v Miroslava MICHŇOV&#193;>Ešte tam mám nejaké všeobecné podanie,
+tie sa zatiaľ neukladajú,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2290-1
+00:17:18.686 --> 00:17:21.745
+<v Miroslava MICHŇOV&#193;>ale teda formulár prihláška pohľadávky a
+súhrnná prihláška,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2290-2
+00:17:21.745 --> 00:17:23.682
+<v Miroslava MICHŇOV&#193;>tak tie idú do toho kolex n vymáhanie.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2315-0
+00:17:25.492 --> 00:17:29.300
+<v J&#225;n PŘ&#205;VARA>Okej no a tam tiež môže nastať tento istý
+prípad,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2315-1
+00:17:29.300 --> 00:17:34.402
+<v J&#225;n PŘ&#205;VARA>že treba uložiť 1 dokument na 1 klienta
+viacero číslo portu alebo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2323-0
+00:17:35.322 --> 00:17:35.852
+<v J&#225;n PŘ&#205;VARA>Alebo viacerých.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2341-0
+00:17:35.992 --> 00:17:38.729
+<v Miroslava MICHŇOV&#193;>Nie,
+lebo jak ja dávam všetky produkty do 1</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2341-1
+00:17:38.729 --> 00:17:42.462
+<v Miroslava MICHŇOV&#193;>súhrnnej prihlášky,
+takže tam mi to stačí uložiť pod toho 1</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2341-2
+00:17:42.462 --> 00:17:44.142
+<v Miroslava MICHŇOV&#193;>klienta pod to rodné číslo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2347-0
+00:17:44.822 --> 00:17:46.482
+<v J&#225;n PŘ&#205;VARA>Okej dobre čiže ak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2387-0
+00:17:47.422 --> 00:17:52.513
+<v J&#225;n PŘ&#205;VARA>Lebo nie som si istý jed a dokumentujem
+či pardon tá metóda ako by potom dokument</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2387-1
+00:17:52.513 --> 00:17:56.860
+<v J&#225;n PŘ&#205;VARA>podľa mňa máme ten úvahy potok,
+takže keď kódoch dokumentovať trieda,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2387-2
+00:17:56.860 --> 00:18:00.834
+<v J&#225;n PŘ&#205;VARA>chcete dokument ukladajú,
+iba že pre klienta sa nevyplnia čísla</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2387-3
+00:18:00.834 --> 00:18:04.932
+<v J&#225;n PŘ&#205;VARA>produktu alebo ak sa vypĺňa 1 či sa to tu,
+tak potom to v pohode.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2416-0
+00:18:07.012 --> 00:18:12.067
+<v Miroslava MICHŇOV&#193;>Áno, my to tam nepotrebujeme vôbec riešiť,
+takže tak ako sme fungovali doteraz ešte</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2416-1
+00:18:12.067 --> 00:18:16.099
+<v Miroslava MICHŇOV&#193;>keď to bolo na tom Slovensko sk,
+tak sa nám tie prihlášky ukladali</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2416-2
+00:18:16.099 --> 00:18:20.612
+<v Miroslava MICHŇOV&#193;>automaticky do toho kolekcie on a stačilo
+nám rodné číslo alebo alebo ičo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2418-0
+00:18:23.682 --> 00:18:24.452
+<v J&#225;n PŘ&#205;VARA>Dobre, okej?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2425-0
+00:18:26.532 --> 00:18:30.212
+<v Miroslava MICHŇOV&#193;>Ale korporát teda vy to máte veronika
+inak zase vymáhanie.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2432-0
+00:18:30.752 --> 00:18:32.682
+<v Veronika NESPALOV&#193;>Hej my sme rovnako ako lenka.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2446-0
+00:18:38.452 --> 00:18:42.144
+<v Lenka FERKOVOV&#193;>Vítam veronika,
+neriešite aj nejaký ten príznak váš či to</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2446-1
+00:18:42.144 --> 00:18:42.462
+<v Lenka FERKOVOV&#193;>egov.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2453-0
+00:18:44.802 --> 00:18:46.432
+<v Veronika NESPALOV&#193;>No ak ide o.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2463-0
+00:18:45.252 --> 00:18:49.522
+<v Lenka FERKOVOV&#193;>Vy to dávate ako do tej triedy ako keby
+workout alebo to?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2524-0
+00:18:48.302 --> 00:18:54.213
+<v Veronika NESPALOV&#193;>Tak to hej ak ak ide ak ide o formuláre
+navy na konkurzy a tieto veci tak to máme</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2524-1
+00:18:54.213 --> 00:18:58.611
+<v Veronika NESPALOV&#193;>presne do našej záložky,
+takže to každý vidí iba u nás. Hej,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2524-2
+00:18:58.611 --> 00:19:04.234
+<v Veronika NESPALOV&#193;>to znamená, že nepotrebujeme tam ten flak.
+No a ak by išlo o výmazy a vklady,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2494-0
+00:19:02.532 --> 00:19:02.802
+<v Lenka FERKOVOV&#193;>Mhm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2524-3
+00:19:04.234 --> 00:19:07.983
+<v Veronika NESPALOV&#193;>tak keby išli na biznis a tam
+nepotrebujeme o flek,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2524-4
+00:19:07.983 --> 00:19:12.452
+<v Veronika NESPALOV&#193;>lebo však to môžete vidieť,
+že teda kódované alebo to nie je,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2524-5
+00:19:12.452 --> 00:19:13.822
+<v Veronika NESPALOV&#193;>lebo to je verejná.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2521-0
+00:19:12.672 --> 00:19:13.142
+<v Lenka FERKOVOV&#193;>Hej hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2529-0
+00:19:14.522 --> 00:19:15.192
+<v Lenka FERKOVOV&#193;>Výborne.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2535-0
+00:19:14.572 --> 00:19:17.072
+<v Veronika NESPALOV&#193;>Takže nemáme.
+V tomto prípade nemáme nič špecifické.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2538-0
+00:19:17.282 --> 00:19:18.162
+<v Lenka FERKOVOV&#193;>Chvalabohu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2545-0
+00:19:18.532 --> 00:19:21.592
+<v Veronika NESPALOV&#193;>Hej bude to cestou alebo nie cestou?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2549-0
+00:19:22.032 --> 00:19:23.382
+<v Lenka FERKOVOV&#193;>Dobre dobre. Super dik.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2561-0
+00:19:28.812 --> 00:19:32.832
+<v Dušan Pidanič>Dobre, takže pre nás platí stále to,
+čo sme si povedali. Hej, čiže.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2575-0
+00:19:34.482 --> 00:19:39.382
+<v Dušan Pidanič>Mimo to,
+čiže mimo to tu dokumentov triedu podľa</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2575-1
+00:19:39.382 --> 00:19:39.782
+<v Dušan Pidanič>ods.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2592-0
+00:19:40.412 --> 00:19:43.178
+<v Dušan Pidanič>Tak chodí vždycky,
+keď bude viacero produktov.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2592-1
+00:19:43.178 --> 00:19:47.062
+<v Dušan Pidanič>Teraz neriešim, či môže nemôže nastať,
+to musím systémovo riešiť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2602-0
+00:19:47.882 --> 00:19:51.599
+<v Dušan Pidanič>Vyriešiť,
+takže keď bude viacero produktov,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2602-1
+00:19:51.599 --> 00:19:54.302
+<v Dušan Pidanič>tak máme samostatné volania. Hm?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2610-0
+00:19:58.222 --> 00:20:01.022
+<v Dušan Pidanič>Nie kopy ale to 1 kry jej doku produkt
+dokument tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2613-0
+00:20:01.952 --> 00:20:02.962
+<v J&#225;n PŘ&#205;VARA>Ano presne tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2641-0
+00:20:03.802 --> 00:20:09.929
+<v Dušan Pidanič>A keď to bude tá dokumentovať trieda hip
+odrôd tak 1 ide kryje produkt dokument a</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2641-1
+00:20:09.929 --> 00:20:14.189
+<v Dušan Pidanič>potom ide kopy,
+pričom do toho kopy 100 mi písali že tam</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2636-0
+00:20:12.512 --> 00:20:12.902
+<v J&#225;n PŘ&#205;VARA>Áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2641-2
+00:20:14.189 --> 00:20:14.712
+<v Dušan Pidanič>má byť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2652-0
+00:20:15.852 --> 00:20:20.432
+<v Dušan Pidanič>Ten uh to ide čko dokumenty z toho 1
+ktoré dostaneme.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2654-0
+00:20:20.912 --> 00:20:21.692
+<v J&#225;n PŘ&#205;VARA>Áno, presne tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2661-0
+00:20:22.402 --> 00:20:26.122
+<v Dušan Pidanič>Dobre, čiže to je vlastne to smerovanie,
+čiže toto je.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2665-0
+00:20:26.812 --> 00:20:28.002
+<v Dušan Pidanič>Viac menej jasné.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2672-0
+00:20:28.962 --> 00:20:30.482
+<v Dušan Pidanič>No a potom sme ešte mali.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2680-0
+00:20:32.412 --> 00:20:34.542
+<v Dušan Pidanič>Že ak je priložená cez ten link.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2735-0
+00:20:35.712 --> 00:20:40.951
+<v Dušan Pidanič>Tak sa tak egov nepredpisuje a to do
+nemecka sa nevkladá a teda ak ju</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2735-1
+00:20:40.951 --> 00:20:46.638
+<v Dušan Pidanič>nepodpisuje tak sa dodajme sk neukladá.
+Ak sa podpisuje tak sa do d mestská</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2735-2
+00:20:46.638 --> 00:20:52.551
+<v Dušan Pidanič>vkladá cez et dokument signature hej a
+tam sme sa myslím, že naposledy bavili,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2735-3
+00:20:52.551 --> 00:20:57.490
+<v Dušan Pidanič>že si mali dať vedieť,
+že či sa tam môže použiť aj iné dokumentu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2735-4
+00:20:57.490 --> 00:21:01.382
+<v Dušan Pidanič>Namiesto myslím, že ľudí toto bolo,
+mám taký pocit.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2743-0
+00:21:01.902 --> 00:21:06.094
+<v J&#225;n PŘ&#205;VARA>Áno áno,
+to som aj dal vedieť lukáš vedieť,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2743-1
+00:21:06.094 --> 00:21:06.952
+<v J&#225;n PŘ&#205;VARA>že tuším.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2748-0
+00:21:07.792 --> 00:21:09.282
+<v Luk&#225;š ŠINAĽ>Hej, to si mi spomínal.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2753-0
+00:21:09.492 --> 00:21:10.092
+<v J&#225;n PŘ&#205;VARA>Hej hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2758-0
+00:21:09.832 --> 00:21:10.992
+<v Dušan Pidanič>A neviem či sa to.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2759-0
+00:21:10.042 --> 00:21:11.192
+<v Luk&#225;š ŠINAĽ>Opísal som to určite.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2767-0
+00:21:11.832 --> 00:21:14.712
+<v Dušan Pidanič>Dostalo sa to k nám,
+lebo ja som to nezachytil.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2835-0
+00:21:16.632 --> 00:21:21.590
+<v J&#225;n PŘ&#205;VARA>Tak ak 100 nezachytili tak v každom
+prípade 1 som to a dá sa to skúšal som to</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2835-1
+00:21:21.590 --> 00:21:26.611
+<v J&#225;n PŘ&#205;VARA>cez joj bude to hej treba tam ešte to sme
+si možno nepovedali minulé treba tam</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2785-0
+00:21:22.062 --> 00:21:23.152
+<v Dušan Pidanič>Dá sa to hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2835-2
+00:21:26.611 --> 00:21:30.934
+<v J&#225;n PŘ&#205;VARA>vlastne vyplniť vždy nejaký jednoznačný
+identifikátor toho podpisu,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2835-3
+00:21:30.934 --> 00:21:33.985
+<v J&#225;n PŘ&#205;VARA>to je to čo aj ty a akože pri tých
+dokumentoch,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2807-0
+00:21:32.612 --> 00:21:33.002
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2835-4
+00:21:33.985 --> 00:21:38.498
+<v J&#225;n PŘ&#205;VARA>ktoré mali uniknúť to bolo celkom
+jednoduché. To sme mali takú dohodu,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2835-5
+00:21:38.498 --> 00:21:41.803
+<v J&#225;n PŘ&#205;VARA>že za škol,
+že to viečko podpisu vlastne bude údy a</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2835-6
+00:21:41.803 --> 00:21:46.062
+<v J&#225;n PŘ&#205;VARA>potom podčiarkovníka nejakej žiada 2 3 4
+5 6 to si vlastne videla?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2900-0
+00:21:46.142 --> 00:21:49.355
+<v J&#225;n PŘ&#205;VARA>Rezačka turnaji to trošku také,
+že môžme to nechať,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2900-1
+00:21:49.355 --> 00:21:53.927
+<v J&#225;n PŘ&#205;VARA>že na vás my potrebujeme zabezpečiť,
+aby to ježiško podpisu bolo unikátne</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2900-2
+00:21:53.927 --> 00:21:57.078
+<v J&#225;n PŘ&#205;VARA>kostole vlastne d mäsko,
+čiže musíme možno riešiť,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2858-0
+00:21:56.262 --> 00:21:56.812
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2900-3
+00:21:57.078 --> 00:22:00.786
+<v J&#225;n PŘ&#205;VARA>že že ako vlastne vysporiadať to
+vidličkou, aby sa nestalo,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2900-4
+00:22:00.786 --> 00:22:04.308
+<v J&#225;n PŘ&#205;VARA>že také už bude existovať.
+Potom mi vypíše nejakú chybu,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2900-5
+00:22:04.308 --> 00:22:07.520
+<v J&#225;n PŘ&#205;VARA>vrátime potom asi chybu,
+čiže treba si dohodnúť to,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2900-6
+00:22:07.520 --> 00:22:12.155
+<v J&#225;n PŘ&#205;VARA>že lebo vás aby 100 tam nedávali možné,
+že celé dokumenty nie som si istý,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2900-7
+00:22:12.155 --> 00:22:15.862
+<v J&#225;n PŘ&#205;VARA>či a koľko znakov umožňuje ten silný čaj
+by sa tam zmestiť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2922-0
+00:22:16.152 --> 00:22:19.057
+<v J&#225;n PŘ&#205;VARA>Medaily, lebo ten je dlhší toku,
+takže to iba možno doriešime,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2907-0
+00:22:18.272 --> 00:22:18.602
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2922-1
+00:22:19.057 --> 00:22:21.362
+<v J&#225;n PŘ&#205;VARA>ale to je maličkosť.
+V podstate treba zabezpečiť,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2922-2
+00:22:21.362 --> 00:22:24.682
+<v J&#225;n PŘ&#205;VARA>aby to naozaj bolo vždy niečo unikátneho
+nie je za tým žiadna kontrola.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2926-0
+00:22:25.312 --> 00:22:26.082
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/2927-0
+00:22:25.892 --> 00:22:26.522
+<v J&#225;n PŘ&#205;VARA>Tým čím sme.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3000-0
+00:22:27.312 --> 00:22:32.955
+<v Dušan Pidanič>Ešte keď sa môžem opýtať aj pri tom,
+keď bude tých viacero produktových čísel</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3000-1
+00:22:32.955 --> 00:22:37.947
+<v Dušan Pidanič>a my budeme my budeme vytvárať cez kryt
+pro tak dokument dajme tomu,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3000-2
+00:22:37.947 --> 00:22:43.156
+<v Dušan Pidanič>že nie tú hypo doc, ale normálne,
+čiže napríklad sú 2 produktové čísla,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3000-3
+00:22:43.156 --> 00:22:47.641
+<v Dušan Pidanič>tak dvakrát vytvoríme kryje podať
+dokument pre tú kombináciu,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3000-4
+00:22:47.641 --> 00:22:53.502
+<v Dušan Pidanič>čiže 1 produkt 1 ci v ko 2 produkt to
+isté cievkou hej a myslím, že tam to bolo,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3000-5
+00:22:53.502 --> 00:22:56.902
+<v Dušan Pidanič>že všetky dokumenty ktoré išli do tohto
+DM sk.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3029-0
+00:22:57.132 --> 00:23:03.231
+<v Dušan Pidanič>Sa podpisovali a to bolo presne cez toto
+tu cestu et dokument signature a tam sa</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3029-1
+00:23:03.231 --> 00:23:06.469
+<v Dušan Pidanič>dávalo,
+čiže keď to bude teraz dvojnásobné</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3029-2
+00:23:06.469 --> 00:23:12.192
+<v Dušan Pidanič>volanie tak máme ako keby poslať pre
+každé údy. Hm, ten dokument signature.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3085-0
+00:23:12.872 --> 00:23:16.224
+<v J&#225;n PŘ&#205;VARA>Áno pre každý dokument,
+lebo vlastne keď zavoláte ten kop bol</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3085-1
+00:23:16.224 --> 00:23:20.279
+<v J&#225;n PŘ&#205;VARA>tento dokument, tak vznikne rovnako.
+Vlastne vznikne dokument ako keby 100</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3085-2
+00:23:20.279 --> 00:23:23.901
+<v J&#225;n PŘ&#205;VARA>vytvárali cez tento kryt dokument
+dokument akoby obrátiť na nejakú</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3053-0
+00:23:23.642 --> 00:23:24.132
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3085-3
+00:23:23.901 --> 00:23:27.253
+<v J&#225;n PŘ&#205;VARA>referenciu, to je všetko,
+ale vlastne každý dokument musí byť</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3085-4
+00:23:27.253 --> 00:23:30.659
+<v J&#225;n PŘ&#205;VARA>samostatne podpísaný. Hej,
+čiže ku každému dokumentu si musíte</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3070-0
+00:23:29.152 --> 00:23:29.892
+<v Dušan Pidanič>Jasné.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3085-5
+00:23:30.659 --> 00:23:34.173
+<v J&#225;n PŘ&#205;VARA>poznať tie podpis, hej,
+čiže na 1 dlhý musíte zvlášť zavolať tie</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3085-6
+00:23:34.173 --> 00:23:35.092
+<v J&#225;n PŘ&#205;VARA>dokumenty kde čo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3087-0
+00:23:37.102 --> 00:23:37.542
+<v Dušan Pidanič>Dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3089-0
+00:23:38.682 --> 00:23:39.052
+<v Dušan Pidanič>Dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3106-0
+00:23:39.752 --> 00:23:42.620
+<v Lenka FERKOVOV&#193;>Ja sa tak možno hlúpo pýtam,
+ale každý dokument janči,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3106-1
+00:23:42.620 --> 00:23:45.072
+<v Lenka FERKOVOV&#193;>ktorý mi tu to budeme dávať nebude mať
+údy či?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3110-0
+00:23:47.132 --> 00:23:48.322
+<v J&#225;n PŘ&#205;VARA>Nemusí mať ody.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3125-0
+00:23:48.782 --> 00:23:52.808
+<v Lenka FERKOVOV&#193;>Nevadí to aj keď sa tu furt o tom bavíte,
+že to budete posielať cez súdy,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3125-1
+00:23:52.808 --> 00:23:55.202
+<v Lenka FERKOVOV&#193;>tak ja len že nemusíš tam byť na
+dokumente.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3163-0
+00:23:55.642 --> 00:23:58.649
+<v J&#225;n PŘ&#205;VARA>Nie lenka, práve tam sme riešili to,
+že presne tak,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3163-1
+00:23:58.649 --> 00:24:02.638
+<v J&#225;n PŘ&#205;VARA>že nemusia mať dokumenty ľudí a ja som
+mala si dosť, že má preveriť,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3163-2
+00:24:02.638 --> 00:24:05.414
+<v J&#225;n PŘ&#205;VARA>že či funguje to podpisovanie aj pre
+dokumenty,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3163-3
+00:24:05.414 --> 00:24:08.652
+<v J&#225;n PŘ&#205;VARA>ktoré nemajú údy aby sa to bolo, že áno,
+skúšal som to.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3154-0
+00:24:06.542 --> 00:24:07.032
+<v Lenka FERKOVOV&#193;>Okej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3158-0
+00:24:07.032 --> 00:24:07.772
+<v Dušan Pidanič>Tak tak tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3160-0
+00:24:08.252 --> 00:24:08.682
+<v Lenka FERKOVOV&#193;>Dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3228-0
+00:24:09.012 --> 00:24:13.694
+<v Dušan Pidanič>Áno, ale ja sa bavím aj o tých,
+ktoré vzniknú ako cez link ako tú prílohu,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3228-1
+00:24:13.694 --> 00:24:18.688
+<v Dušan Pidanič>ale aj to štandardne vložíme akože ako
+obyčajnú prílohu niekde spája systému do</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3228-2
+00:24:18.688 --> 00:24:23.869
+<v Dušan Pidanič>podania a táto príloha potom keď budem sk,
+tak on sa tiež musí dostať do d mestská</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3228-3
+00:24:23.869 --> 00:24:28.863
+<v Dušan Pidanič>toľkokrát ako keby koľko je týchto čísel
+verzus to klientske číslo a tým keď to</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3228-4
+00:24:28.863 --> 00:24:31.672
+<v Dušan Pidanič>budeme,
+lebo doteraz to vždy chodil iba rast</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3228-5
+00:24:31.672 --> 00:24:36.541
+<v Dušan Pidanič>prekazí šiel iba raz hej a to bolo zlé,
+lebo to išlo cez čiarku ja neviem čo,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3228-6
+00:24:36.541 --> 00:24:39.662
+<v Dušan Pidanič>takže teraz už keď sa to prerobil bude to
+chodiť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3279-0
+00:24:39.762 --> 00:24:43.010
+<v Dušan Pidanič>Dvakrát trikrát,
+keď to budú 3 produktové čísla,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3279-1
+00:24:43.010 --> 00:24:47.450
+<v Dušan Pidanič>tak mi to týka. Vložíme do dm sk,
+ale trikrát zavoláme et dokument</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3279-2
+00:24:47.450 --> 00:24:50.565
+<v Dušan Pidanič>signature.
+To som hovoril takže a to isté bude</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3279-3
+00:24:50.565 --> 00:24:55.934
+<v Dušan Pidanič>platiť aj tu, keď to pôjde cez to kopy,
+čiže aj cez ten 1 kried dokument tiež to</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3279-4
+00:24:55.934 --> 00:25:01.236
+<v Dušan Pidanič>vložíme cez ten signature a tak isto cez
+cesty kopy dostaneme tie ide čk a tiež</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3279-5
+00:25:01.236 --> 00:25:02.562
+<v Dušan Pidanič>tam priložíme potom.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3283-0
+00:25:04.092 --> 00:25:05.382
+<v Dušan Pidanič>Ten dokument signatúr.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3285-0
+00:25:06.642 --> 00:25:07.092
+<v Dušan Pidanič>Platí.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3289-0
+00:25:07.662 --> 00:25:08.432
+<v J&#225;n PŘ&#205;VARA>Tak platí.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3291-0
+00:25:10.562 --> 00:25:11.372
+<v Dušan Pidanič>Dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3293-0
+00:25:14.432 --> 00:25:15.122
+<v Dušan Pidanič>Dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3358-0
+00:25:16.322 --> 00:25:19.889
+<v Dušan Pidanič>Je to tu metódu našli,
+ešte sme nemali čas nejak pozrieť,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3358-1
+00:25:19.889 --> 00:25:25.116
+<v Dušan Pidanič>že ako má byť nastavená, ale 100 hovorili,
+že sa to podobne vypĺňa ako ako ako kryje</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3358-2
+00:25:25.116 --> 00:25:29.851
+<v Dušan Pidanič>dokument, kried, produkt dokument a kopy.
+Teraz mám na mysli hej, čiže kopy,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3332-0
+00:25:29.732 --> 00:25:30.892
+<v J&#225;n PŘ&#205;VARA>Áno, presne tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3358-3
+00:25:29.851 --> 00:25:34.771
+<v Dušan Pidanič>že sa to nejako takisto rovnako vypĺňa
+dobre myslí to ešte pozrieme a hovoríme,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3358-4
+00:25:34.771 --> 00:25:38.522
+<v Dušan Pidanič>keby niečo, tak sa ozvem,
+len aby principiálne mi to sedelo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3351-0
+00:25:35.902 --> 00:25:36.482
+<v J&#225;n PŘ&#205;VARA>Jasné.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3361-0
+00:25:41.472 --> 00:25:42.142
+<v Dušan Pidanič>No dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3398-0
+00:25:45.462 --> 00:25:50.377
+<v Dušan Pidanič>Takže kvázi takto by malo celé fungovať s
+tým, že sa musí opraviť. To bojí,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3398-1
+00:25:50.377 --> 00:25:55.356
+<v Dušan Pidanič>aby my sme tam prakticky posielali tie
+správne kombinácie tých tých cifier a</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3398-2
+00:25:55.356 --> 00:25:59.301
+<v Dušan Pidanič>produktových čísel,
+aby tam nevznikla ten karteziánsky súčin</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3398-3
+00:25:59.301 --> 00:26:00.982
+<v Dušan Pidanič>ako sa na začiatku bavili.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3401-0
+00:26:06.692 --> 00:26:07.912
+<v Dušan Pidanič>To je jasné.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3408-0
+00:26:09.532 --> 00:26:13.992
+<v Dušan Pidanič>Ešte keď tu sme aj v súvislosti s tým sú
+gregom.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3414-0
+00:26:16.052 --> 00:26:18.602
+<v Dušan Pidanič>Tak ja sa chcem len opýtať hm?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3443-0
+00:26:19.342 --> 00:26:23.460
+<v Dušan Pidanič>1 vec je to čo sme sa bavili čiže už
+teraz dostanete tu možnosť ako pridávať</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3443-1
+00:26:23.460 --> 00:26:26.454
+<v Dušan Pidanič>dokument. Ak sa nenašiel s tým,
+že keď sa nájde klient,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3443-2
+00:26:26.454 --> 00:26:30.412
+<v Dušan Pidanič>budete mať možnosť vytvoriť ručne,
+ale ešte potom tam vznikali také veci.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3447-0
+00:26:32.042 --> 00:26:35.252
+<v Dušan Pidanič>Že niekedy hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3453-0
+00:26:37.162 --> 00:26:40.192
+<v Dušan Pidanič>Keď vrátil uh, keď sa vrátilo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3455-0
+00:26:43.012 --> 00:26:44.082
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3490-0
+00:26:46.162 --> 00:26:50.363
+<v Dušan Pidanič>1 mäsko no teda,
+keď keď subreg vrátil nejaké údaje o</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3490-1
+00:26:50.363 --> 00:26:54.408
+<v Dušan Pidanič>klientovi, tak i čo mohlo byť 6,
+8 alebo 12 znakov?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3490-2
+00:26:54.408 --> 00:26:58.765
+<v Dušan Pidanič>Máte už ošetrené v nemecku,
+že môže byť 12 makové i čo?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3490-3
+00:26:58.765 --> 00:27:03.122
+<v Dušan Pidanič>Lebo doteraz to bolo myslím že tí čo sme
+mali 8 znakov.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3504-0
+00:27:03.862 --> 00:27:07.702
+<v J&#225;n PŘ&#205;VARA>U nás nakúpia to také. Existujú normálne,
+že slovenské hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3505-0
+00:27:06.452 --> 00:27:08.712
+<v Dušan Pidanič>No ták.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3514-0
+00:27:07.472 --> 00:27:11.432
+<v Alexander JANOV>Áno to sú. To sú organizačné zložky.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3510-0
+00:27:08.722 --> 00:27:10.172
+<v Lenka FERKOVOV&#193;>Máme také hej také.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3519-0
+00:27:11.822 --> 00:27:12.792
+<v Dušan Pidanič>Že to.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3532-0
+00:27:11.822 --> 00:27:16.483
+<v J&#225;n PŘ&#205;VARA>Tak tak nevedeli sme o tom akože mi tak
+väčšinou dávame naschvál,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3532-1
+00:27:16.483 --> 00:27:18.672
+<v J&#225;n PŘ&#205;VARA>že pás na kov navyše keby dačo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3547-0
+00:27:20.072 --> 00:27:22.390
+<v J&#225;n PŘ&#205;VARA>Ty ale neviem teraz presne ako sme niečo
+nastavili,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3547-1
+00:27:22.390 --> 00:27:25.154
+<v J&#225;n PŘ&#205;VARA>musíme to pozrieť a tak akože keď sa
+zatiaľ nikto nesťažoval,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3547-2
+00:27:25.154 --> 00:27:26.492
+<v J&#225;n PŘ&#205;VARA>tak možno že sa to tam zmestí.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3552-0
+00:27:27.852 --> 00:27:28.582
+<v J&#225;n PŘ&#205;VARA>Musím pozrieť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3626-0
+00:27:28.262 --> 00:27:31.086
+<v Dušan Pidanič>Takže takže môžme kľudne potom využívať
+aj 12 v,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3626-1
+00:27:31.086 --> 00:27:34.430
+<v Dušan Pidanič>lebo my to vieme potom tiež nastaviť už
+aj z toho titulu,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3626-2
+00:27:34.430 --> 00:27:38.177
+<v Dušan Pidanič>lebo teraz sa stávalo to,
+že 6 subjekty vrátil šestku a my máme.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3626-3
+00:27:38.177 --> 00:27:41.001
+<v Dušan Pidanič>Myslím,
+že v tých zlých časoch to bolo natvrdo 8</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3626-4
+00:27:41.001 --> 00:27:45.382
+<v Dušan Pidanič>znakov, lebo dakedy sa to nerobilo.
+Cez subreg a sa to zdalo cez 0 0 tých 6</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3592-0
+00:27:43.022 --> 00:27:43.622
+<v Lenka FERKOVOV&#193;>Tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3626-5
+00:27:45.382 --> 00:27:48.207
+<v Dušan Pidanič>čísel hej,
+tak ako klasický všade že 8 znakov to</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3626-6
+00:27:48.207 --> 00:27:51.493
+<v Dušan Pidanič>malo prakticky vždy,
+ale teraz keď je návrat zo submenu,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3626-7
+00:27:51.493 --> 00:27:54.836
+<v Dušan Pidanič>takto si vieme ošetriť,
+len už som rovno sa opýtal na to,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3626-8
+00:27:54.836 --> 00:27:57.142
+<v Dušan Pidanič>že či môže byť 12 tak asi áno tým pádom.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3686-0
+00:27:57.032 --> 00:28:00.931
+<v J&#225;n PŘ&#205;VARA>Pretože keby sa stalo to že to začne
+padať na nejakom prostredí a to skúsim</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3686-1
+00:28:00.931 --> 00:28:04.830
+<v J&#225;n PŘ&#205;VARA>ešte pozrieť ako fajn to pozriem,
+keď sa na to že zabudol alebo čo takto je</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3686-2
+00:28:04.830 --> 00:28:08.934
+<v J&#225;n PŘ&#205;VARA>najmenej to zdá akože zmeniť akože za
+chvíľku, čiže môžeme rátať s tým, že áno,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3654-0
+00:28:06.572 --> 00:28:06.972
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3686-3
+00:28:08.934 --> 00:28:12.680
+<v J&#225;n PŘ&#205;VARA>bude to povolené a maximálne keď niekde
+na nejakom byte to budeš aj ona,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3686-4
+00:28:12.680 --> 00:28:16.681
+<v J&#225;n PŘ&#205;VARA>keď nakoniec zistíte, že to nefunguje,
+treba dať vedieť a my to nevieme potom</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3685-0
+00:28:15.372 --> 00:28:16.992
+<v Dušan Pidanič>Okej, dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3686-5
+00:28:16.681 --> 00:28:17.092
+<v J&#225;n PŘ&#205;VARA>opraviť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3688-0
+00:28:18.492 --> 00:28:18.962
+<v Dušan Pidanič>Dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3700-0
+00:28:25.692 --> 00:28:29.528
+<v Dušan Pidanič>Dobre za mňa nahrubo všetko vlastne ja
+som dostal odpovede,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3700-1
+00:28:29.528 --> 00:28:31.062
+<v Dušan Pidanič>ktoré som chcel nateraz.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3719-0
+00:28:32.692 --> 00:28:36.303
+<v Dušan Pidanič>Ak nebráni tomu biznis vašej strany,
+o čom sme sa tu bavili,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3719-1
+00:28:36.303 --> 00:28:38.552
+<v Dušan Pidanič>tak to urobíme takto ako sme hovorili.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3738-0
+00:28:42.642 --> 00:28:47.936
+<v Dušan Pidanič>Alebo budeme čakať teda s tým boji?
+Lebo hovorím to rekvizita toho celého.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3738-1
+00:28:47.936 --> 00:28:52.172
+<v Dušan Pidanič>Je to vypĺňanie tých cifier k tých tých
+produktových čísel.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3744-0
+00:28:53.822 --> 00:28:54.752
+<v Dušan Pidanič>Takže neviem či.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3764-0
+00:28:54.132 --> 00:28:58.278
+<v Lenka FERKOVOV&#193;>No to je teraz asi na nás otázka,
+že či mám poslať nové zadanie,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3784-0
+00:28:56.742 --> 00:29:00.418
+<v Dušan Pidanič>Áno, áno, áno, áno áno,
+ale treba brať do úvahy aj to,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3764-1
+00:28:58.278 --> 00:29:00.192
+<v Lenka FERKOVOV&#193;>že ako to má vyzerať alebo že?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3784-1
+00:29:00.418 --> 00:29:05.364
+<v Dušan Pidanič>že fungujeme zo super egom hej čiže tam
+veľa vecí vám tam bude doťahovať,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3784-2
+00:29:05.364 --> 00:29:07.102
+<v Dušan Pidanič>toho sú bregu automaticky.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3787-0
+00:29:07.532 --> 00:29:08.092
+<v Lenka FERKOVOV&#193;>Hej hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3804-0
+00:29:08.882 --> 00:29:12.382
+<v Lenka FERKOVOV&#193;>Dobre,
+čiže my pošleme ako keby nové zadanie na</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3804-1
+00:29:12.382 --> 00:29:14.862
+<v Lenka FERKOVOV&#193;>tie biznisové údaje a dobre dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3803-0
+00:29:12.452 --> 00:29:14.062
+<v Dušan Pidanič>Áno, lebo to musíme urobiť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3812-0
+00:29:20.422 --> 00:29:23.222
+<v Luk&#225;š ŠINAĽ>A viem snáď nejaký termín dokedy len?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3818-0
+00:29:24.252 --> 00:29:25.282
+<v Luk&#225;š ŠINAĽ>Ako časo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3851-0
+00:29:24.382 --> 00:29:28.615
+<v Lenka FERKOVOV&#193;>No vieš čo akože my to máme hovorím za
+nás prejdené otázka je vieš zase sa</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3851-1
+00:29:28.615 --> 00:29:32.679
+<v Lenka FERKOVOV&#193;>dotýkame aj ostatných formulárov,
+takže možno keby veronika nevie mirka</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3851-2
+00:29:32.679 --> 00:29:35.783
+<v Lenka FERKOVOV&#193;>katka povedali,
+že kedy nám to vedia možno zrevidovať,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3851-3
+00:29:35.783 --> 00:29:37.702
+<v Lenka FERKOVOV&#193;>že ja to viem možno zajtra poslať.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3867-0
+00:29:41.812 --> 00:29:45.989
+<v Luk&#225;š ŠINAĽ>No viem že za katku toman kušou tak ona
+má do stredy nejakom workshope,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3867-1
+00:29:45.989 --> 00:29:48.252
+<v Luk&#225;š ŠINAĽ>čiže bude dostupná jeho štvrtok piatok.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3871-0
+00:29:49.322 --> 00:29:50.402
+<v Luk&#225;š ŠINAĽ>Čiže to na základku.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3874-0
+00:29:52.522 --> 00:29:53.082
+<v Luk&#225;š ŠINAĽ>A zvyšný.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3879-0
+00:29:52.932 --> 00:29:55.372
+<v Veronika NESPALOV&#193;>Dostanem v piatok cez dovolenku?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3888-0
+00:30:00.422 --> 00:30:03.712
+<v Veronika NESPALOV&#193;>Že keď mi dáš do konca týždňa čas,
+tak ti to pošlem.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3912-0
+00:30:06.062 --> 00:30:10.754
+<v Miroslava MICHŇOV&#193;>No a ja som tomu celkom nepochopila,
+teda za kolekciu on tiež máme tam niečo</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3912-1
+00:30:10.754 --> 00:30:13.923
+<v Miroslava MICHŇOV&#193;>prerábať, keď sme s tým okej,
+ako to teraz funguje,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3912-2
+00:30:13.923 --> 00:30:16.422
+<v Miroslava MICHŇOV&#193;>že to ukladá iba potom rodné číslo a ičo?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3922-0
+00:30:17.632 --> 00:30:21.222
+<v Miroslava MICHŇOV&#193;>Je tam nepotrebujem tie produkty žiadnu
+oddeliť čiarkou ničím.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3938-0
+00:30:21.822 --> 00:30:25.560
+<v Lenka FERKOVOV&#193;>My chceme ako keby tie neviem či
+používate vo vašich formulároch aj tie</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3938-1
+00:30:25.560 --> 00:30:26.702
+<v Lenka FERKOVOV&#193;>biznisové údaje alebo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3939-0
+00:30:26.252 --> 00:30:27.342
+<v Miroslava MICHŇOV&#193;>Používa meno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3959-0
+00:30:28.002 --> 00:30:32.584
+<v Lenka FERKOVOV&#193;>Takže či je otázka, že či teraz povedať,
+že takú zmenu ako chceme my použiť na</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3959-1
+00:30:32.584 --> 00:30:35.252
+<v Lenka FERKOVOV&#193;>všetky formuláre alebo iba na nejaké
+vybrané?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3986-0
+00:30:36.852 --> 00:30:41.386
+<v Lenka FERKOVOV&#193;>Lebo nám nevyhovuje to ako tie biznisové
+údaje teraz vyzerajú, aj to je problém,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3968-0
+00:30:38.932 --> 00:30:39.252
+<v Miroslava MICHŇOV&#193;>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3986-1
+00:30:41.386 --> 00:30:44.856
+<v Lenka FERKOVOV&#193;>nie iba to daj mesko,
+ale aj to ako keby tam jak tam zadávame</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3986-2
+00:30:44.856 --> 00:30:46.312
+<v Lenka FERKOVOV&#193;>teraz tie biznisové údaje.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/3993-0
+00:30:47.992 --> 00:30:50.932
+<v Dušan Pidanič>Ono je to zoznam hovorím zoznam 1 2 3.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4018-0
+00:30:52.332 --> 00:30:55.361
+<v Dušan Pidanič>Tých informácií ako mám na mysli vy
+neviete,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4018-1
+00:30:55.361 --> 00:31:00.612
+<v Dušan Pidanič>ktorý klient tých biznisových údajom a
+ktoré produktové čísla len viete čísla</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4018-2
+00:31:00.612 --> 00:31:03.642
+<v Dušan Pidanič>všetkých klientov,
+čísla všetkých produktov.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4027-0
+00:31:04.662 --> 00:31:08.302
+<v Dušan Pidanič>Alebo rodné číslo alebo ičo tak je to
+teraz aktuálne?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4064-0
+00:31:10.152 --> 00:31:16.072
+<v Dušan Pidanič>Ja mal by som nájsť nejaký spôsob,
+aby 100 práve videli tú informáciu medzi</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4064-1
+00:31:16.072 --> 00:31:22.148
+<v Dušan Pidanič>medzi medzi cievkou a medzi produktovým
+číslom a medzi celkom a rodným číslom</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4064-2
+00:31:22.148 --> 00:31:25.575
+<v Dušan Pidanič>alebo cievku máji čom podľa toho,
+či je to,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4064-3
+00:31:25.575 --> 00:31:28.302
+<v Dušan Pidanič>či je to firma alebo fyzická osoba.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4088-0
+00:31:31.772 --> 00:31:37.151
+<v Miroslava MICHŇOV&#193;>No a nedá sa toto pri prerobiť iba na
+tých formulároch kvitancia ah a vkladoch</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4088-1
+00:31:37.151 --> 00:31:41.032
+<v Miroslava MICHŇOV&#193;>záložných práv tých formulároch
+súvisiacich s katastrom.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4100-0
+00:31:42.132 --> 00:31:45.502
+<v Miroslava MICHŇOV&#193;>Že ty prihláškový formulár,
+aby sa nechali v pôvodnom stave.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4102-0
+00:31:46.952 --> 00:31:48.642
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4118-0
+00:31:51.332 --> 00:31:55.010
+<v Dušan Pidanič>Otázka je potom,
+vítam produktové čísla vôbec nemáte vy?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4118-1
+00:31:55.010 --> 00:31:56.882
+<v Dušan Pidanič>Máte iba rodné čísla a sýpka.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4138-0
+00:31:56.172 --> 00:32:02.675
+<v Miroslava MICHŇOV&#193;>Máme tam máme tam máme tam aj produktové,
+ale teda zatiaľ nám to bralo s tým 1 a to</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4138-1
+00:32:02.675 --> 00:32:06.392
+<v Miroslava MICHŇOV&#193;>na myslím, že vyhovuje,
+že aj korporátu aj nám.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4142-0
+00:32:07.452 --> 00:32:08.112
+<v Miroslava MICHŇOV&#193;>Retailu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4157-0
+00:32:07.632 --> 00:32:11.358
+<v Dušan Pidanič>No ja chápem,
+len keď náhodou príde do budúcna biznis</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4157-1
+00:32:11.358 --> 00:32:13.152
+<v Dušan Pidanič>budete mať 2 tak čo potom?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4166-0
+00:32:13.852 --> 00:32:18.562
+<v Miroslava MICHŇOV&#193;>Pk takto sa samostatne vkladá ďalším
+podaním.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4175-0
+00:32:19.822 --> 00:32:21.292
+<v Dušan Pidanič>Aha vy máte byť?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4192-0
+00:32:20.412 --> 00:32:24.776
+<v Miroslava MICHŇOV&#193;>Veronika tak to vy vkladáte,
+že keď máš keď máte 2 produkt takto</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4192-1
+00:32:24.776 --> 00:32:27.462
+<v Miroslava MICHŇOV&#193;>dávate samostatným samostatnú prihlášku?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4191-0
+00:32:25.602 --> 00:32:27.302
+<v Veronika NESPALOV&#193;>Hej my máme na každý.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4205-0
+00:32:28.202 --> 00:32:31.032
+<v Veronika NESPALOV&#193;>Ak mi ona každú každý produkt zvlášť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4201-0
+00:32:29.372 --> 00:32:29.882
+<v Miroslava MICHŇOV&#193;>No.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4223-0
+00:32:30.902 --> 00:32:34.436
+<v Dušan Pidanič>Čiže vám toto vyhovovalo viac menej vy
+100 vždycky mali by 100 v biznisových</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4212-0
+00:32:32.662 --> 00:32:33.132
+<v Miroslava MICHŇOV&#193;>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4223-1
+00:32:34.436 --> 00:32:36.502
+<v Dušan Pidanič>údajoch mali vždycky iba 1 produktové
+číslo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4224-0
+00:32:36.272 --> 00:32:36.682
+<v Veronika NESPALOV&#193;>Hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4226-0
+00:32:36.532 --> 00:32:36.982
+<v Miroslava MICHŇOV&#193;>Áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4245-0
+00:32:37.342 --> 00:32:39.132
+<v Lenka FERKOVOV&#193;>Chcela som sa pozrieť, ale nejde mi to.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4232-0
+00:32:37.662 --> 00:32:38.002
+<v Miroslava MICHŇOV&#193;>Ak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4237-0
+00:32:37.912 --> 00:32:38.562
+<v Dušan Pidanič>A.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4251-0
+00:32:38.032 --> 00:32:41.372
+<v Veronika NESPALOV&#193;>Akože mne to nie je to multi funkčné.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4295-0
+00:32:39.632 --> 00:32:45.130
+<v Dušan Pidanič>Ešte sa chcem opýtať pán prívara s tými s
+tými rodnými číslami AS tými čami,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4295-1
+00:32:45.130 --> 00:32:50.414
+<v Dušan Pidanič>lebo tu je vlastne kombinácia si asi
+cisko verzus toto ak náhodou bolo na</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4295-2
+00:32:50.414 --> 00:32:55.412
+<v Dušan Pidanič>podaní viacero klientov a viacero.
+Napríklad to bolo 4 fyzické osoby.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4295-3
+00:32:55.412 --> 00:32:59.482
+<v Dušan Pidanič>Vymýšľam si, zase preháňam,
+čiže 4 cirk a 4 rodné čísla.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4300-0
+00:33:00.482 --> 00:33:02.902
+<v Dušan Pidanič>Tak v tomto prípade.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4308-0
+00:33:03.622 --> 00:33:06.312
+<v Dušan Pidanič>Platí,
+že pred cievka takisto budeme posielať</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4308-1
+00:33:06.312 --> 00:33:07.482
+<v Dušan Pidanič>samostatný reg west.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4311-0
+00:33:10.692 --> 00:33:11.292
+<v J&#225;n PŘ&#205;VARA>No.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4352-0
+00:33:12.062 --> 00:33:17.321
+<v J&#225;n PŘ&#205;VARA>Nie som si istý či som to pochopil,
+ale tak to nemôže byť na hypo doku že</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4352-1
+00:33:17.321 --> 00:33:23.007
+<v J&#225;n PŘ&#205;VARA>viacej sci fi alebo viacej o nich čísiel
+je 1 ako ten tik a tora proste vždy to</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4352-2
+00:33:23.007 --> 00:33:25.992
+<v J&#225;n PŘ&#205;VARA>môže byť iba 1 kus iba 1 hodnota takže je.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4355-0
+00:33:26.042 --> 00:33:26.762
+<v Dušan Pidanič>Iste tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4377-0
+00:33:26.682 --> 00:33:30.684
+<v J&#225;n PŘ&#205;VARA>Áno hej presne tak,
+takže to jednoducho cievky alebo číslo</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4377-1
+00:33:30.684 --> 00:33:34.212
+<v J&#225;n PŘ&#205;VARA>žitý poste treba každú hodnotu zavolať
+smútok west.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4439-0
+00:33:35.402 --> 00:33:39.787
+<v J&#225;n PŘ&#205;VARA>A určite nemôže byť ani povedzme.
+Ešte táto funkcia totiž nemôže byť,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4439-1
+00:33:39.787 --> 00:33:44.611
+<v J&#225;n PŘ&#205;VARA>že pomiešať ako kebyže ja teraz neviem
+presne, lebo je to úzky nepoznám hej,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4439-2
+00:33:44.611 --> 00:33:49.560
+<v J&#225;n PŘ&#205;VARA>ale nemôže sa stať že pošlete ako kebyže
+vám z 1 kvetu že hodné číslo a cievku</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4439-3
+00:33:49.560 --> 00:33:52.442
+<v J&#225;n PŘ&#205;VARA>ktoré patria ako kebyže ku iným klientom
+hej,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4439-4
+00:33:52.442 --> 00:33:56.702
+<v J&#225;n PŘ&#205;VARA>lebo proste to musí byť že ten istý
+klient vždy na tomto dokumente.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4441-0
+00:33:56.152 --> 00:33:57.422
+<v Dušan Pidanič>Tak tak páči.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4465-0
+00:33:58.312 --> 00:34:01.662
+<v Dušan Pidanič>A tam je to vlastne jasné,
+čiže keď tých cifier bude viacej,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4465-1
+00:34:01.662 --> 00:34:04.792
+<v Dušan Pidanič>tak vždy 1 cirkus odpovedať buď 1 rodné
+číslo alebo ičo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4467-0
+00:34:06.072 --> 00:34:06.402
+<v J&#225;n PŘ&#205;VARA>Áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4476-0
+00:34:09.322 --> 00:34:11.202
+<v Dušan Pidanič>To je toľko kvetov. Koľko bude cifrík?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4489-0
+00:34:17.982 --> 00:34:22.812
+<v Alexander JANOV>1000 telíčko dočítaš do dosky či vôbec
+nepotrebujeme ho.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4561-0
+00:34:23.382 --> 00:34:26.489
+<v J&#225;n PŘ&#205;VARA>Misie odčítavame hm,
+keď keď sa pošle ibaže týka,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4561-1
+00:34:26.489 --> 00:34:31.275
+<v J&#225;n PŘ&#205;VARA>tak misy sa dočítame alebo opačne totiž
+funguje akurát že potom sú problémy.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4561-2
+00:34:31.275 --> 00:34:34.569
+<v J&#225;n PŘ&#205;VARA>Napríklad vznikajú vtedy,
+keď je to nový klient hej,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4561-3
+00:34:34.569 --> 00:34:39.789
+<v J&#225;n PŘ&#205;VARA>lebo my vlastne máme dáta zlodejsky hej a
+teda otázka je 1 deň stará ešte ako je to</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4561-4
+00:34:39.789 --> 00:34:43.767
+<v J&#225;n PŘ&#205;VARA>naozaj nový klient takýto stav vlastne až
+na 2 deň ku nám ešte,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4529-0
+00:34:40.562 --> 00:34:40.912
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4561-5
+00:34:43.767 --> 00:34:47.745
+<v J&#225;n PŘ&#205;VARA>lebo dodnes kým sa mi páči tam sú 2 dni,
+čiže ja neviem presne,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4540-0
+00:34:44.382 --> 00:34:44.692
+<v Alexander JANOV>Mhm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4561-6
+00:34:47.745 --> 00:34:52.530
+<v J&#225;n PŘ&#205;VARA>že aké sú to ruské si či to môže byť
+naozaj došiel dokument ku takému novému</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4561-7
+00:34:52.530 --> 00:34:54.022
+<v J&#225;n PŘ&#205;VARA>klientovi teraz vznikol.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4589-0
+00:34:54.112 --> 00:34:56.823
+<v J&#225;n PŘ&#205;VARA>Ktorým došlo nejaký dokument,
+neviem ak áno,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4589-1
+00:34:56.823 --> 00:35:01.522
+<v J&#225;n PŘ&#205;VARA>tak by potom mohlo byť vlastne vyššiu,
+ale zase máme obed a kým RN no povedz.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4585-0
+00:34:59.862 --> 00:35:00.582
+<v Alexander JANOV>Ja sa len.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4611-0
+00:35:01.342 --> 00:35:04.903
+<v Alexander JANOV>Že sa len kvôli tomu pýtam,
+že mi vlastne to cédečko budeme mať?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4611-1
+00:35:04.903 --> 00:35:08.409
+<v Alexander JANOV>Akú odpoveď zvolanie globalu?
+Takže my by sme to vedeli poslať.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4611-2
+00:35:08.409 --> 00:35:10.382
+<v Alexander JANOV>Hej že neviem, či to niečomu pomôže.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4665-0
+00:35:10.782 --> 00:35:14.652
+<v J&#225;n PŘ&#205;VARA>Áno a to že ti to pomôže,
+lebo pokiaľ teda tu máte k dispozícii,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4665-1
+00:35:14.652 --> 00:35:18.343
+<v J&#225;n PŘ&#205;VARA>tak najlepšie poslať,
+že cyklus cdčko mi tým pádom to nemusím</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4665-2
+00:35:18.343 --> 00:35:21.856
+<v J&#225;n PŘ&#205;VARA>hľadať v otázke,
+takže minimálne sa niečo ušetrí a vlastne</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4665-3
+00:35:21.856 --> 00:35:25.904
+<v J&#225;n PŘ&#205;VARA>aj sa potom skutočne nekúpia nejaké
+problémy, že máme tam dokument,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4665-4
+00:35:25.904 --> 00:35:28.643
+<v J&#225;n PŘ&#205;VARA>ktorý postihuje.
+Nenašli sme identifikátorom,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4665-5
+00:35:28.643 --> 00:35:32.811
+<v J&#225;n PŘ&#205;VARA>my potom máme nejaký mechanizmus,
+že to ďalší deň sa snažíme načítať,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4665-6
+00:35:32.811 --> 00:35:36.502
+<v J&#225;n PŘ&#205;VARA>ale tak načo zbytočne komplikovať,
+keď to viete posledné vás?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4689-0
+00:35:41.272 --> 00:35:44.094
+<v Dušan Pidanič>No otázka je,
+keď toto nevyrieši toho nového klienta</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4689-1
+00:35:44.094 --> 00:35:46.916
+<v Dušan Pidanič>alebo keď bude nový klient,
+tak sme sa práve bavili,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4689-2
+00:35:46.916 --> 00:35:49.632
+<v Dušan Pidanič>že oni ho budú musieť zadať ručne do
+tohto. Takže.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4686-0
+00:35:48.062 --> 00:35:48.402
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4704-0
+00:35:54.132 --> 00:35:56.902
+<v Dušan Pidanič>Cédečko tam chces aj dečku aj tak
+nebudeme mať.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4702-0
+00:35:54.182 --> 00:35:56.492
+<v Alexander JANOV>Ale minimálne to minimálne to vyrieši.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4804-0
+00:35:57.772 --> 00:36:01.940
+<v J&#225;n PŘ&#205;VARA>Takže ak máte sedačku a cievku tak
+najlepší pošlete aj cirkev aj srdiečko.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4713-0
+00:35:58.652 --> 00:35:59.682
+<v Alexander JANOV>Toho hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4804-1
+00:36:01.940 --> 00:36:05.496
+<v J&#225;n PŘ&#205;VARA>Ak vám nejaký identikit to chyba,
+takto môžete poslať bez toho,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4804-2
+00:36:05.496 --> 00:36:08.719
+<v J&#225;n PŘ&#205;VARA>aby si toto čítame a počítame to vlastne
+až na ďalší deň.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4804-3
+00:36:08.719 --> 00:36:13.220
+<v J&#225;n PŘ&#205;VARA>Potom to má taký dôsledok. Dajme tomu,
+že sa ten dokument nezaradí hneď okamžite</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4745-0
+00:36:08.742 --> 00:36:09.072
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4804-4
+00:36:13.220 --> 00:36:17.110
+<v J&#225;n PŘ&#205;VARA>pustia do nejakej svojej štruktúry,
+čo nie je vyššiu pre vaše systém.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4761-0
+00:36:13.882 --> 00:36:14.242
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4804-5
+00:36:17.110 --> 00:36:20.722
+<v J&#225;n PŘ&#205;VARA>Keď toto čítate cez dokument,
+ale možno vyššiu pre používateľov,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4804-6
+00:36:20.722 --> 00:36:25.279
+<v J&#225;n PŘ&#205;VARA>ktorí idú priamo na front tentoraz idem
+sk alebo to neuvidia nikde zaradený tento</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4804-7
+00:36:25.279 --> 00:36:29.002
+<v J&#225;n PŘ&#205;VARA>koňak váhy, čiže hovoril,
+že ak to máte lepšie poslať, lebo aspoň.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4798-0
+00:36:26.372 --> 00:36:26.942
+<v Dušan Pidanič>Jasné.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4852-0
+00:36:29.212 --> 00:36:32.055
+<v J&#225;n PŘ&#205;VARA>To je ako keby nejaký pocestný výkon.
+Keď to tak poviem, hej,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4852-1
+00:36:32.055 --> 00:36:34.578
+<v J&#225;n PŘ&#205;VARA>že musíme niečo hľadala dávať,
+lebo to už proste máme,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4852-2
+00:36:34.578 --> 00:36:36.596
+<v J&#225;n PŘ&#205;VARA>ale keď to nepôjde tak sa nič také
+nestane,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4852-3
+00:36:36.596 --> 00:36:39.623
+<v J&#225;n PŘ&#205;VARA>lebo ma tu máme nejaký mechanizmus,
+ktorý proste na to zareaguje.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4852-4
+00:36:39.623 --> 00:36:42.146
+<v J&#225;n PŘ&#205;VARA>Kedy na ďalšie iné ďalší deň tak máme tam
+nejaké také,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4836-0
+00:36:39.722 --> 00:36:40.132
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4839-0
+00:36:40.302 --> 00:36:40.622
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4852-5
+00:36:42.146 --> 00:36:44.852
+<v J&#225;n PŘ&#205;VARA>od ktorých 100 niekoľkokrát za sebou to
+snažíme zopakovať.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4874-0
+00:36:46.452 --> 00:36:49.524
+<v Alexander JANOV>Ešte sa spýtam,
+len mi prosím ťa ten scenár,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4874-1
+00:36:49.524 --> 00:36:53.484
+<v Alexander JANOV>že nemám klienta,
+že mi nikdy nevráti klienta to jej jaky</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4874-2
+00:36:53.484 --> 00:36:53.962
+<v Alexander JANOV>scenár?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4885-0
+00:36:55.652 --> 00:36:57.692
+<v Alexander JANOV>Skúsme sa na chvíľku o tom pobaviť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4899-0
+00:36:56.282 --> 00:36:58.764
+<v Lenka FERKOVOV&#193;>Vieš čo neviem ako sme sa k tomu
+nedopracovali,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4899-1
+00:36:58.764 --> 00:37:02.952
+<v Lenka FERKOVOV&#193;>ale mali sme nejaký testovací príklad,
+že sme možno že to bola chyba prostredia.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4910-0
+00:37:04.292 --> 00:37:08.152
+<v Lenka FERKOVOV&#193;>Minimálne môže byť, že nemám cievku,
+ktorú ktorá je teraz povinná.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4938-0
+00:37:09.712 --> 00:37:12.995
+<v Lenka FERKOVOV&#193;>Klient by asi mal byť keď sme s gay
+global,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4938-1
+00:37:12.995 --> 00:37:18.665
+<v Lenka FERKOVOV&#193;>len neviem ako je tam potom vyhľadávanie
+z podľa názvu. Nemám to odskúšané,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4938-2
+00:37:18.665 --> 00:37:20.232
+<v Lenka FERKOVOV&#193;>že keď nemajú cievku.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4942-0
+00:37:22.102 --> 00:37:22.862
+<v Lenka FERKOVOV&#193;>Ako mi ho?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4951-0
+00:37:23.222 --> 00:37:26.872
+<v Dušan Pidanič>Viete vyhľadať cez cievku cez rodné číslo
+alebo cez ičo?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4965-0
+00:37:27.792 --> 00:37:33.240
+<v Lenka FERKOVOV&#193;>No hm no a keď nepoznám,
+keď klient nemá cievku i čo nepoznám a</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4965-1
+00:37:33.240 --> 00:37:34.602
+<v Lenka FERKOVOV&#193;>viem jeho názov.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4970-0
+00:37:35.432 --> 00:37:36.282
+<v Dušan Pidanič>Ak to nevieme.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4981-0
+00:37:38.452 --> 00:37:41.262
+<v Dušan Pidanič>To nebolo zadanie,
+že by sme mali vyhľadávať podľa názvu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4980-0
+00:37:41.632 --> 00:37:42.682
+<v Alexander JANOV>Hm hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4990-0
+00:37:44.682 --> 00:37:47.292
+<v Dušan Pidanič>Ako nehovorím, že nevieme,
+ale aktuálne nevieme.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/4999-0
+00:37:47.292 --> 00:37:49.322
+<v Alexander JANOV>Tak aspoň niečo by som ho vidieť no.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5053-0
+00:37:49.542 --> 00:37:53.793
+<v Lenka FERKOVOV&#193;>No mohol len ak sú to zase vieš tie
+všetky organizačné jednotky alebo tie</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5004-0
+00:37:50.782 --> 00:37:51.302
+<v Alexander JANOV>Hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5053-1
+00:37:53.793 --> 00:37:56.321
+<v Lenka FERKOVOV&#193;>naše ičo snov pre nejaké fondy,
+ktoré máme.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5018-0
+00:37:54.572 --> 00:37:55.832
+<v Alexander JANOV>Uhm uhm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5053-2
+00:37:56.321 --> 00:38:00.227
+<v Lenka FERKOVOV&#193;>Dokonca mi pán vymyslené i čad ak ho
+nevieš ani ho nemáš kde nájsť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5027-0
+00:37:57.362 --> 00:37:57.732
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5053-3
+00:38:00.227 --> 00:38:03.502
+<v Lenka FERKOVOV&#193;>Ty môžeš v inom systéme podľa názvu,
+možno si ho nájdeš.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5052-0
+00:38:02.442 --> 00:38:04.592
+<v Alexander JANOV>Počkaj cez 12 miestnej čo neviem vyhľadať.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5065-0
+00:38:05.312 --> 00:38:09.352
+<v Lenka FERKOVOV&#193;>Nie keď sme tí čo snou to je myslím
+deväťmiestne. To je taká naša špecialita.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5064-0
+00:38:08.452 --> 00:38:08.802
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5070-0
+00:38:10.322 --> 00:38:11.782
+<v Alexander JANOV>2 12.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5078-0
+00:38:10.482 --> 00:38:13.602
+<v Lenka FERKOVOV&#193;>Ktoré používajú? Hm. Myslím, že.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5091-0
+00:38:12.852 --> 00:38:16.498
+<v Alexander JANOV>To sú tie organizačné zložky. Hej,
+to sú všelijaké tie rodičovské združenia.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5110-0
+00:38:14.802 --> 00:38:17.904
+<v Lenka FERKOVOV&#193;>No to ani nie,
+niečo tak toto sú naše vymyslené i čas</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5091-1
+00:38:16.498 --> 00:38:16.972
+<v Alexander JANOV>Neviem čo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5110-1
+00:38:17.904 --> 00:38:22.443
+<v Lenka FERKOVOV&#193;>doslova to nie je zapísané v or sr to je
+niečo čo sme si my interne vymysleli,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5110-2
+00:38:22.443 --> 00:38:26.292
+<v Lenka FERKOVOV&#193;>aby sme takýto subjekt vedeli evidovať
+našich bankových systémoch.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5114-0
+00:38:26.422 --> 00:38:27.902
+<v Alexander JANOV>Rozumiem zahraničné subjekty.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5134-0
+00:38:29.012 --> 00:38:33.242
+<v Lenka FERKOVOV&#193;>Nemusia no áno,
+ale to sú aj také nemusia byť zahraničné</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5120-0
+00:38:29.392 --> 00:38:30.672
+<v Alexander JANOV>9 9 deviatkové hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5134-1
+00:38:33.242 --> 00:38:35.172
+<v Lenka FERKOVOV&#193;>to môžu byť aj naše fondy.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5136-0
+00:38:36.622 --> 00:38:37.712
+<v Alexander JANOV>Áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5164-0
+00:38:39.272 --> 00:38:42.801
+<v Lenka FERKOVOV&#193;>Čiže akože vieš mi už pracujeme naozaj s
+tými rôznymi neštandardnými,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5146-0
+00:38:40.402 --> 00:38:41.062
+<v Alexander JANOV>Pk?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5164-1
+00:38:42.801 --> 00:38:46.129
+<v Lenka FERKOVOV&#193;>ale určite sa s nimi stretneme,
+tak by sme chceli nejak podchytiť</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5164-2
+00:38:46.129 --> 00:38:47.742
+<v Lenka FERKOVOV&#193;>najväčšiu množinu takýchto vecí.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5180-0
+00:38:57.242 --> 00:39:01.818
+<v Lenka FERKOVOV&#193;>Čo neviem teraz či chcete pridávať sa ide
+a my ešte chceme prijať vyhľadávanie</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5180-1
+00:39:01.818 --> 00:39:03.092
+<v Lenka FERKOVOV&#193;>podľa názvu napríklad.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5194-0
+00:39:04.062 --> 00:39:10.662
+<v Dušan Pidanič>O to je 1 z vecí ale uh to by sa ešte
+dalo podľa mňa zlú. Ako nehovorím, že nie.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5224-0
+00:39:11.142 --> 00:39:14.515
+<v Lenka FERKOVOV&#193;>A takisto že neviem teda,
+že na aké formuláre toto použiť,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5224-1
+00:39:14.515 --> 00:39:18.518
+<v Lenka FERKOVOV&#193;>lebo my určite budeme to chcieť použiť na
+tie vklady a na tie výmazy.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5224-2
+00:39:18.518 --> 00:39:22.692
+<v Lenka FERKOVOV&#193;>A takisto možno že v budúcnosti budeme
+používať tieto všeobecné podanie.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5237-0
+00:39:24.502 --> 00:39:29.014
+<v Dušan Pidanič>Hm subjekt by som dal akože jednotne,
+to už nech si vyhľadáva každý podľa čoho</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5237-1
+00:39:29.014 --> 00:39:29.642
+<v Dušan Pidanič>chce takže.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5260-0
+00:39:30.022 --> 00:39:33.892
+<v Lenka FERKOVOV&#193;>Ale myslím akože zmeniť tie biznisové
+údaje vlastne v tých formulároch ako túto</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5260-1
+00:39:33.892 --> 00:39:36.214
+<v Lenka FERKOVOV&#193;>kolegynka hovoria,
+že oni to vlastne potrebujú.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5260-2
+00:39:36.214 --> 00:39:39.552
+<v Lenka FERKOVOV&#193;>Ja neviem ako ten ich formulár úprimne
+vyzerá, lebo nemám tam právo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5262-0
+00:39:40.132 --> 00:39:40.462
+<v Lenka FERKOVOV&#193;>Taxi.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5269-0
+00:39:41.162 --> 00:39:43.832
+<v Dušan Pidanič>Ale biznisové vyzerajú rovnako, keď to má.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5274-0
+00:39:45.972 --> 00:39:48.202
+<v Dušan Pidanič>Ona nemusí vypĺňať.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5284-0
+00:39:50.162 --> 00:39:53.452
+<v Dušan Pidanič>Niektoré údaje podľa toho,
+ako to na danom formulári nastavené.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5294-0
+00:39:53.992 --> 00:39:56.662
+<v Lenka FERKOVOV&#193;>Čo majú nejakú inú sadu povinných alebo
+nepovinných hej?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5296-0
+00:39:57.462 --> 00:39:57.862
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5307-0
+00:40:05.682 --> 00:40:07.824
+<v Dušan Pidanič>Len to vyhovuje kvôli tomu,
+že kolegyňa hovorila,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5307-1
+00:40:07.824 --> 00:40:09.152
+<v Dušan Pidanič>že mala len 1 produktové číslo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5314-0
+00:40:09.972 --> 00:40:12.912
+<v Lenka FERKOVOV&#193;>Rozumiem, rozumiem teraz rozmýšľam,
+že hovorím, že.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5333-0
+00:40:13.712 --> 00:40:18.902
+<v Lenka FERKOVOV&#193;>Všeobecné podanie teraz otázka do
+tatrabanky, kto všetko používate?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5333-1
+00:40:18.902 --> 00:40:21.192
+<v Lenka FERKOVOV&#193;>Veronika vy a mirka u vás hej?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5345-0
+00:40:22.372 --> 00:40:26.312
+<v Veronika NESPALOV&#193;>Hm a takisto aj andrejka bieliková.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5339-0
+00:40:23.192 --> 00:40:23.712
+<v Miroslava MICHŇOV&#193;>Áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5357-0
+00:40:25.702 --> 00:40:28.621
+<v Lenka FERKOVOV&#193;>Andrejka dobre a viem,
+že aj katka vlastne ma v nejakom</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5357-1
+00:40:28.621 --> 00:40:30.342
+<v Lenka FERKOVOV&#193;>pracovnom postupe, že v nejakých.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5366-0
+00:40:29.432 --> 00:40:31.934
+<v Veronika NESPALOV&#193;>Myslím,
+že aj zuzka holúbková ho vie použiť,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5365-0
+00:40:31.482 --> 00:40:32.492
+<v Lenka FERKOVOV&#193;>Hm no.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5366-1
+00:40:31.934 --> 00:40:32.712
+<v Veronika NESPALOV&#193;>ak sa nemýlim.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5401-0
+00:40:33.202 --> 00:40:37.109
+<v Lenka FERKOVOV&#193;>Vieš, lebo napríklad my tiež,
+pokiaľ alex nevymyslíme niečo inak sme sa</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5401-1
+00:40:37.109 --> 00:40:39.606
+<v Lenka FERKOVOV&#193;>kedysi bavili,
+že vieš nám príde niečo nejaké</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5401-2
+00:40:39.606 --> 00:40:43.459
+<v Lenka FERKOVOV&#193;>pozastavenie z katastru alebo nejaká
+výzva na odstránenie nedostatkov.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5401-3
+00:40:43.459 --> 00:40:46.932
+<v Lenka FERKOVOV&#193;>My budeme musieť vedieť odpovedať potom
+tým všeobecným podaním.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5406-0
+00:40:51.602 --> 00:40:52.642
+<v Lenka FERKOVOV&#193;>Tam asi teda.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5411-0
+00:40:52.132 --> 00:40:54.392
+<v Alexander JANOV>A tam tiež zadefinovať klienta produkty.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5422-0
+00:40:55.092 --> 00:40:58.152
+<v Dušan Pidanič>Ale tam je myslím že iba 1.
+Mám taký pocit.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5418-0
+00:40:55.442 --> 00:40:56.612
+<v Lenka FERKOVOV&#193;>No no.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5435-0
+00:40:58.172 --> 00:41:01.217
+<v Lenka FERKOVOV&#193;>No,
+ale tiež budem potrebovať vlastne tam mať</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5435-1
+00:41:01.217 --> 00:41:03.932
+<v Lenka FERKOVOV&#193;>také isté tie biznisové údaje ako v tých.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5444-0
+00:41:05.282 --> 00:41:07.712
+<v Lenka FERKOVOV&#193;>Formulár,
+čo sa teraz bavíme v tých katastrálnych.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5443-0
+00:41:06.072 --> 00:41:07.442
+<v Alexander JANOV>Áno, len nepovinné.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5446-0
+00:41:08.032 --> 00:41:08.352
+<v Alexander JANOV>Hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5457-0
+00:41:09.462 --> 00:41:11.862
+<v Lenka FERKOVOV&#193;>Aby sa mi to takisto uložilo tiež do
+nemecka.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5459-0
+00:41:12.782 --> 00:41:13.292
+<v Lenka FERKOVOV&#193;>Nejako.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5478-0
+00:41:16.392 --> 00:41:18.902
+<v Dušan Pidanič>Teraz neviem,
+či vôbec všeobec všeobecné podanie asi</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5463-0
+00:41:16.792 --> 00:41:17.262
+<v Alexander JANOV>Zase.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5478-1
+00:41:18.902 --> 00:41:20.702
+<v Dušan Pidanič>ani nechodí. Do dneska mám taký pocit.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5482-0
+00:41:19.982 --> 00:41:23.052
+<v Lenka FERKOVOV&#193;>Ale určite určite bude niekedy.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5524-0
+00:41:27.102 --> 00:41:29.541
+<v Lenka FERKOVOV&#193;>Alebo hovorím,
+my sme sa tam alex raz bavili.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5524-1
+00:41:29.541 --> 00:41:32.881
+<v Lenka FERKOVOV&#193;>Neviem či si spomínaš,
+že budeme mať dole v tých možnostiach v</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5524-2
+00:41:32.881 --> 00:41:35.745
+<v Lenka FERKOVOV&#193;>tom zobáčiku,
+že odpovedať všeobecným podaním a možno</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5524-3
+00:41:35.745 --> 00:41:38.502
+<v Lenka FERKOVOV&#193;>že to potom nejako špecifikovať iba na
+tie prípady.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5521-0
+00:41:36.992 --> 00:41:37.402
+<v Alexander JANOV>No.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5531-0
+00:41:39.382 --> 00:41:42.092
+<v Alexander JANOV>To už máme implementované, nie pre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5539-0
+00:41:41.542 --> 00:41:43.382
+<v Lenka FERKOVOV&#193;>Ale aj na katastroch.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5538-0
+00:41:41.882 --> 00:41:43.202
+<v Dušan Pidanič>Hm áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5546-0
+00:41:43.722 --> 00:41:45.452
+<v Alexander JANOV>Pre workoutové agendy.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5544-0
+00:41:43.892 --> 00:41:44.442
+<v Dušan Pidanič>Nie.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5553-0
+00:41:45.922 --> 00:41:48.992
+<v Lenka FERKOVOV&#193;>No ale teda zas hovorím o tom katastri.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5556-0
+00:41:50.102 --> 00:41:50.512
+<v Alexander JANOV>Zákon.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5564-0
+00:41:51.772 --> 00:41:53.865
+<v Miroslava MICHŇOV&#193;>Áno,
+v prihláškach to máme zodpovedať</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5564-1
+00:41:53.865 --> 00:41:54.912
+<v Miroslava MICHŇOV&#193;>všeobecným podaním.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5592-0
+00:42:31.462 --> 00:42:35.009
+<v Lenka FERKOVOV&#193;>Ale to vás preklikne do toho klasického
+formulára všeobecné podanie. Hej teda,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5592-1
+00:42:35.009 --> 00:42:37.972
+<v Lenka FERKOVOV&#193;>aby som sa teda ja nejako zorientovala,
+keďže to nepoužívam ešte.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5601-0
+00:42:37.842 --> 00:42:40.642
+<v Dušan Pidanič>Áno áno, lebo nejak vyplní to všeobecné.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5615-0
+00:42:41.112 --> 00:42:44.953
+<v Lenka FERKOVOV&#193;>No a tam ja budem potrebovať poviem teraz
+tak sebecky vyplniť tú svoju sadu údajov</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5615-1
+00:42:44.953 --> 00:42:45.462
+<v Lenka FERKOVOV&#193;>za klienta.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5617-0
+00:42:46.142 --> 00:42:46.612
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5638-0
+00:42:47.582 --> 00:42:51.069
+<v Dušan Pidanič>No ono je to všeobecné podanie,
+má tú biznisovú časť rovnakú,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5638-1
+00:42:51.069 --> 00:42:54.106
+<v Dušan Pidanič>akurát tam sa dá myslím,
+že iba pol 1 atribút pridať,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5638-2
+00:42:54.106 --> 00:42:55.062
+<v Dušan Pidanič>že nie je mov ty.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5640-0
+00:42:56.802 --> 00:42:57.262
+<v Dušan Pidanič>Ale.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5664-0
+00:42:58.662 --> 00:43:01.480
+<v Dušan Pidanič>Ako toto si treba tiež premyslieť.
+Potom sa s tým všeobecným,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5664-1
+00:43:01.480 --> 00:43:04.843
+<v Dušan Pidanič>lebo aj teraz síce keď odpovedáme
+odpovedať všeobecne podaním a všeobecné</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5664-2
+00:43:04.843 --> 00:43:06.252
+<v Dušan Pidanič>podanie nejde do dánska určite.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5666-0
+00:43:07.792 --> 00:43:08.472
+<v Dušan Pidanič>Aktuálne.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5677-0
+00:43:52.442 --> 00:43:53.502
+<v Alexander JANOV>Keď ich ostalo nie.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5679-0
+00:43:53.872 --> 00:43:54.352
+<v Tom&#225;š Zeman>Hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5684-0
+00:43:54.482 --> 00:43:55.512
+<v Lenka FERKOVOV&#193;>Nikto nevie čo?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5704-0
+00:43:55.742 --> 00:43:59.800
+<v Dušan Pidanič>Hej,
+lebo 100 povedali pán jánoš vidíte niečo</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5699-0
+00:43:58.972 --> 00:43:59.332
+<v Alexander JANOV>Ja.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5704-1
+00:43:59.800 --> 00:44:02.182
+<v Dušan Pidanič>pozrieť a počkali že že čo?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5705-0
+00:44:01.612 --> 00:44:02.022
+<v Alexander JANOV>Okej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5710-0
+00:44:03.742 --> 00:44:05.192
+<v Alexander JANOV>Sa mal telefonát pardon.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5728-0
+00:44:08.192 --> 00:44:11.237
+<v Lenka FERKOVOV&#193;>A my potom vieme,
+respektíve egov je ešte rozdeliť,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5715-0
+00:44:08.662 --> 00:44:08.952
+<v Alexander JANOV>Dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5723-0
+00:44:10.802 --> 00:44:11.132
+<v Alexander JANOV>Áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5728-1
+00:44:11.237 --> 00:44:13.462
+<v Lenka FERKOVOV&#193;>že keď odpovedám z nejakého formulára.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5755-0
+00:44:15.352 --> 00:44:19.118
+<v Lenka FERKOVOV&#193;>Katastrálneho on vie po neviem tú logiku
+za tým toho ukladania,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5755-1
+00:44:19.118 --> 00:44:23.178
+<v Lenka FERKOVOV&#193;>potom to všeobecného podania,
+že kde bude ten roses nikde na základe</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5755-2
+00:44:23.178 --> 00:44:26.062
+<v Lenka FERKOVOV&#193;>čoho budeme vedieť,
+že toto úloh a toto ne úlož?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5790-0
+00:44:29.082 --> 00:44:34.663
+<v Dušan Pidanič>Hm bude záležať, ako záleží od toho,
+ako bude nastavené to smerovať do tém sk.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5790-1
+00:44:34.663 --> 00:44:37.984
+<v Dušan Pidanič>Teraz tie smerovania sú aj podľa podľa
+skupín,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5790-2
+00:44:37.984 --> 00:44:43.777
+<v Dušan Pidanič>čiže ak to všeobecné podanie podá skupina
+neviem aká tak či si teoreticky môže to</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5790-3
+00:44:43.777 --> 00:44:47.521
+<v Dušan Pidanič>byť nastavené,
+že v tom prípade to pôjde do nejakého</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5790-4
+00:44:47.521 --> 00:44:48.652
+<v Dušan Pidanič>dojem sk niekam.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5792-0
+00:44:49.512 --> 00:44:49.822
+<v Dušan Pidanič>Hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5797-0
+00:44:51.342 --> 00:44:53.212
+<v Dušan Pidanič>Aj každá príloha niekam.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5813-0
+00:44:54.992 --> 00:44:59.462
+<v Dušan Pidanič>Lebo u vás je asi ten rozcestník,
+tá skupina kontaktná.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5829-0
+00:44:59.902 --> 00:45:05.422
+<v Lenka FERKOVOV&#193;>No len to tiež nie vždy úplne šťastné,
+že iba niektoré skupiny sa ukladajú no.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5822-0
+00:45:02.092 --> 00:45:02.722
+<v Veronika NESPALOV&#193;>Nie vždy.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5863-0
+00:45:06.262 --> 00:45:11.162
+<v Veronika NESPALOV&#193;>To je 1 vec a 2 vec že my máme tiež že
+máme skupinu našu a my budeme mať</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5863-1
+00:45:11.162 --> 00:45:15.257
+<v Veronika NESPALOV&#193;>všeobecné podania,
+ktoré sa budú týkať v budúcnosti katastra</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5863-2
+00:45:15.257 --> 00:45:20.896
+<v Veronika NESPALOV&#193;>a potom všeobecné podania ktoré sa týkajú
+a už by sa nemali snáď do budúcna blikať.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5863-3
+00:45:20.896 --> 00:45:22.642
+<v Veronika NESPALOV&#193;>Veľká tohoto hm konkurzov.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5872-0
+00:45:24.032 --> 00:45:25.522
+<v Veronika NESPALOV&#193;>A tu už by som sa nemuselo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5869-0
+00:45:24.442 --> 00:45:24.912
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5881-0
+00:45:26.202 --> 00:45:28.732
+<v Veronika NESPALOV&#193;>Keďže na to sú tie špecifické veľké
+harakiri.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5898-0
+00:45:30.502 --> 00:45:34.180
+<v Veronika NESPALOV&#193;>No tým pádom u mňa áno,
+u mňa by to bolo podľa podľa skupiny,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5898-1
+00:45:34.180 --> 00:45:35.782
+<v Veronika NESPALOV&#193;>že to viem povedať, že kam.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5954-0
+00:45:35.952 --> 00:45:39.440
+<v Alexander JANOV>No tak ja mám by sa to mohlo žiť,
+podľa mňa do dánska. Vždycky,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5954-1
+00:45:39.440 --> 00:45:43.473
+<v Alexander JANOV>keď sú vyplnené klinické údaje, hej,
+že pokiaľ proste použijem tú funkciu</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5954-2
+00:45:43.473 --> 00:45:46.580
+<v Alexander JANOV>pridať klienta,
+produkty mám to vyplnené tak vždycky tam</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5954-3
+00:45:46.580 --> 00:45:50.559
+<v Alexander JANOV>aj czk a to či má ísť do korporátneho
+alebo telového to v tom zadaní je,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5954-4
+00:45:50.559 --> 00:45:54.101
+<v Alexander JANOV>že tusim a zistiť ako pozadie,
+že čo to je tam nejakú logiku sme</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5954-5
+00:45:54.101 --> 00:45:54.592
+<v Alexander JANOV>povedali.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5956-0
+00:45:55.842 --> 00:45:56.612
+<v Alexander JANOV>Čiže tam.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5976-0
+00:45:58.062 --> 00:46:01.593
+<v Alexander JANOV>Asi to je ten rozhodovací,
+nemusíme to cez nejakú kontaktnú skupinu</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5976-1
+00:46:01.593 --> 00:46:02.632
+<v Alexander JANOV>cez nejaký prepínač.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5990-0
+00:46:04.682 --> 00:46:09.032
+<v Dušan Pidanič>No či je to byt alebo korporácie? Myslím,
+že tam sa vyklikávať na tom podaní na</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6017-0
+00:46:08.442 --> 00:46:10.608
+<v Alexander JANOV>No ale v tom zadaní to už je trošku
+zmenené.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/5990-1
+00:46:09.032 --> 00:46:09.522
+<v Dušan Pidanič>každom 1.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6017-1
+00:46:10.608 --> 00:46:13.592
+<v Alexander JANOV>To čo sme vám posielali to nechceme aby
+tam vykrikoval ľudia,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6017-2
+00:46:13.592 --> 00:46:17.202
+<v Alexander JANOV>lebo my to vieme zistiť z toho,
+že čo vlastne načítame, aký typ subjektov.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6020-0
+00:46:18.032 --> 00:46:19.012
+<v Dušan Pidanič>Aké to bude mix?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6024-0
+00:46:20.622 --> 00:46:21.902
+<v Lenka FERKOVOV&#193;>No to je presne otázka.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6044-0
+00:46:24.022 --> 00:46:28.740
+<v Alexander JANOV>Keď to bude mix, to sme riešili,
+len je tam čo keď to bude mix to môže byť</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6032-0
+00:46:25.782 --> 00:46:26.212
+<v Dušan Pidanič>No.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6051-0
+00:46:27.202 --> 00:46:31.113
+<v Lenka FERKOVOV&#193;>Určite nie a pozerám,
+no môžeš to mať aj fyzickú aj právnickú</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6044-1
+00:46:28.740 --> 00:46:28.992
+<v Alexander JANOV>mix.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6051-1
+00:46:31.113 --> 00:46:31.492
+<v Lenka FERKOVOV&#193;>osobu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6055-0
+00:46:31.792 --> 00:46:32.732
+<v Alexander JANOV>Ale ako klienta.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6062-0
+00:46:33.962 --> 00:46:35.922
+<v Lenka FERKOVOV&#193;>Tak môžeš mať dlžníka ručiteľa.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6065-0
+00:46:37.872 --> 00:46:38.892
+<v Alexander JANOV>Zobral akože my.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6079-0
+00:46:39.662 --> 00:46:45.382
+<v Alexander JANOV>Dávame do tých formulárov aj dlžník mu
+len klientov dávame nie my.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6076-0
+00:46:43.462 --> 00:46:43.782
+<v Lenka FERKOVOV&#193;>No.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6092-0
+00:46:46.302 --> 00:46:48.312
+<v Alexander JANOV>Neviem to nejaké zvláštne.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6095-0
+00:46:47.032 --> 00:46:49.672
+<v Lenka FERKOVOV&#193;>No 1 aj 2 môže byť klient neviem teraz čo
+myslíš.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6105-0
+00:46:50.882 --> 00:46:54.572
+<v Alexander JANOV>Nechápem ale že že podanie evidujeme.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6114-0
+00:46:55.462 --> 00:46:57.962
+<v Alexander JANOV>Takže pod klientami našimi hej že to
+neevidujem.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6124-0
+00:46:59.322 --> 00:47:01.222
+<v Veronika NESPALOV&#193;>Úplne sa na bunky.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6134-0
+00:46:59.652 --> 00:47:04.859
+<v Alexander JANOV>Záložnými učiteľmi alebo niekým záložca
+mi, že to neukladáme ani to nevyhľadávam,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6134-1
+00:47:04.859 --> 00:47:05.812
+<v Alexander JANOV>či ukladáme to.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6143-0
+00:47:06.462 --> 00:47:08.742
+<v Veronika NESPALOV&#193;>Hovorila mi že ty keď máš.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6151-0
+00:47:07.492 --> 00:47:11.232
+<v Lenka FERKOVOV&#193;>Asi teraz nie možno byť spoludlžník,
+neviem no.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6138-0
+00:47:07.592 --> 00:47:08.022
+<v Alexander JANOV>Takto.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6149-0
+00:47:09.752 --> 00:47:10.202
+<v Veronika NESPALOV&#193;>Keď máš.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6153-0
+00:47:11.552 --> 00:47:11.832
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6159-0
+00:47:12.812 --> 00:47:15.242
+<v Veronika NESPALOV&#193;>Spoločnosť nemôže fyzická osoba.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6163-0
+00:47:14.932 --> 00:47:16.232
+<v Lenka FERKOVOV&#193;>Si asi nie.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6185-0
+00:47:16.582 --> 00:47:20.471
+<v Veronika NESPALOV&#193;>Nemôže, môžeš mať,
+že vlastníkom nehnuteľnosti fyzická osoba,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6185-1
+00:47:20.471 --> 00:47:24.612
+<v Veronika NESPALOV&#193;>ale vtedy aj tak ukladáš pod dlžníka
+hlavného, ktorý je korporát.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6183-0
+00:47:23.612 --> 00:47:24.112
+<v Alexander JANOV>Tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6191-0
+00:47:23.922 --> 00:47:26.692
+<v Lenka FERKOVOV&#193;>Pot, ktorý je hej kto je na úvere?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6217-0
+00:47:26.992 --> 00:47:32.445
+<v Veronika NESPALOV&#193;>Lebo to nedávaš pod jeho ako vlastníka
+nehnuteľností ako garant ora,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6217-1
+00:47:32.445 --> 00:47:37.582
+<v Veronika NESPALOV&#193;>ale pod toho komu ručí,
+čiže tým pádom to nie korporátny klient.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6229-0
+00:47:38.632 --> 00:47:42.182
+<v Veronika NESPALOV&#193;>Kombinácia podľa mňa tam nemá byť,
+aspoň by u mňa znení.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6220-0
+00:47:38.812 --> 00:47:39.342
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6247-0
+00:47:42.952 --> 00:47:45.884
+<v Veronika NESPALOV&#193;>Nie je to ani vyžadované,
+aby to bolo aj tam je to možné.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6247-1
+00:47:45.884 --> 00:47:49.422
+<v Veronika NESPALOV&#193;>Vždy to musí byť pod tým hlavným dlžníkom,
+kam patrí to zabezpečenie.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6328-0
+00:47:52.252 --> 00:47:56.351
+<v Dušan Pidanič>Ale keď v podaní budú,
+ja to musím nejak systémovo šetriť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6328-1
+00:47:56.351 --> 00:48:00.381
+<v Dušan Pidanič>To znamená 1 vec je,
+že dobre akože biznisov by sa to asi</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6328-2
+00:48:00.381 --> 00:48:03.854
+<v Dušan Pidanič>nemalo stať,
+ale 2 vec je keď niekto také podanie</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6328-3
+00:48:03.854 --> 00:48:07.259
+<v Dušan Pidanič>nahodí,
+pomýli sa niečo urobí to 1 nahodí tam aj</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6328-4
+00:48:07.259 --> 00:48:12.886
+<v Dušan Pidanič>aj a ja sa musím vedieť nejak zachovať a
+ja neviem ktorý je dlžník alebo ktoré i</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6294-0
+00:48:08.832 --> 00:48:09.172
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6328-5
+00:48:12.886 --> 00:48:18.444
+<v Dušan Pidanič>čo alebo kto ktorý ktorý klient je ten
+pravý orechový to znamená že keby sme sa</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6328-6
+00:48:18.444 --> 00:48:22.752
+<v Dušan Pidanič>zamýšľali potom aj nad týmto tvorbou tých
+biznisových údajov.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6352-0
+00:48:23.102 --> 00:48:27.514
+<v Dušan Pidanič>Tak možno aj nad tým treba zamyslieť aj z
+vašej strany,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6352-1
+00:48:27.514 --> 00:48:34.053
+<v Dušan Pidanič>že či chcete to nejako podľa čoho ja mám
+rozlišovať práve toto ho korporát a to ho</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6352-2
+00:48:34.053 --> 00:48:34.762
+<v Dušan Pidanič>uchytila.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6365-0
+00:48:36.192 --> 00:48:40.080
+<v Lenka FERKOVOV&#193;>Nemôže byť naozaj fyzická osoba,
+nejaký pristupujúci dlžník alebo dačo</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6365-1
+00:48:40.080 --> 00:48:40.682
+<v Lenka FERKOVOV&#193;>nemôže hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6413-0
+00:48:43.862 --> 00:48:48.334
+<v Miroslava MICHŇOV&#193;>No podľa mňa to by 100 mali iba pri
+mikroúveroch deje fyzická osoba</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6371-0
+00:48:44.432 --> 00:48:44.842
+<v Veronika NESPALOV&#193;>I sk.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6413-1
+00:48:48.334 --> 00:48:53.662
+<v Miroslava MICHŇOV&#193;>živnostník má aj ičo a zároveň akože je
+aj s rodným číslom. Ale takto si myslím,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6394-0
+00:48:52.892 --> 00:48:53.192
+<v Veronika NESPALOV&#193;>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6413-2
+00:48:53.662 --> 00:48:58.332
+<v Miroslava MICHŇOV&#193;>že by buď by sa to uložilo poto ičo alebo
+iba potom rodné číslo ale v.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6400-0
+00:48:53.842 --> 00:48:54.582
+<v Alexander JANOV>No to je fob.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6406-0
+00:48:55.492 --> 00:48:56.652
+<v Veronika NESPALOV&#193;>Tak tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6437-0
+00:48:57.672 --> 00:49:02.593
+<v Lenka FERKOVOV&#193;>Ale to ide klasicky do korku.
+Hej to beriem ako právnickú osobu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6419-0
+00:48:59.362 --> 00:48:59.712
+<v Miroslava MICHŇOV&#193;>No.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6423-0
+00:49:00.332 --> 00:49:00.862
+<v Veronika NESPALOV&#193;>Hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6422-0
+00:49:00.442 --> 00:49:00.682
+<v Alexander JANOV>Áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6426-0
+00:49:02.182 --> 00:49:02.532
+<v Alexander JANOV>Tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6437-1
+00:49:02.593 --> 00:49:04.562
+<v Lenka FERKOVOV&#193;>Skutočne katka tu neni no.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6438-0
+00:49:02.792 --> 00:49:05.242
+<v Veronika NESPALOV&#193;>Ale pristupujúci dlžník, fyzická osoba.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6454-0
+00:49:06.312 --> 00:49:09.140
+<v Alexander JANOV>Takto sa spýtam,
+že vôbec má význam umožniť viacero</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6454-1
+00:49:09.140 --> 00:49:11.262
+<v Alexander JANOV>klientov zadefinovať do toho formulára.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6474-0
+00:49:17.392 --> 00:49:21.073
+<v Lenka FERKOVOV&#193;>No my sme vychádzali z toho,
+že sa to môže stať, ale akože tak neviem,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6474-1
+00:49:21.073 --> 00:49:23.562
+<v Lenka FERKOVOV&#193;>musím si to teda preveriť niekde na
+kredity sa.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6485-0
+00:49:27.952 --> 00:49:30.662
+<v Veronika NESPALOV&#193;>Môžeš mať,
+že máš dlžníka pristupujúceho dlžníka,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6485-1
+00:49:30.662 --> 00:49:32.342
+<v Veronika NESPALOV&#193;>ale obidve sú korporátne firmy.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6496-0
+00:49:33.952 --> 00:49:38.982
+<v Alexander JANOV>Alebo robím kvitanciu k zabezpečeniu,
+ktoré kros klient klientov?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6497-0
+00:49:38.882 --> 00:49:39.512
+<v Veronika NESPALOV&#193;>Alebo?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6510-0
+00:49:39.782 --> 00:49:44.322
+<v Lenka FERKOVOV&#193;>To môže byť určite určite môže môže byť
+hej kros.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6507-0
+00:49:41.572 --> 00:49:42.732
+<v Veronika NESPALOV&#193;>Rozkladal hej?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6512-0
+00:49:47.122 --> 00:49:47.542
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6521-0
+00:49:47.912 --> 00:49:51.502
+<v Lenka FERKOVOV&#193;>Aj na viac produktov aj na viac cif iek.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6534-0
+00:49:54.072 --> 00:49:57.692
+<v Alexander JANOV>Okej, tak potom asi len validáciu,
+že nemôžem tam mať naraz aj.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6540-0
+00:49:58.902 --> 00:50:01.882
+<v Alexander JANOV>Fyzickou osobou aj korporátnu osobou.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6542-0
+00:50:02.802 --> 00:50:03.142
+<v Dušan Pidanič>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6544-0
+00:50:02.912 --> 00:50:03.352
+<v Alexander JANOV>Firiem.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6553-0
+00:50:06.282 --> 00:50:08.612
+<v Alexander JANOV>Asi len tak a validácia nič iné mi o tom
+nepovedal.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6563-0
+00:50:10.412 --> 00:50:13.152
+<v Dušan Pidanič>Čiže nemôže byť mix a rodných čísel hej?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6565-0
+00:50:13.492 --> 00:50:13.992
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6596-0
+00:50:15.632 --> 00:50:18.697
+<v Miroslava MICHŇOV&#193;>A teraz sa bavíme,
+že môže byť dlžník a záložca,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6596-1
+00:50:18.697 --> 00:50:23.264
+<v Miroslava MICHŇOV&#193;>lebo by ju hypo je taký produkt,
+že kde vlastne zakladá sa na ičo firmy,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6596-2
+00:50:23.264 --> 00:50:26.142
+<v Miroslava MICHŇOV&#193;>ale záložcom je väčšia niekedy fyzická
+osoba.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6607-0
+00:50:25.512 --> 00:50:29.573
+<v Alexander JANOV>Ale hej,
+len neevidujeme ten dokument pod záložcom</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6607-1
+00:50:29.573 --> 00:50:29.892
+<v Alexander JANOV>hej?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6613-0
+00:50:29.592 --> 00:50:31.782
+<v Miroslava MICHŇOV&#193;>Nie nie iba pod tou firmou.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6615-0
+00:50:31.472 --> 00:50:32.522
+<v Alexander JANOV>Od klienta hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6617-0
+00:50:36.012 --> 00:50:36.672
+<v Dušan Pidanič>Dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6632-0
+00:50:39.542 --> 00:50:43.642
+<v Dušan Pidanič>Keď to bude tak tak už len ako je to už
+potom naozaj neviem rozhodnúť tak to ide</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6632-1
+00:50:43.642 --> 00:50:45.212
+<v Dušan Pidanič>či to je rituál alebo korporát.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6637-0
+00:50:51.502 --> 00:50:53.022
+<v Alexander JANOV>Ja si to píšem, že to potom.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6654-0
+00:50:54.532 --> 00:50:58.158
+<v Lenka FERKOVOV&#193;>Ešte prípadne skratky opýtať,
+ale my sme vychádzali z toho nie je ale,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6642-0
+00:50:54.952 --> 00:50:55.432
+<v Alexander JANOV>Záujem.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6654-1
+00:50:58.158 --> 00:51:00.252
+<v Lenka FERKOVOV&#193;>že rodné číslo je proste fyzická osoba a.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6664-0
+00:51:01.612 --> 00:51:03.102
+<v Lenka FERKOVOV&#193;>Čo je právnická alebo teda?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6658-0
+00:51:01.812 --> 00:51:02.042
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6663-0
+00:51:03.162 --> 00:51:03.552
+<v Alexander JANOV>Áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6733-0
+00:51:08.852 --> 00:51:12.955
+<v Miroslava MICHŇOV&#193;>Aj napríklad pri prihláškach,
+keď mám súhrnnú prihlášku,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6733-1
+00:51:12.955 --> 00:51:17.850
+<v Miroslava MICHŇOV&#193;>tak ja tam mám napríklad fyzická osoba s
+rodným číslom má tie isté,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6733-2
+00:51:17.850 --> 00:51:22.673
+<v Miroslava MICHŇOV&#193;>teda prihlasujeme aj záväzky jeho
+právnickej osoby ako podnikateľa</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6733-3
+00:51:22.673 --> 00:51:26.632
+<v Miroslava MICHŇOV&#193;>živnostníka,
+alebo on je on ručí celým svojim majetkom</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6733-4
+00:51:26.632 --> 00:51:31.815
+<v Miroslava MICHŇOV&#193;>a vlastne oddlžuje sa a dávam tam
+produkty aj aj pod ičom aj pod rodným</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6733-5
+00:51:31.815 --> 00:51:35.127
+<v Miroslava MICHŇOV&#193;>číslom.
+Ale tak v tých formulároch prihláška,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6733-6
+00:51:35.127 --> 00:51:38.942
+<v Miroslava MICHŇOV&#193;>tam by to mali byť vy kliknuté ako 2
+prihlášky, ale.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6747-0
+00:51:39.032 --> 00:51:42.165
+<v Miroslava MICHŇOV&#193;>Viem to prihlásiť aj napríklad iba pod
+tým rodným číslom,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6747-1
+00:51:42.165 --> 00:51:44.542
+<v Miroslava MICHŇOV&#193;>že tam zapíšem aj tie produkty
+živnostníka.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6761-0
+00:51:46.322 --> 00:51:50.040
+<v Miroslava MICHŇOV&#193;>Ale v prihláškach je tam možnosť,
+že fyzická osoba, fyzická osoba,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6761-1
+00:51:50.040 --> 00:51:51.872
+<v Miroslava MICHŇOV&#193;>podnikateľ alebo právnická osoba.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6764-0
+00:51:59.312 --> 00:52:00.172
+<v Dušan Pidanič>To komplikuje.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6791-0
+00:52:01.072 --> 00:52:04.300
+<v Miroslava MICHŇOV&#193;>No ale mne to mne to v tých prihláškach
+nevadí. Hovorím,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6770-0
+00:52:01.642 --> 00:52:02.182
+<v Dušan Pidanič>Lebo aj.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6791-1
+00:52:04.300 --> 00:52:06.848
+<v Miroslava MICHŇOV&#193;>že že ako na ritello máme takýchto
+klientov,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6791-2
+00:52:06.848 --> 00:52:11.322
+<v Miroslava MICHŇOV&#193;>že sú živnostníci majú produkty aj pody
+čo majú produkty aj pod rodným číslom.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6799-0
+00:52:12.162 --> 00:52:14.102
+<v Alexander JANOV>Ale vidíme to podobným číslom. Iba hej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6794-0
+00:52:12.442 --> 00:52:12.682
+<v Miroslava MICHŇOV&#193;>Tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6834-0
+00:52:14.442 --> 00:52:18.372
+<v Miroslava MICHŇOV&#193;>No nie podoby 2 len viem to do tej
+prihlášky súhrnnej.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6834-1
+00:52:18.372 --> 00:52:22.803
+<v Miroslava MICHŇOV&#193;>Buď teda urobím 2 prihlášky 1 pod ičom a
+1 pod rodným číslom,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6816-0
+00:52:21.172 --> 00:52:21.672
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6834-2
+00:52:22.803 --> 00:52:28.520
+<v Miroslava MICHŇOV&#193;>ale akceptujú nám tu tí správcovia tak,
+že tam všetky produkty pod rodné číslo,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6831-0
+00:52:27.102 --> 00:52:27.672
+<v Alexander JANOV>Rozumiem.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6834-3
+00:52:28.520 --> 00:52:29.092
+<v Miroslava MICHŇOV&#193;>pretože.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6848-0
+00:52:28.632 --> 00:52:34.902
+<v Alexander JANOV>Rozumiem, ale ja len doplním, pardon,
+že lebo pre túto agendu pre vašu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6840-0
+00:52:31.152 --> 00:52:31.542
+<v Miroslava MICHŇOV&#193;>No.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6865-0
+00:52:36.322 --> 00:52:42.832
+<v Alexander JANOV>Ego sa nerozhoduje či volako rdoc alebo
+hypo do c, čiže sa nerozhoduje či posiela.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6861-0
+00:52:39.902 --> 00:52:40.902
+<v Miroslava MICHŇOV&#193;>Hm hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6879-0
+00:52:43.822 --> 00:52:50.092
+<v Alexander JANOV>D korporátnu dokumentáciu alebo kolex je
+proste pre vymáhacie agendy.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6889-0
+00:52:52.802 --> 00:52:56.617
+<v Alexander JANOV>A teraz neviem podľa čoho my sa
+rozhodujeme vlastne pri prihlasovaní</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6889-1
+00:52:56.617 --> 00:52:57.612
+<v Alexander JANOV>pohľadávok, že či.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6897-0
+00:52:58.742 --> 00:53:02.952
+<v Alexander JANOV>Volá ego kolaps doc alebo vola?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6911-0
+00:53:04.882 --> 00:53:07.852
+<v Alexander JANOV>Viete čo chcem povedať pán pidanič? Hej,
+že tam sú 2 rôzne volania.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6915-0
+00:53:09.112 --> 00:53:10.442
+<v Dušan Pidanič>Hm áno áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6918-0
+00:53:09.912 --> 00:53:11.232
+<v Alexander JANOV>A že podľa čoho sa rozhoduje?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6925-0
+00:53:12.392 --> 00:53:15.592
+<v Dušan Pidanič>Ako ten hypo dos a tento máte na mysli to?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6934-0
+00:53:15.852 --> 00:53:19.482
+<v Alexander JANOV>Pri prihlasovaní pohľadávok,
+podľa čoho sa rozhoduje, že ktorú?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6941-0
+00:53:21.002 --> 00:53:23.612
+<v Alexander JANOV>Teraz viem,
+že pán dobrú metódu volal že či produkt.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6945-0
+00:53:24.932 --> 00:53:25.492
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6957-0
+00:53:25.322 --> 00:53:28.312
+<v Miroslava MICHŇOV&#193;>Nie je to podľa tej skupiny,
+tam píšeme led kolekciu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6954-0
+00:53:26.212 --> 00:53:27.212
+<v Alexander JANOV>Kryt produkt.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6962-0
+00:53:29.042 --> 00:53:29.362
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6973-0
+00:53:29.422 --> 00:53:33.232
+<v Dušan Pidanič>Podľa skupiny áno áno, áno, áno áno.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6977-0
+00:53:30.972 --> 00:53:34.842
+<v Alexander JANOV>Skupiny, čiže keď je,
+keď sa rozvoj podľa skupiny.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6995-0
+00:53:35.652 --> 00:53:41.426
+<v Alexander JANOV>Tak ako sa zvolí hitlerovi vymáhanie,
+čiže ten tá vaša neviem ako to je let</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/6995-1
+00:53:41.426 --> 00:53:42.262
+<v Alexander JANOV>korektnosť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7003-0
+00:53:43.662 --> 00:53:46.782
+<v Alexander JANOV>Tak vtedy mi vlastne nemusíme tu
+validáciou.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7009-0
+00:53:48.012 --> 00:53:51.012
+<v Alexander JANOV>Mať, že tam nemôže byť mix korporátnej a.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7035-0
+00:53:52.082 --> 00:53:57.734
+<v Alexander JANOV>Kritickej britského klienta,
+že môžme to vtedy tú mali daciu vypnúť,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7016-0
+00:53:53.302 --> 00:53:54.622
+<v Miroslava MICHŇOV&#193;>Hm hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7035-1
+00:53:57.734 --> 00:54:03.877
+<v Alexander JANOV>lebo tam sa nemusíme rozhodovať.
+Tam sa volá kolektor doc a tam v podstate</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7035-2
+00:54:03.877 --> 00:54:05.352
+<v Alexander JANOV>môžeme do políčka.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7049-0
+00:54:06.062 --> 00:54:10.540
+<v Alexander JANOV>Ktoré je na identifikáciu klienta vložiť
+viacero tých indikátorov aj ičo a rodné</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7049-1
+00:54:10.540 --> 00:54:10.872
+<v Alexander JANOV>číslo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7052-0
+00:54:19.152 --> 00:54:19.642
+<v Alexander JANOV>Pozrime sa.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7054-0
+00:54:19.992 --> 00:54:20.382
+<v Miroslava MICHŇOV&#193;>Mhm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7066-0
+00:54:32.932 --> 00:54:36.782
+<v Dušan Pidanič>Vieme to potom nejak dostať takto spísané
+nejaké takéto výnimky?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7068-0
+00:54:37.722 --> 00:54:38.082
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7071-0
+00:54:40.482 --> 00:54:41.082
+<v Alexander JANOV>Toto píšem.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7090-0
+00:54:43.652 --> 00:54:47.983
+<v Dušan Pidanič>Ja tiež mám niečo popísané,
+ale nejak komplexne aby som to ja nemala</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7090-1
+00:54:47.983 --> 00:54:49.552
+<v Dušan Pidanič>takto odrážkový teda kde?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7130-0
+00:54:50.902 --> 00:54:55.522
+<v Dušan Pidanič>Keď sa bude pripravovať,
+to by mohlo byť ináč v tom, keď nemyslím,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7106-0
+00:54:53.272 --> 00:54:55.572
+<v Lenka FERKOVOV&#193;>V tom exceli by to nemohlo byť niekde.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7130-1
+00:54:55.522 --> 00:54:59.039
+<v Dušan Pidanič>len to nechcel,
+ale aj v tých biznisových údajoch,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7130-2
+00:54:59.039 --> 00:55:04.211
+<v Dušan Pidanič>že keď sa bude meniť a obrazovka a tam
+proste aby sa na to myslelo nejakým</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7130-3
+00:55:04.211 --> 00:55:04.832
+<v Dušan Pidanič>spôsobom.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7150-0
+00:55:08.672 --> 00:55:11.302
+<v Dušan Pidanič>Alebo pripravte v tom e chceli pri tých
+skupinách.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7150-1
+00:55:11.302 --> 00:55:13.572
+<v Dušan Pidanič>Samozrejme to môže byť tiež myslím ale
+tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7159-0
+00:55:12.752 --> 00:55:15.838
+<v Lenka FERKOVOV&#193;>Lebo tamto v tom aj chceli,
+bolo podľa jednotlivých formulároch</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7159-1
+00:55:15.838 --> 00:55:16.562
+<v Lenka FERKOVOV&#193;>myslím rozbité.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7164-0
+00:55:16.632 --> 00:55:19.722
+<v Dušan Pidanič>Áno, ale to boli,
+len to bola len produktová.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7170-0
+00:55:21.162 --> 00:55:23.652
+<v Dušan Pidanič>To bol len produktové nastavenia.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7192-0
+00:55:25.102 --> 00:55:29.132
+<v Dušan Pidanič>Lebo ešte posielame do hárkovej časti,
+d mestská do takzvanej subjekt ovej</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7192-1
+00:55:29.132 --> 00:55:32.087
+<v Dušan Pidanič>predpokladám,
+že toto sa bavíme asi o tej subjektov je</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7188-0
+00:55:30.322 --> 00:55:30.592
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7192-2
+00:55:32.087 --> 00:55:32.302
+<v Dušan Pidanič>tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7198-0
+00:55:33.822 --> 00:55:36.272
+<v Dušan Pidanič>Nie a ktorá je to tá to už?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7203-0
+00:55:36.042 --> 00:55:37.862
+<v Alexander JANOV>Úplne subjektov a toto je kolekcia ns.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7212-0
+00:55:39.412 --> 00:55:41.962
+<v Alexander JANOV>Samostatná taký taký kastlíka.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7207-0
+00:55:39.542 --> 00:55:40.302
+<v Dušan Pidanič>Strácam.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7213-0
+00:55:41.262 --> 00:55:42.082
+<v Lenka FERKOVOV&#193;>Ešte inak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7217-0
+00:55:43.802 --> 00:55:45.092
+<v Dušan Pidanič>Tak už som sa ja stratil.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7228-0
+00:55:48.052 --> 00:55:51.782
+<v Dušan Pidanič>Ja som stále rozlišoval ako keby úpvs
+kováča sa tam chodí všetko.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7242-0
+00:55:52.972 --> 00:55:58.725
+<v Dušan Pidanič>To máme akože produktová časť,
+potom chodí subjektov a časť a ešte</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7242-1
+00:55:58.725 --> 00:55:59.842
+<v Dušan Pidanič>hárková časť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7248-0
+00:56:01.632 --> 00:56:03.572
+<v Dušan Pidanič>Toto nejak rozmýšľam, že čo to je.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7256-0
+00:56:22.532 --> 00:56:23.982
+<v Dušan Pidanič>Je toto leto collection?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7262-0
+00:56:26.802 --> 00:56:28.902
+<v Dušan Pidanič>Skupina tak sa to volalo.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7261-0
+00:56:27.922 --> 00:56:28.412
+<v Miroslava MICHŇOV&#193;>Nové.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7278-0
+00:56:30.172 --> 00:56:35.853
+<v Miroslava MICHŇOV&#193;>Skupina je áno let kolektívnosť a tie
+dokumenty sú dokola, lebo kolek škole,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7271-0
+00:56:32.642 --> 00:56:33.052
+<v Dušan Pidanič>No.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7278-1
+00:56:35.853 --> 00:56:37.402
+<v Miroslava MICHŇOV&#193;>dokumenty, vymáhanie.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7286-0
+00:56:37.742 --> 00:56:41.192
+<v Dušan Pidanič>C ld je dokumentovať trieda tak.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7292-0
+00:56:42.392 --> 00:56:43.752
+<v Dušan Pidanič>Ak tak tam vidím.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7312-0
+00:56:44.862 --> 00:56:50.220
+<v Dušan Pidanič>Ostatné svoje,
+potom je celé podvod a toto ten let</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7312-1
+00:56:50.220 --> 00:56:52.322
+<v Dušan Pidanič>collection je celod.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7335-0
+00:56:55.112 --> 00:56:59.972
+<v J&#225;n PŘ&#205;VARA>No to je vlastne koho dokumentovať?
+Trieda to celé do konca.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7343-0
+00:56:57.272 --> 00:57:01.835
+<v Dušan Pidanič>To dobre tak tak ale stále sa bavíme ako
+o produktovej časti dajme to som myslel</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7343-1
+00:57:01.835 --> 00:57:03.582
+<v Dušan Pidanič>že to je niečo úplne iné dobré.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7353-0
+00:57:05.432 --> 00:57:08.042
+<v Dušan Pidanič>To je kvázi ako keby nejaký chlievy hej v
+rámci toho.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7372-0
+00:57:09.702 --> 00:57:12.697
+<v J&#225;n PŘ&#205;VARA>Áno áno je to ako keby že stále to isté
+ložisko,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7372-1
+00:57:12.697 --> 00:57:17.342
+<v J&#225;n PŘ&#205;VARA>ale je to vlastne že iná trieda čiže iná
+sa dá metaúdajov k tomu dokumentu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7374-0
+00:57:16.782 --> 00:57:17.962
+<v Dušan Pidanič>Jasné, jasné.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7380-0
+00:57:22.122 --> 00:57:24.462
+<v Dušan Pidanič>Áno tam ide podľa toho podľa tej skupiny.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7387-0
+00:57:26.802 --> 00:57:30.432
+<v Dušan Pidanič>A tie led kolekciou sú pre keď pozerám.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7390-0
+00:57:34.312 --> 00:57:35.492
+<v Dušan Pidanič>Hej na viacerých.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7394-0
+00:57:37.392 --> 00:57:38.362
+<v Dušan Pidanič>No je to dosť.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7406-0
+00:57:49.622 --> 00:57:53.772
+<v Dušan Pidanič>Dobre, čiže tu by bola výnimka,
+tak je to vlastne tá skupina led lexion.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7413-0
+00:57:54.622 --> 00:57:56.662
+<v Dušan Pidanič>Tak vtedy v tomto prípade môže byť mix.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7433-0
+00:58:39.762 --> 00:58:41.732
+<v Luk&#225;š ŠINAĽ>Neviem pán pin a ešte tam bolo niečo či?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7445-0
+00:58:42.102 --> 00:58:46.533
+<v Dušan Pidanič>Ja uh zatiaľ nič.
+Ja potrebujem vstrebať to všetko čo sme</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7445-1
+00:58:46.533 --> 00:58:47.832
+<v Dušan Pidanič>si dnes povedali.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7461-0
+00:58:49.992 --> 00:58:53.412
+<v Dušan Pidanič>A keď dostanem ešte nejaký podklad,
+teda to čo sme sa bavili,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7461-1
+00:58:53.412 --> 00:58:55.012
+<v Dušan Pidanič>že ešte sa tam predáva u vás.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7475-0
+00:58:55.962 --> 00:59:00.766
+<v Dušan Pidanič>Aj s tými s tými nejakými zmenami,
+ktoré sme si teraz povedali,</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7475-1
+00:59:00.766 --> 00:59:02.192
+<v Dušan Pidanič>tak by som bol rád.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7482-0
+00:59:03.462 --> 00:59:07.422
+<v Dušan Pidanič>No uvidíme čo ďalšie potom vyplynie z
+toho.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7511-0
+00:59:21.802 --> 00:59:26.524
+<v Lenka FERKOVOV&#193;>Alex je to tak píšem hej biznisovo z nás
+čo sme s radkou pripravili pošlem ti to</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7511-1
+00:59:26.524 --> 00:59:29.322
+<v Lenka FERKOVOV&#193;>hej,
+pošleme to potom asi na ostatných a potom.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7505-0
+00:59:26.992 --> 00:59:27.652
+<v Alexander JANOV>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7513-0
+00:59:28.862 --> 00:59:30.462
+<v Alexander JANOV>Hm dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7515-0
+00:59:30.822 --> 00:59:31.242
+<v Lenka FERKOVOV&#193;>Dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7532-0
+00:59:38.692 --> 00:59:43.797
+<v Veronika NESPALOV&#193;>Myslím potom z iného súdku potrebovala
+ešte tomáša máte na chvíľku mi ostali 2</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7532-1
+00:59:43.797 --> 00:59:44.702
+<v Veronika NESPALOV&#193;>minútky kvôli.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7538-0
+00:59:45.872 --> 00:59:47.772
+<v Veronika NESPALOV&#193;>Tou 1 incidentu čo tam máme?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7541-0
+00:59:49.392 --> 00:59:50.142
+<v Veronika NESPALOV&#193;>Keď môžu.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7544-0
+00:59:53.322 --> 00:59:54.342
+<v Matej Jur&#237;k>Jasné a môžem?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7553-0
+00:59:55.392 --> 00:59:57.392
+<v Alexander JANOV>Dobre, tak sa asi odpojíme ostatné.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7556-0
+00:59:56.472 --> 00:59:58.652
+<v Lenka FERKOVOV&#193;>Takže my sme ho to hej ostatní.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7558-0
+00:59:59.142 --> 00:59:59.662
+<v Alexander JANOV>Voľný.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7582-0
+00:59:59.802 --> 01:00:04.398
+<v Veronika NESPALOV&#193;>Ale nie ja ti to pozriem akože budem sa
+snažiť čo najskôr ale aj neskoršie plné</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7562-0
+01:00:00.472 --> 01:00:01.222
+<v Alexander JANOV>Tak sa majte.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7569-0
+01:00:01.932 --> 01:00:02.692
+<v Dušan Pidanič>Majte sa.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7605-0
+01:00:03.692 --> 01:00:08.175
+<v Lenka FERKOVOV&#193;>A pošlem to potom,
+že aj na teba aj na macku či iba na teba</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7582-1
+01:00:04.398 --> 01:00:05.432
+<v Veronika NESPALOV&#193;>piatok to pozriem.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7598-0
+01:00:06.892 --> 01:00:10.092
+<v Veronika NESPALOV&#193;>Áno, áno áno na obidve dobré.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7605-1
+01:00:08.175 --> 01:00:11.462
+<v Lenka FERKOVOV&#193;>dobre, dobre, dobre,
+dobre dobre dohodnuté.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7602-0
+01:00:10.902 --> 01:00:11.222
+<v Veronika NESPALOV&#193;>Dobre.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7619-0
+01:00:13.022 --> 01:00:15.932
+<v Lenka FERKOVOV&#193;>Dobre super ďakujem tak ahojte dovidenia.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7617-0
+01:00:13.322 --> 01:00:15.542
+<v Dušan Pidanič>Park hotel majte sa.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7612-0
+01:00:13.442 --> 01:00:14.172
+<v Alexander JANOV>Máte sa?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7620-0
+01:00:15.662 --> 01:00:16.002
+<v Veronika NESPALOV&#193;>Hm.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7631-0
+01:00:16.112 --> 01:00:17.172
+<v Luk&#225;š ŠINAĽ>Ďakujem ostatnými.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7629-0
+01:00:16.272 --> 01:00:17.722
+<v J&#225;n PŘ&#205;VARA>V lete sa menia.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7637-0
+01:00:19.372 --> 01:00:21.312
+<v Luk&#225;š ŠINAĽ>Veronika mňa mňa tu potrebuješ alebo?</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7649-0
+01:00:21.782 --> 01:00:25.176
+<v Veronika NESPALOV&#193;>Nepotrebujeme nie že by ťa to zaujímalo,
+ale môžem ti to povedať aj zajtra na</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7649-1
+01:00:25.176 --> 01:00:26.482
+<v Veronika NESPALOV&#193;>statuse, takže to je v pohode.</v>
+
+b5ca8bbd-9080-4bce-bde9-773786ff17c7/7655-0
+01:00:27.702 --> 01:00:28.472
+<v Veronika NESPALOV&#193;>Takže nemusíš?</v>
+
