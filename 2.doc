@@ -1,0 +1,674 @@
+Date: Thu, 29 Jan 2026 13:55:29 +0100 (CET)
+Message-ID: <1091299915.83132.1769691329538@pjiraprod04.tatrabanka.sk>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_83131_1014337385.1769691329536"
+
+------=_Part_83131_1014337385.1769691329536
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>UC0203 - Rozmie=C5=88anie hotovosti</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>UC0203 - Rozmie=C5=88anie hotovosti</h1>
+    <div class=3D"Section1">
+        <div class=3D"contentLayout2">
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<h1 id=3D"UC0203Rozmie=C5=88aniehotovosti-Obsah">Obsah</h1>
+<p><style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1769691329460 {padding: 0px;}
+div.rbtoc1769691329460 ul {margin-left: 0px;}
+div.rbtoc1769691329460 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style></p>
+<div class=3D"toc-macro rbtoc1769691329460">
+<ul class=3D"toc-indentation">
+<li><a href=3D"#UC0203Rozmie=C5=88aniehotovosti-Obsah">Obsah</a></li>
+<li><a href=3D"#UC0203Rozmie=C5=88aniehotovosti-UseCase=C5=A0pecifik=C3=A1c=
+ia">Use Case =C5=A0pecifik=C3=A1cia</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#UC0203Rozmie=C5=88aniehotovosti-Stru=C4=8Dn=C3=BDpopis">Str=
+u=C4=8Dn=C3=BD popis</a></li>
+<li><a href=3D"#UC0203Rozmie=C5=88aniehotovosti-=C3=9A=C4=8Del">=C3=9A=C4=
+=8Del</a></li>
+<li><a href=3D"#UC0203Rozmie=C5=88aniehotovosti-Hlavn=C3=BDtok">Hlavn=C3=BD=
+ tok</a></li>
+<li><a href=3D"#UC0203Rozmie=C5=88aniehotovosti-Alternat=C3=ADvnetoky">Alte=
+rnat=C3=ADvne toky</a></li>
+<li><a href=3D"#UC0203Rozmie=C5=88aniehotovosti-V=C3=BDsledok">V=C3=BDsledo=
+k</a></li>
+</ul></li>
+<li><a href=3D"#UC0203Rozmie=C5=88aniehotovosti-Grafick=C3=A9pou=C5=BE=C3=
+=ADvate=C4=BEsk=C3=A9rozhranie">Grafick=C3=A9 pou=C5=BE=C3=ADvate=C4=BEsk=
+=C3=A9 rozhranie</a></li>
+<li><a href=3D"#UC0203Rozmie=C5=88aniehotovosti-Roz=C5=A1=C3=ADrenia">Roz=
+=C5=A1=C3=ADrenia</a></li>
+<li><a href=3D"#UC0203Rozmie=C5=88aniehotovosti-Ostatn=C3=A9po=C5=BEiadavky=
+">Ostatn=C3=A9 po=C5=BEiadavky</a></li>
+<li><a href=3D"#UC0203Rozmie=C5=88aniehotovosti-Valid=C3=A1cie">Valid=C3=A1=
+cie</a></li>
+</ul>
+</div>
+<p></p>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<p>Poznamky</p>
+<p><em><strong>Cie=C4=BE</strong></em></p>
+<ul>
+<li style=3D"font-style: italic;"><p><em>Zn=C3=AD=C5=BEi=C5=A5 ping-pong me=
+dzi obrazovkami (Gate =E2=86=94 Box =E2=86=94 potvrdenia)</em></p></li>
+<li style=3D"font-style: italic;"><p><em>Ma=C5=A5&nbsp;menej potvrdzovac=C3=
+=ADch obrazoviek na =E2=80=9Czhodnos=C5=A5 =C3=BAdajov=E2=80=9D (preferenci=
+a: iba na konci)</em></p></li>
+<li style=3D"font-style: italic;"><p><em>Dosta=C5=A5 =E2=80=9Cmno=C5=BEstvo=
+ krokov=E2=80=9D bli=C5=BE=C5=A1ie k logike:</em><br><em>(1) vypln=C3=ADm t=
+ransakciu + poplatok =E2=86=92 (2) klient potvrd=C3=AD/podp=C3=AD=C5=A1e =
+=E2=86=92 (3) fin=C3=A1lne ukon=C4=8D=C3=ADm + pr=C3=ADpadne vyberiem hotov=
+os=C5=A5</em></p></li>
+</ul>
+<p><br><em>Navrhovan=C3=A9 zmeny flow</em></p>
+<ul>
+<li style=3D"font-style: italic;"><p><em>Po v=C3=BDbere rozmie=C5=88ania sa=
+ ide&nbsp;rovno do boxu, kde sa vypln=C3=AD:</em></p></li>
+<ol>
+<li style=3D"font-style: italic;"><p><em>mincovka transakcie (IN/OUT)</em><=
+/p></li>
+<li style=3D"font-style: italic;"><p><em>mincovka poplatku&nbsp;(iba ke=C4=
+=8F sa poplatok plat=C3=AD v hotovosti)</em></p></li>
+</ol>
+<li style=3D"font-style: italic;"><p><em>A=C5=BE potom sa ide na&nbsp;table=
+t:</em></p></li>
+<ul>
+<li style=3D"font-style: italic;"><p><em>klient vid=C3=AD sumu, poplatok (r=
+esp. inform=C3=A1ciu o strhnut=C3=AD z =C3=BA=C4=8Dtu), potvrd=C3=AD a&nbsp=
+;podp=C3=AD=C5=A1e</em></p></li>
+</ul>
+<li style=3D"font-style: italic;"><p><em>Po n=C3=A1vrate do boxu:</em></p><=
+/li>
+<ul>
+<li style=3D"font-style: italic;"><p><em>zobrazi=C5=A5 u=C5=BE len kr=C3=A1=
+tke fin=C3=A1lne potvrdenie (subjekt/osoba/firma), potom&nbsp;ukon=C4=8Di=
+=C5=A5</em></p></li>
+</ul>
+<li style=3D"font-style: italic;"><p><em>St=C3=A1le plati=C5=A5, =C5=BEe&nb=
+sp;do podpisu&nbsp;sa d=C3=A1 transakcia&nbsp;zru=C5=A1i=C5=A5/neudeli=C5=
+=A5&nbsp;</em></p></li>
+</ul>
+<p><br><em>UX&nbsp;</em></p>
+<ul>
+<li style=3D"font-style: italic;"><p><em>Potrebn=C3=A9 je ma=C5=A5 mo=C5=BE=
+nos=C5=A5&nbsp;vr=C3=A1ti=C5=A5 sa o krok sp=C3=A4=C5=A5 a upravi=C5=A5 min=
+covku&nbsp;</em></p></li>
+<li style=3D"font-style: italic;"><p><em>Zamestnanec rie=C5=A1i =E2=80=9C=
+=C4=8Do ak som zadal zle=E2=80=9D =E2=86=92 rie=C5=A1enie:&nbsp;back/edit +=
+ klient mus=C3=AD znovu ods=C3=BAhlasi=C5=A5 poplatok</em></p></li>
+<li style=3D"font-style: italic;"><p><em>Pribudn=C3=BA=C5=A5 m=C3=B4=C5=BEe=
+ explicitn=C3=A9 tla=C4=8Didlo typu&nbsp;=E2=80=9CZru=C5=A1i=C5=A5 transakc=
+iu=E2=80=9D (do podpisu)</em></p></li>
+</ul>
+<hr>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<h1 id=3D"UC0203Rozmie=C5=88aniehotovosti-UseCase=C5=A0pecifik=C3=A1cia">Us=
+e Case =C5=A0pecifik=C3=A1cia</h1>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<h2 id=3D"UC0203Rozmie=C5=88aniehotovosti-Stru=C4=8Dn=C3=BDpopis">Stru=C4=
+=8Dn=C3=BD popis</h2>
+<p>UC popisuje proces rozmie=C5=88ania hotovosti v aplik=C3=A1cii CashBox, =
+kde pou=C5=BE=C3=ADvate=C4=BE zad=C3=A1 nomin=C3=A1ly pre Hotovos=C5=A5 IN =
+a Hotovos=C5=A5 OUT, syst=C3=A9m priebe=C5=BEne prepo=C4=8D=C3=ADtava rozdi=
+el a n=C3=A1sledne zobraz=C3=AD s=C3=BAhrn oper=C3=A1cie. V z=C3=A1vislosti=
+ od variantu sa poplatok rie=C5=A1i bu=C4=8F hotovos=C5=A5ou (poplatkov=C3=
+=A1 mincovka) alebo strhnut=C3=ADm z =C3=BA=C4=8Dtu</p>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<h2 style=3D"text-align: left;" id=3D"UC0203Rozmie=C5=88aniehotovosti-=C3=
+=9A=C4=8Del">=C3=9A=C4=8Del</h2>
+<p><span style=3D"color: rgb(31,31,31);">Postup pre vykonanie oper=C3=A1cie=
+ rozmie=C5=88ania hotovosti v pokladni=C4=8Dnom procese tak, aby bolo mo=C5=
+=BEn=C3=A9 oper=C3=A1ciu jednoducho zada=C5=A5, skontrolova=C5=A5 a evidova=
+=C5=A5 v syst=C3=A9me vr=C3=A1tane uplatnenia poplatku (a pr=C3=ADpadnej z=
+=C4=BEavy) pod=C4=BEa typu klienta a zvolen=C3=A9ho sp=C3=B4sobu =C3=BAhrad=
+y poplatku</span></p>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<h2 id=3D"UC0203Rozmie=C5=88aniehotovosti-Hlavn=C3=BDtok"><span style=3D"co=
+lor: rgb(0,0,0);">Hlavn=C3=BD tok</span></h2>
+<p><span style=3D"color: rgb(0,0,0);"><span style=3D"color: rgb(0,0,0);"><s=
+pan style=3D"color: rgb(23,43,77);"><span>&nbsp;</span></span><strong>Rozmi=
+enanie hotovosti (fyzick=C3=A1 osoba)</strong></span></span></p>
+<ol>
+<li><p>Pou=C5=BE=C3=ADvate=C4=BE otvor=C3=AD obrazovku Rozmie=C5=88anie hot=
+ovosti - <span style=3D"color: rgb(255,0,0);">System na z=C3=A1klade prekli=
+ku z aplik=C3=A1cie Gate na=C4=8D=C3=ADta obrazovku Rozmie=C5=88anie hotovo=
+sti v CashBoxe</span> ???</p></li>
+<li><p>Syst=C3=A9m<span style=3D"color: rgb(0,0,0);"> zobraz=C3=AD formul=
+=C3=A1r (mincovku) rozmie=C5=88ania s =C4=8Das=C5=A5ami&nbsp;</span><strong=
+>Hotovos=C5=A5 IN</strong><span style=3D"color: rgb(0,0,0);">&nbsp;a&nbsp;<=
+/span><strong>Hotovos=C5=A5 OUT</strong><span style=3D"color: rgb(0,0,0);">=
+&nbsp;a priebe=C5=BEne zobrazuje&nbsp;</span>Difference<span style=3D"color=
+: rgb(0,0,0);">&nbsp;(medzis=C3=BA=C4=8Det/rozdiel) pod=C4=BEa zadan=C3=BDc=
+h nomin=C3=A1lov</span></p></li>
+<li><p>Pou=C5=BE=C3=ADvate=C4=BE<span style=3D"color: rgb(0,0,0);">&nbsp;za=
+d=C3=A1 nomin=C3=A1ly pre&nbsp;</span><strong>Hotovos=C5=A5 IN</strong><spa=
+n style=3D"color: rgb(0,0,0);">&nbsp;a&nbsp;</span><strong>Hotovos=C5=A5 OU=
+T</strong></p></li>
+<li><p>Pou=C5=BE=C3=ADvate=C4=BE<span style=3D"color: rgb(0,0,0);">&nbsp;zv=
+ol=C3=AD </span>Pokra=C4=8Dova=C5=A5</p></li>
+<li><p>Syst=C3=A9m<span style=3D"color: rgb(0,0,0);">&nbsp;zobraz=C3=AD for=
+mul=C3=A1r pre&nbsp;</span>poplatok (mincovka)<span style=3D"color: rgb(0,0=
+,0);">&nbsp;s =C4=8Das=C5=A5ami<strong>&nbsp;</strong></span><strong>Hotovo=
+s=C5=A5 IN</strong><span style=3D"color: rgb(0,0,0);">&nbsp;a&nbsp;</span><=
+strong>Hotovos=C5=A5 OUT</strong><span style=3D"color: rgb(0,0,0);">&nbsp;a=
+ priebe=C5=BEne zobrazuje&nbsp;</span><strong>Difference</strong><span styl=
+e=3D"color: rgb(0,0,0);">&nbsp;pod=C4=BEa zadan=C3=BDch nomin=C3=A1lov</spa=
+n></p></li>
+<li>Pou=C5=BE=C3=ADvate=C4=BE<span style=3D"color: rgb(0,0,0);">&nbsp;zad=
+=C3=A1 nomin=C3=A1ly poplatku pre&nbsp;</span><strong>Hotovos=C5=A5 IN</str=
+ong><span style=3D"color: rgb(0,0,0);">&nbsp;a&nbsp;</span><strong>Hotovos=
+=C5=A5 OUT</strong></li>
+<li style=3D"color: rgb(0,0,0);"><span style=3D"color: rgb(0,0,0);">Pou=C5=
+=BE=C3=ADvate=C4=BE&nbsp;zvol=C3=AD tla=C4=8Didlo <strong>Pokra=C4=8Dova=C5=
+=A5</strong></span></li>
+<li style=3D"color: rgb(0,0,0);">Syst=C3=A9m<span style=3D"color: rgb(0,0,0=
+);">&nbsp;zobraz=C3=AD&nbsp;</span>s=C3=BAhrnn=C3=BA obrazovku<span style=
+=3D"color: rgb(0,0,0);">&nbsp;rozmie=C5=88ania hotovosti s poplatkom vr=C3=
+=A1tane po=C4=BEa </span><strong>Popis</strong></li>
+<li><p>Pou=C5=BE=C3=ADvate=C4=BE<span style=3D"color: rgb(0,0,0);"> vypln=
+=C3=AD </span><strong>Popis</strong> <span style=3D"color: rgb(0,0,0);">a z=
+vol=C3=AD </span><strong>Ulo=C5=BEi=C5=A5</strong></p></li>
+<li><p><span style=3D"letter-spacing: 0.0px;">Syst=C3=A9m oper=C3=A1ciu ulo=
+=C5=BE=C3=AD a zaeviduje,&nbsp;</span><span style=3D"letter-spacing: 0.0px;=
+color: rgb(255,0,0);">kde sa nasledn=C3=A9 otvor=C3=AD proces v GATE (DSA p=
+odpisovanie)</span></p></li>
+<li><span style=3D"color: rgb(255,0,0);">Syst=C3=A9m po podpise v GATE zobr=
+az=C3=AD formul=C3=A1r v CashBoxe kde sa nach=C3=A1dza kr=C3=A1tke fin=C3=
+=A1lne potvrdenie</span></li>
+<li><span style=3D"color: rgb(255,0,0);">Pou=C5=BE=C3=ADvate=C4=BE po =C3=
+=BAspe=C5=A1nej kontrole zvol=C3=AD mo=C5=BEnos=C5=A5 Ulo=C5=BEi=C5=A5 a uz=
+avrie=C5=A5</span></li>
+<li><span style=3D"color: rgb(255,0,0);">Koniec UC</span></li>
+</ol>
+<p><span style=3D"color: rgb(255,0,0);"><span style=3D"color: rgb(0,0,0);">=
+<strong>Rozmienanie hotovosti (fyzick=C3=A1 osoba v mene pr=C3=A1vnickej os=
+oby, ktor=C3=A1 nema zv=C3=BDhodnenie)</strong></span></span></p>
+<ol>
+<li><span style=3D"color: rgb(0,0,0);">Popis tohto HT je zhodn=C3=BD ako HT=
+ - <a href=3D"https://confluenceit.tatrabanka.sk/confluence/pages/viewpage.=
+action?pageId=3D234578400#:~:text=3D%C2%A0Rozmienanie%20hotovosti%20(fyzick=
+%C3%A1%20osoba)" rel=3D"nofollow">Rozmienanie hotovosti (fyzick=C3=A1 osoba=
+)</a></span></li>
+<li>Rozdiel je iba v:</li>
+<ol>
+<li>Syst=C3=A9m dotiahne do obrazovky okrem fyzickej osobe inform=C3=A1cie =
+aj o firemn=C3=A9 =C3=BAdaje (solo=C4=8Dnos=C5=A5, Adresa, I=C4=8CO a at=C4=
+=8F) a zobraz=C3=AD ich v s=C3=BAhrne</li>
+<li>Syst=C3=A9m nastav=C3=AD re=C5=BEim bez z=C4=BEavy (z=C4=BEava =3D 0 %,=
+ bez mo=C5=BEnosti uplatnenia z=C4=BEavy)</li>
+<li>Poplatok sa rie=C5=A1i v hotovosti cez poplatkov=C3=BA mincovku (kroky =
+5=E2=80=937)</li>
+</ol>
+</ol>
+<p><span style=3D"color: rgb(255,0,0);"><span style=3D"color: rgb(0,0,0);">=
+<strong><span style=3D"color: rgb(255,0,0);"><span style=3D"color: rgb(0,0,=
+0);">Rozmienanie hotovosti (fyzick=C3=A1 osoba v mene pr=C3=A1vnickej osoby=
+, ktor=C3=A1 m=C3=A1 zv=C3=BDhodnenie) - poplatok sa =C3=BA=C4=8Dtuje z =C3=
+=BA=C4=8Dtu</span></span></strong></span></span></p>
+<ol>
+<li><span style=3D"color: rgb(255,0,0);"><span style=3D"color: rgb(0,0,0);"=
+><span style=3D"color: rgb(255,0,0);"><span style=3D"color: rgb(0,0,0);">Po=
+pis tohto HT je zhodn=C3=BD ako HT - <a href=3D"https://confluenceit.tatrab=
+anka.sk/confluence/pages/viewpage.action?pageId=3D234578400#:~:text=3DRozmi=
+enanie%20hotovosti%20(fyzick%C3%A1%20osoba)" rel=3D"nofollow">Rozmienanie h=
+otovosti (fyzick=C3=A1 osoba)</a></span></span></span></span></li>
+<li>Rozdiel je iba v:</li>
+<ol>
+<li>Do s=C3=BAhrnej obrazovky sa dotiahnu =C3=BAdaje poplatok + z=C4=BEavu =
++ inform=C3=A1ciu, =C5=BEe poplatok bude&nbsp;strhnut=C3=BD z konkr=C3=A9tn=
+eho =C3=BA=C4=8Dtu</li>
+<li>Neobjav=C3=AD sa hotovostn=C3=A1 poplatkov=C3=A1 mincovka (lebo sa nest=
+rh=C3=A1va cash)</li>
+<li>Koniec transakcie je bez vyber hotovos=C5=A5, resp. poplatok sa za=C3=
+=BA=C4=8Dtuje po potvrden=C3=AD</li>
+</ol>
+</ol>
+<p><br></p>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<p><br></p>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<h2 id=3D"UC0203Rozmie=C5=88aniehotovosti-Alternat=C3=ADvnetoky"><span styl=
+e=3D"color: rgb(0,0,0);"><span class=3D"inline-comment-marker" data-ref=3D"=
+7c4d7548-62cf-4227-b92c-9df77f2d15a6">Alternat=C3=ADvne toky</span></span><=
+/h2>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<p><br></p>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<h2 id=3D"UC0203Rozmie=C5=88aniehotovosti-V=C3=BDsledok">V=C3=BDsledok</h2>
+<p>V=C3=BDsledkom UC je, =C5=BEe rozmie=C5=88anie hotovosti je v CashBoxe k=
+orektne ulo=C5=BEen=C3=A1 a zaevidovan=C3=A1 so v=C5=A1etk=C3=BDmi zadan=C3=
+=BDmi nomin=C3=A1lmi (Hotovos=C5=A5 IN/OUT), vypo=C4=8D=C3=ADtan=C3=BDmi su=
+mami a rozdielom, s uveden=C3=BDm poplatkom (vr=C3=A1tane sp=C3=B4sobu =C3=
+=BAhrady a pr=C3=ADpadnej z=C4=BEavy)</p>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<h1 id=3D"UC0203Rozmie=C5=88aniehotovosti-Grafick=C3=A9pou=C5=BE=C3=ADvate=
+=C4=BEsk=C3=A9rozhranie">Grafick=C3=A9 pou=C5=BE=C3=ADvate=C4=BEsk=C3=A9 ro=
+zhranie</h1>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><strong>S=C3=BAhrnn=C3=A1 obrazovka Rozmie=C5=88anie hotovosti (s poplat=
+kom / bez poplatku )obsahuje:</strong></p>
+<ul>
+<li><p><strong>=C4=8Ciastka [EUR]</strong> =E2=80=93 zobrazen=C3=A1 hodnota=
+&nbsp;</p></li>
+<li><p><strong>Po=C4=8Det nomin=C3=A1li=C3=AD</strong> =E2=80=93 zobrazen=
+=C3=A1 hodnota&nbsp;</p></li>
+<li><p><strong>Poplatok [EUR]</strong> + inform=C3=A1cia&nbsp;=E2=80=93 zob=
+razen=C3=A9 hodnoty&nbsp;</p></li>
+<li><p><strong>Z=C4=BEava %</strong> =E2=80=93 zobrazen=C3=A1 hodnota&nbsp;=
+</p></li>
+<li><p><strong>Popis</strong>&nbsp;=E2=80=93<span>&nbsp;</span><strong>edit=
+ovate=C4=BEn=C3=A9</strong> vstupn=C3=A9 pole</p></li>
+</ul>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<hr>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<h1 id=3D"UC0203Rozmie=C5=88aniehotovosti-Roz=C5=A1=C3=ADrenia">Roz=C5=A1=
+=C3=ADrenia</h1>
+<hr>
+<p><br></p>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<p><br></p>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<h1 id=3D"UC0203Rozmie=C5=88aniehotovosti-Ostatn=C3=A9po=C5=BEiadavky">Osta=
+tn=C3=A9 po=C5=BEiadavky</h1>
+<hr>
+<p><br></p>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<p><br></p>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<h1 id=3D"UC0203Rozmie=C5=88aniehotovosti-Valid=C3=A1cie"><span class=3D"in=
+line-comment-marker" data-ref=3D"58cf465a-3676-4b29-9279-60816fdd7823"><spa=
+n class=3D"inline-comment-marker" data-ref=3D"98a7e57f-6567-41ac-9e4f-3b7a8=
+794358d">Valid=C3=A1cie</span></span></h1>
+<hr>
+<p><br></p>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 54.=
+9249%;">
+<colgroup>
+<col style=3D"width: 9.53105%;">
+<col style=3D"width: 6.59062%;">
+<col style=3D"width: 11.7617%;">
+<col style=3D"width: 34.3726%;">
+<col style=3D"width: 13.0798%;">
+<col style=3D"width: 9.53105%;">
+<col style=3D"width: 8.51711%;">
+<col style=3D"width: 6.59062%;">
+</colgroup>
+<tbody>
+<tr>
+<th scope=3D"col" class=3D"confluenceTh"><strong>Name</strong></th>
+<th scope=3D"col" class=3D"confluenceTh"><strong>Type</strong></th>
+<th scope=3D"col" class=3D"confluenceTh"><strong>Description</strong></th>
+<th scope=3D"col" class=3D"confluenceTh"><strong>Validation</strong></th>
+<th scope=3D"col" class=3D"confluenceTh"><strong>Data model mapping</strong=
+></th>
+<td class=3D"confluenceTd"><p><strong>Mandatory</strong></p></td>
+<td class=3D"confluenceTd"><p><strong>Inputable</strong></p></td>
+<td class=3D"confluenceTd"><p><strong>Visible</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><p><br></p></td>
+<td class=3D"confluenceTd"><p><br></p></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><p><br></p></td>
+<td class=3D"confluenceTd"><p><br></p></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><p><br></p></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<p><br><br></p>
+<p><br></p>
+</div>
+</div>
+</div>
+<div class=3D"columnLayout single" data-layout=3D"single">
+<div class=3D"cell normal" data-type=3D"normal">
+<div class=3D"innerCell">
+<hr>
+<p><br></p>
+</div>
+</div>
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_83131_1014337385.1769691329536--
