@@ -57,3 +57,22 @@ Link: [doplním])
 Prosíme ťa o sumárne vyhodnotenie. Čo boli pre teba kľúčové momenty v uplynulom roku (náročné/pozitívne/výnimočné)? Ohodnoť sa ratingom cez tlačidlo „VYBRAŤ“ a v komentári uveď, prečo si tak hodnotil.​
 Ako podľa teba prispievaš k posilňovaniu želanej kultúry v tíme?
 Čo konkrétne oceňuješ na spolupráci so svojím manažérom? Kde vidíš priestor na zlepšenie?
+
+
+Kľúčové momenty v uplynulom roku
+
+Ako kľúčové vnímam hlavne zapojenie sa do delivery okolo eGOV, kde som sa musel rýchlo zorientovať v komplexnom biznis prostredí a legislatívnych témach. Nebolo to vždy jednoduché, ale veľa ma to naučilo a posunulo aj odborne. Pozitívne beriem aj to, že sa mi podarilo byť stabilným prepojovacím článkom medzi biznisom a dodávateľmi a postupne si budovať dôveru na oboch stranách.
+
+Rating: 8 – väčšinu cieľov sa mi podarilo naplniť, pri niektorých témach (hlavne eGOV) vidím ešte priestor na zlepšenie, ale beriem to ako prirodzený vývoj v novej a náročnej oblasti.
+
+Ako prispievam k tímovej kultúre
+
+Sžím sa byť v tíme človek, na ktorého sa dá spoľahnúť. Keď je problém, radšej ho otvorím a riešim, než aby ostal visieť vo vzduchu. Podporujem otvorenú komunikáciu, zapájam sa do diskusií na refinemento ch a planningoch a snažím sa, aby sme sa ako tím posúvali dopredu, nielen riešili operatívu.
+
+Zároveň sa snažím držať veci vecne a pokojne aj v situáciách, keď je tlak z biznisu alebo termínov.
+
+Spolupráca s manažérom – čo oceňujem a kde je priestor na zlepšenie
+
+Oceňujem hlavne otvorenú komunikáciu a to, že sa viem poradiť keď si nie som istý smerovaním alebo prioritami. Vnímam podporu pri riešení zložitejších situácií, hlavne keď treba niečo eskalovať alebo nastaviť očakávania voči biznisu.
+
+Priestor na zlepšenie vidím možno v ešte častejšom zosúlaďovaní priorít pri väčšom množstve paralelných tém, aby bolo úplne jasné čo je v danom období najdôležitejšie.
