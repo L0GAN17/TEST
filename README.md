@@ -50,3 +50,10 @@ Zapájal som sa do tvorby štandardizácie pre IT analytikov, hlavne formou prip
 Výsledkom je jasnejšie zadefinovaná štruktúra dokumentácie, rozdelenie na povinné a voliteľné časti a tiež podklady v Confluence, ktoré môžu slúžiť ako orientácia pre nového analytika. Štandard bol zároveň prezentovaný širšej skupine, pripomienkovaný a pri nových požiadavkách sa už podľa neho postupuje.
 
 Link: [doplním])
+
+
+
+
+Prosíme ťa o sumárne vyhodnotenie. Čo boli pre teba kľúčové momenty v uplynulom roku (náročné/pozitívne/výnimočné)? Ohodnoť sa ratingom cez tlačidlo „VYBRAŤ“ a v komentári uveď, prečo si tak hodnotil.​
+Ako podľa teba prispievaš k posilňovaniu želanej kultúry v tíme?
+Čo konkrétne oceňuješ na spolupráci so svojím manažérom? Kde vidíš priestor na zlepšenie?
