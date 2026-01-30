@@ -35,6 +35,9 @@ Rozvojove skolenia
 2x udemy kurz technicky, 2x softovy kurz  7
 2x technicky udemy kurz, 1x softovy kurz  8
 1x udemy, 3x softovy kurz  9
+(Writing Effective User Stories (Udemy)
+Stakeholder Management (Udemy)
+AI Prompting: AI Basics for Content Generation
 
 Standardizacia analyzy
 Mame zadefinovane must a optional casti dokumentacie, zadefinovanu zakladnu strukturu dokumentacie
