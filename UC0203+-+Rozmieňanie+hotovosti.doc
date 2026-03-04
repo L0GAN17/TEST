@@ -1,11 +1,11 @@
-Date: Wed, 25 Feb 2026 15:27:51 +0100 (CET)
-Message-ID: <1344515452.4353.1772029671644@pjiraprod04.tatrabanka.sk>
+Date: Wed, 4 Mar 2026 08:49:45 +0100 (CET)
+Message-ID: <1236284185.13778.1772610585550@pjiraprod04.tatrabanka.sk>
 Subject: Exported From Confluence
 MIME-Version: 1.0
 Content-Type: multipart/related; 
-	boundary="----=_Part_4352_2085848383.1772029671644"
+	boundary="----=_Part_13777_600556790.1772610585549"
 
-------=_Part_4352_2085848383.1772029671644
+------=_Part_13777_600556790.1772610585549
 Content-Type: text/html; charset=UTF-8
 Content-Transfer-Encoding: quoted-printable
 Content-Location: file:///C:/exported.html
@@ -238,12 +238,12 @@ d of the content */
 <div class=3D"innerCell">
 <h1 id=3D"UC0203Rozmie=C5=88aniehotovosti-Obsah">Obsah</h1>
 <p><style type=3D"text/css">/*<![CDATA[*/
-div.rbtoc1772029671590 {padding: 0px;}
-div.rbtoc1772029671590 ul {margin-left: 0px;}
-div.rbtoc1772029671590 li {margin-left: 0px;padding-left: 0px;}
+div.rbtoc1772610585540 {padding: 0px;}
+div.rbtoc1772610585540 ul {margin-left: 0px;}
+div.rbtoc1772610585540 li {margin-left: 0px;padding-left: 0px;}
 
 /*]]>*/</style></p>
-<div class=3D"toc-macro rbtoc1772029671590">
+<div class=3D"toc-macro rbtoc1772610585540">
 <ul class=3D"toc-indentation">
 <li><a href=3D"#UC0203Rozmie=C5=88aniehotovosti-Obsah">Obsah</a></li>
 <li><a href=3D"#UC0203Rozmie=C5=88aniehotovosti-UseCase=C5=A0pecifik=C3=A1c=
@@ -272,67 +272,6 @@ cie</a></li>
 </ul>
 </div>
 <p></p>
-</div>
-</div>
-</div>
-<div class=3D"columnLayout single" data-layout=3D"single">
-<div class=3D"cell normal" data-type=3D"normal">
-<div class=3D"innerCell">
-<p>Poznamky</p>
-<p><em><strong>Cie=C4=BE</strong></em></p>
-<ul>
-<li style=3D"font-style: italic;"><p><em>Zn=C3=AD=C5=BEi=C5=A5 ping-pong me=
-dzi obrazovkami (Gate =E2=86=94 Box =E2=86=94 potvrdenia)</em></p></li>
-<li style=3D"font-style: italic;"><p><em>Ma=C5=A5&nbsp;menej potvrdzovac=C3=
-=ADch obrazoviek na =E2=80=9Czhodnos=C5=A5 =C3=BAdajov=E2=80=9D (preferenci=
-a: iba na konci)</em></p></li>
-<li style=3D"font-style: italic;"><p><em>Dosta=C5=A5 =E2=80=9Cmno=C5=BEstvo=
- krokov=E2=80=9D bli=C5=BE=C5=A1ie k logike:</em><br><em>(1) vypln=C3=ADm t=
-ransakciu + poplatok =E2=86=92 (2) klient potvrd=C3=AD/podp=C3=AD=C5=A1e =
-=E2=86=92 (3) fin=C3=A1lne ukon=C4=8D=C3=ADm + pr=C3=ADpadne vyberiem hotov=
-os=C5=A5</em></p></li>
-</ul>
-<p><br><em>Navrhovan=C3=A9 zmeny flow</em></p>
-<ul>
-<li style=3D"font-style: italic;"><p><em>Po v=C3=BDbere rozmie=C5=88ania sa=
- ide&nbsp;rovno do boxu, kde sa vypln=C3=AD:</em></p></li>
-<ol>
-<li style=3D"font-style: italic;"><p><em>mincovka transakcie (IN/OUT)</em><=
-/p></li>
-<li style=3D"font-style: italic;"><p><em>mincovka poplatku&nbsp;(iba ke=C4=
-=8F sa poplatok plat=C3=AD v hotovosti)</em></p></li>
-</ol>
-<li style=3D"font-style: italic;"><p><em>A=C5=BE potom sa ide na&nbsp;table=
-t:</em></p></li>
-<ul>
-<li style=3D"font-style: italic;"><p><em>klient vid=C3=AD sumu, poplatok (r=
-esp. inform=C3=A1ciu o strhnut=C3=AD z =C3=BA=C4=8Dtu), potvrd=C3=AD a&nbsp=
-;podp=C3=AD=C5=A1e</em></p></li>
-</ul>
-<li style=3D"font-style: italic;"><p><em>Po n=C3=A1vrate do boxu:</em></p><=
-/li>
-<ul>
-<li style=3D"font-style: italic;"><p><em>zobrazi=C5=A5 u=C5=BE len kr=C3=A1=
-tke fin=C3=A1lne potvrdenie (subjekt/osoba/firma), potom&nbsp;ukon=C4=8Di=
-=C5=A5</em></p></li>
-</ul>
-<li style=3D"font-style: italic;"><p><em>St=C3=A1le plati=C5=A5, =C5=BEe&nb=
-sp;do podpisu&nbsp;sa d=C3=A1 transakcia&nbsp;zru=C5=A1i=C5=A5/neudeli=C5=
-=A5&nbsp;</em></p></li>
-</ul>
-<p><br><em>UX&nbsp;</em></p>
-<ul>
-<li style=3D"font-style: italic;"><p><em>Potrebn=C3=A9 je ma=C5=A5 mo=C5=BE=
-nos=C5=A5&nbsp;vr=C3=A1ti=C5=A5 sa o krok sp=C3=A4=C5=A5 a upravi=C5=A5 min=
-covku&nbsp;</em></p></li>
-<li style=3D"font-style: italic;"><p><em>Zamestnanec rie=C5=A1i =E2=80=9C=
-=C4=8Do ak som zadal zle=E2=80=9D =E2=86=92 rie=C5=A1enie:&nbsp;back/edit +=
- klient mus=C3=AD znovu ods=C3=BAhlasi=C5=A5 poplatok</em></p></li>
-<li style=3D"font-style: italic;"><p><em>Pribudn=C3=BA=C5=A5 m=C3=B4=C5=BEe=
- explicitn=C3=A9 tla=C4=8Didlo typu&nbsp;=E2=80=9CZru=C5=A1i=C5=A5 transakc=
-iu=E2=80=9D (do podpisu)</em></p></li>
-</ul>
-<hr>
 </div>
 </div>
 </div>
@@ -379,23 +318,30 @@ y poplatku</span></p>
 lor: rgb(0,0,0);">Hlavn=C3=BD tok</span></h2>
 <p><span style=3D"color: rgb(0,0,0);"><span style=3D"color: rgb(0,0,0);"><s=
 pan style=3D"color: rgb(23,43,77);"><span>&nbsp;</span></span><strong>Rozmi=
-enanie hotovosti (fyzick=C3=A1 osoba)</strong></span></span></p>
+enanie hotovosti (fyzick=C3=A1 osoba s poplatkom z GATE prekliku)</strong><=
+/span></span></p>
 <ol>
-<li><p>Pou=C5=BE=C3=ADvate=C4=BE otvor=C3=AD obrazovku Rozmie=C5=88anie hot=
-ovosti - <span style=3D"color: rgb(255,0,0);">System na z=C3=A1klade prekli=
-ku z aplik=C3=A1cie Gate na=C4=8D=C3=ADta obrazovku Rozmie=C5=88anie hotovo=
-sti v CashBoxe</span> ???</p></li>
-<li><p>Syst=C3=A9m<span style=3D"color: rgb(0,0,0);"> zobraz=C3=AD formul=
-=C3=A1r (mincovku) rozmie=C5=88ania s =C4=8Das=C5=A5ami&nbsp;</span><strong=
->Hotovos=C5=A5 IN</strong><span style=3D"color: rgb(0,0,0);">&nbsp;a&nbsp;<=
-/span><strong>Hotovos=C5=A5 OUT</strong><span style=3D"color: rgb(0,0,0);">=
- a priebe=C5=BEne prepo=C4=8Dit=C3=A1va </span><strong>Difference</strong><=
-span style=3D"color: rgb(0,0,0);">&nbsp;pod=C4=BEa zadan=C3=BDch nomin=C3=
-=A1lov</span></p></li>
-<li><p>Pou=C5=BE=C3=ADvate=C4=BE<span style=3D"color: rgb(0,0,0);">&nbsp;za=
-d=C3=A1 nomin=C3=A1ly pre&nbsp;</span><strong>Hotovos=C5=A5 IN</strong><spa=
-n style=3D"color: rgb(0,0,0);">&nbsp;a&nbsp;</span><strong>Hotovos=C5=A5 OU=
-T</strong></p></li>
+<li><p><span style=3D"color: rgb(23,43,77);"><span class=3D"inline-comment-=
+marker" data-ref=3D"19b8dde7-9f03-4c4f-bfd1-0382c90dae02">Syst=C3=A9m zavol=
+=C3=A1</span></span><span style=3D"color: rgb(23,43,77);"><span class=3D"in=
+line-comment-marker" data-ref=3D"19b8dde7-9f03-4c4f-bfd1-0382c90dae02">&nbs=
+p;</span></span><a class=3D"external-link" href=3D"https://rbinternational.=
+sharepoint.com/sites/TBSK-EnterpriseArchitecture/AppLib/Forms/AllItems.aspx=
+?csf=3D1&amp;web=3D1&amp;e=3DNfDsG7&amp;CID=3Daa88f168%2D9a2f%2D4d59%2Dbb96=
+%2Dadd8e836f00c&amp;FolderCTID=3D0x012000BBA17C737C0AAE4CAB0A13CB9A19D0D5&a=
+mp;id=3D%2Fsites%2FTBSK%2DEnterpriseArchitecture%2FAppLib%2FCentral%20Banki=
+ng%20Systems%2FAS400Account%2F2%20Interface%20Specifications%2FAS400Account=
+%2EAccountDetail%2FMQFIX%2F1v5" rel=3D"nofollow"><span class=3D"inline-comm=
+ent-marker" data-ref=3D"19b8dde7-9f03-4c4f-bfd1-0382c90dae02">AccountDetail=
+</span></a><span style=3D"color: rgb(23,43,77);"><span class=3D"inline-comm=
+ent-marker" data-ref=3D"19b8dde7-9f03-4c4f-bfd1-0382c90dae02">&nbsp;</span>=
+</span><span style=3D"color: rgb(23,43,77);"><span class=3D"inline-comment-=
+marker" data-ref=3D"19b8dde7-9f03-4c4f-bfd1-0382c90dae02">a dotiahne inform=
+=C3=A1cie o z=C4=BEav=C3=A1ch na =C3=BA=C4=8Dte</span></span></p></li>
+<li><p>Spust=C3=AD sa&nbsp;<a href=3D"https://confluenceit.tatrabanka.sk/co=
+nfluence/pages/viewpage.action?pageId=3D215857272#:~:text=3DAnalytics-,UC04=
+05%20%2D%20Pr%C3%ADprava%20%2D%20Mincovka,-Created%20by%20Mat%C3%BA%C5%A1" =
+rel=3D"nofollow">UC0405 - Pr=C3=ADprava - Mincovka</a></p></li>
 <li><p>Pou=C5=BE=C3=ADvate=C4=BE<span style=3D"color: rgb(0,0,0);">&nbsp;zv=
 ol=C3=AD </span><strong>Pokra=C4=8Dova=C5=A5</strong></p></li>
 <li><p>Syst=C3=A9m<span style=3D"color: rgb(0,0,0);">&nbsp;zobraz=C3=AD for=
@@ -406,31 +352,57 @@ strong>Hotovos=C5=A5 OUT</strong><span style=3D"color: rgb(0,0,0);">&nbsp;a=
  priebe=C5=BEne zobrazuje&nbsp;</span><strong>Difference</strong><span styl=
 e=3D"color: rgb(0,0,0);">&nbsp;pod=C4=BEa zadan=C3=BDch nomin=C3=A1lov</spa=
 n></p></li>
-<li>Pou=C5=BE=C3=ADvate=C4=BE<span style=3D"color: rgb(0,0,0);">&nbsp;zad=
-=C3=A1 nomin=C3=A1ly poplatku pre&nbsp;</span><strong>Hotovos=C5=A5 IN</str=
-ong><span style=3D"color: rgb(0,0,0);">&nbsp;a&nbsp;</span><strong>Hotovos=
-=C5=A5 OUT</strong></li>
+<li>Spust=C3=AD sa&nbsp;<a href=3D"https://confluenceit.tatrabanka.sk/confl=
+uence/pages/viewpage.action?pageId=3D215857272#:~:text=3DAnalytics-,UC0405%=
+20%2D%20Pr%C3%ADprava%20%2D%20Mincovka,-Created%20by%20Mat%C3%BA%C5%A1" rel=
+=3D"nofollow">UC0405 - Pr=C3=ADprava - Mincovka</a></li>
 <li style=3D"color: rgb(0,0,0);"><span style=3D"color: rgb(0,0,0);">Pou=C5=
 =BE=C3=ADvate=C4=BE&nbsp;zvol=C3=AD tla=C4=8Didlo <strong>Pokra=C4=8Dova=C5=
 =A5</strong></span></li>
 <li style=3D"color: rgb(0,0,0);">Syst=C3=A9m<span style=3D"color: rgb(0,0,0=
-);">&nbsp;zobraz=C3=AD&nbsp;</span>s=C3=BAhrnn=C3=BA obrazovku<span style=
-=3D"color: rgb(0,0,0);">&nbsp;rozmie=C5=88ania hotovosti s poplatkom vr=C3=
-=A1tane po=C4=BEa </span><strong>Popis</strong></li>
+);">&nbsp;zobraz=C3=AD&nbsp;</span><span style=3D"color: rgb(0,51,102);"><a=
+ href=3D"https://confluenceit.tatrabanka.sk/confluence/pages/viewpage.actio=
+n?pageId=3D234578400#:~:text=3DGrafick%C3%A9%20pou%C5%BE%C3%ADvate%C4%BEsk%=
+C3%A9%20rozhranie-,S%C3%BAhrnn%C3%A1%20obrazovka,-Rozmie%C5%88anie%20hotovo=
+sti%20(s" rel=3D"nofollow">s=C3=BAhrn=C3=BA obrazovku</a>&nbsp;rozmie=C5=88=
+ania hotovosti</span><span style=3D"color: rgb(0,0,0);"> s <span class=3D"i=
+nline-comment-marker" data-ref=3D"9859e43b-ce7e-41f2-9a80-f919b98689e3">pop=
+latkom</span> vr=C3=A1tane po=C4=BEa </span><strong>Popis</strong></li>
 <li><p>Pou=C5=BE=C3=ADvate=C4=BE<span style=3D"color: rgb(0,0,0);"> vypln=
 =C3=AD </span><strong>Popis</strong> <span style=3D"color: rgb(0,0,0);">a z=
-vol=C3=AD </span><strong>Ulo=C5=BEi=C5=A5</strong></p></li>
-<li><p><span style=3D"letter-spacing: 0.0px;">Syst=C3=A9m oper=C3=A1ciu ulo=
-=C5=BE=C3=AD a zaeviduje,&nbsp;</span><span style=3D"letter-spacing: 0.0px;=
-color: rgb(255,0,0);">kde sa nasledn=C3=A9 otvor=C3=AD proces v GATE (DSA p=
-odpisovanie)</span></p></li>
-<li><span style=3D"color: rgb(255,0,0);">Syst=C3=A9m po podpise v GATE zobr=
-az=C3=AD formul=C3=A1r v CashBoxe kde sa nach=C3=A1dza kr=C3=A1tke fin=C3=
-=A1lne potvrdenie</span></li>
-<li><span style=3D"color: rgb(255,0,0);">Pou=C5=BE=C3=ADvate=C4=BE po =C3=
-=BAspe=C5=A1nej kontrole zvol=C3=AD mo=C5=BEnos=C5=A5 Ulo=C5=BEi=C5=A5 a uz=
-avrie=C5=A5</span></li>
-<li><span style=3D"color: rgb(255,0,0);">Koniec UC</span></li>
+vol=C3=AD </span><strong>Potvrdi=C5=A5</strong></p></li>
+<li><p><span style=3D"letter-spacing: 0.0px;">Syst=C3=A9m:</span></p>
+<ul>
+<li style=3D"list-style-type: none;">
+<ul>
+<li>zavol=C3=A1 winward a vygeneruje dokument=C3=A1ciu pre vklad pod=C4=BEa=
+<span>&nbsp;</span><a href=3D"https://confluenceit.tatrabanka.sk/confluence=
+/display/DOKIT/Klientske+dokumenty" rel=3D"nofollow">Klientske dokumenty - =
+AppLib - ConfluenceIT</a>&nbsp;a zalo=C5=BE=C3=AD podpisovac=C3=AD proces v=
+ DSA aplik=C3=A1cii</li>
+<li>presmeruje pracovn=C3=ADka TB z okna aplik=C3=A1cie do aplik=C3=A1cie D=
+SA a otvor=C3=AD vytvoren=C3=BD podpisovac=C3=AD proces</li>
+<li>Klient TB s Pracovn=C3=ADk TB vykonaj=C3=BA podpisovanie dokumentov v a=
+plik=C3=A1cii DSA</li>
+</ul></li>
+</ul></li>
+<li style=3D"color: rgb(0,51,102);"><span style=3D"color: rgb(0,51,102);">S=
+yst=C3=A9m obdr=C5=BE=C3=AD inform=C3=A1ciu z aplik=C3=A1cie DSA o korektno=
+m dokon=C4=8Den=C3=AD podpisovania</span>
+<ul>
+<li>zobraz=C3=AD hl=C3=A1senie typu info :<span>&nbsp;</span><a href=3D"htt=
+ps://confluenceit.tatrabanka.sk/confluence/pages/viewpage.action?pageId=3D2=
+01603793" rel=3D"nofollow" style=3D"">I024</a> a&nbsp;<a href=3D"https://co=
+nfluenceit.tatrabanka.sk/confluence/pages/viewpage.action?pageId=3D20160379=
+3#:~:text=3Dproces%20%C3%BAspe%C5%A1ne%20ukon%C4%8Den%C3%BD-,I025,-%2D%20Pr=
+os%C3%ADm%20nezabudnite%20vzia%C5%A5" rel=3D"nofollow">I025 </a></li>
+</ul></li>
+<li style=3D"color: rgb(0,51,102);"><span style=3D"color: rgb(0,51,102);">P=
+ou=C5=BE=C3=ADvate=C4=BE po =C3=BAspe=C5=A1nej kontrole zvol=C3=AD mo=C5=BE=
+nos=C5=A5 <strong>Ulo=C5=BEi=C5=A5</strong> <strong>a uzavrie=C5=A5</strong=
+></span></li>
+<li style=3D"color: rgb(0,51,102);"><span style=3D"color: rgb(0,51,102);">K=
+oniec UC</span></li>
 </ol>
 <p><span style=3D"color: rgb(255,0,0);"><span style=3D"color: rgb(0,0,0);">=
 <strong>Rozmienanie hotovosti (fyzick=C3=A1 osoba v mene pr=C3=A1vnickej os=
@@ -444,7 +416,7 @@ action?pageId=3D234578400#:~:text=3D%C2%A0Rozmienanie%20hotovosti%20(fyzick=
 <li>Rozdiel je iba v:</li>
 <ol>
 <li>Syst=C3=A9m dotiahne do obrazovky okrem fyzickej osobe inform=C3=A1cie =
-aj firemn=C3=A9 =C3=BAdaje (solo=C4=8Dnos=C5=A5, Adresa, I=C4=8CO a at=C4=
+aj firemn=C3=A9 =C3=BAdaje (spolo=C4=8Dnos=C5=A5, Adresa, I=C4=8CO a at=C4=
 =8F) a zobraz=C3=AD ich v s=C3=BAhrne</li>
 <li>Syst=C3=A9m nastav=C3=AD re=C5=BEim bez z=C4=BEavy&nbsp;</li>
 <li>Poplatok sa rie=C5=A1i v hotovosti cez poplatkov=C3=BA mincovku (kroky =
@@ -757,4 +729,4 @@ td>
     </div>
 </body>
 </html>
-------=_Part_4352_2085848383.1772029671644--
+------=_Part_13777_600556790.1772610585549--
